@@ -1,0 +1,3724 @@
+country,year,life_exp,ppp_cap,name_sort,iso_a3
+Albania,1949,51.4,1830,Albania,ALB
+Albania,1950,52.2,1840,Albania,ALB
+Albania,1951,53.6,1920,Albania,ALB
+Albania,1952,54.5,1920,Albania,ALB
+Albania,1953,55.4,2000,Albania,ALB
+Albania,1954,56.1,2050,Albania,ALB
+Albania,1955,56.3,2170,Albania,ALB
+Albania,1956,58,2190,Albania,ALB
+Albania,1957,59.3,2330,Albania,ALB
+Albania,1958,61,2430,Albania,ALB
+Albania,1959,61.7,2530,Albania,ALB
+Albania,1960,62.5,2660,Albania,ALB
+Albania,1961,63.3,2690,Albania,ALB
+Albania,1962,63.3,2780,Albania,ALB
+Albania,1963,63.8,2880,Albania,ALB
+Albania,1964,64.4,2990,Albania,ALB
+Albania,1965,64.8,3100,Albania,ALB
+Albania,1966,65.5,3220,Albania,ALB
+Albania,1967,66.1,3350,Albania,ALB
+Albania,1968,66.5,3480,Albania,ALB
+Albania,1969,67.1,3600,Albania,ALB
+Albania,1970,67.8,3740,Albania,ALB
+Albania,1971,68.3,3900,Albania,ALB
+Albania,1972,68.8,4060,Albania,ALB
+Albania,1973,69.3,4270,Albania,ALB
+Albania,1974,69.8,4300,Albania,ALB
+Albania,1975,70.2,4320,Albania,ALB
+Albania,1976,70.7,4340,Albania,ALB
+Albania,1977,71.1,4370,Albania,ALB
+Albania,1978,71.7,4400,Albania,ALB
+Albania,1979,71.3,4430,Albania,ALB
+Albania,1980,71.3,4470,Albania,ALB
+Albania,1981,71.3,4500,Albania,ALB
+Albania,1982,71.4,4530,Albania,ALB
+Albania,1983,71.2,4570,Albania,ALB
+Albania,1984,71.4,4600,Albania,ALB
+Albania,1985,71.9,4630,Albania,ALB
+Albania,1986,72.3,4670,Albania,ALB
+Albania,1987,72.2,4710,Albania,ALB
+Albania,1988,72.4,4750,Albania,ALB
+Albania,1989,72.5,4790,Albania,ALB
+Albania,1990,72.8,4840,Albania,ALB
+Albania,1991,72.6,3510,Albania,ALB
+Albania,1992,73.2,3280,Albania,ALB
+Albania,1993,73.8,3610,Albania,ALB
+Albania,1994,74.6,3930,Albania,ALB
+Albania,1995,74.6,4490,Albania,ALB
+Albania,1996,74.5,4930,Albania,ALB
+Albania,1997,72.9,4420,Albania,ALB
+Albania,1998,74.8,4840,Albania,ALB
+Albania,1999,75.1,5490,Albania,ALB
+Albania,2000,75.4,5910,Albania,ALB
+Albania,2001,76,6460,Albania,ALB
+Albania,2002,75.9,6780,Albania,ALB
+Albania,2003,75.6,7180,Albania,ALB
+Albania,2004,75.8,7610,Albania,ALB
+Albania,2005,76.2,8070,Albania,ALB
+Albania,2006,76.9,8600,Albania,ALB
+Albania,2007,77.5,9180,Albania,ALB
+Albania,2008,77.6,9940,Albania,ALB
+Albania,2009,78,10300,Albania,ALB
+Albania,2010,78.1,10800,Albania,ALB
+Albania,2011,78.1,11100,Albania,ALB
+Albania,2012,78.2,11300,Albania,ALB
+Albania,2013,78.3,11400,Albania,ALB
+Albania,2014,78.2,11600,Albania,ALB
+Albania,2015,78.1,11900,Albania,ALB
+Albania,2016,78.2,12300,Albania,ALB
+Albania,2017,78.3,12800,Albania,ALB
+Albania,2018,78.4,13400,Albania,ALB
+Albania,2019,78.5,13700,Albania,ALB
+Albania,2020,77.9,13300,Albania,ALB
+Albania,2021,78.7,13900,Albania,ALB
+Andorra,1949,NA,7680,Andorra,AND
+Andorra,1950,74.6,7810,Andorra,AND
+Andorra,1951,74.7,8440,Andorra,AND
+Andorra,1952,74.8,9130,Andorra,AND
+Andorra,1953,75,9870,Andorra,AND
+Andorra,1954,75.1,10700,Andorra,AND
+Andorra,1955,75.2,11500,Andorra,AND
+Andorra,1956,75.3,12500,Andorra,AND
+Andorra,1957,75.4,13500,Andorra,AND
+Andorra,1958,75.5,14600,Andorra,AND
+Andorra,1959,75.6,15800,Andorra,AND
+Andorra,1960,75.7,17000,Andorra,AND
+Andorra,1961,75.8,18400,Andorra,AND
+Andorra,1962,75.9,19900,Andorra,AND
+Andorra,1963,76,21500,Andorra,AND
+Andorra,1964,76.2,23300,Andorra,AND
+Andorra,1965,76.3,25200,Andorra,AND
+Andorra,1966,76.4,27200,Andorra,AND
+Andorra,1967,76.5,29400,Andorra,AND
+Andorra,1968,76.7,31800,Andorra,AND
+Andorra,1969,76.8,34400,Andorra,AND
+Andorra,1970,77,37100,Andorra,AND
+Andorra,1971,77.1,36900,Andorra,AND
+Andorra,1972,77.2,38000,Andorra,AND
+Andorra,1973,77.4,39000,Andorra,AND
+Andorra,1974,77.5,39400,Andorra,AND
+Andorra,1975,77.7,38100,Andorra,AND
+Andorra,1976,77.8,38100,Andorra,AND
+Andorra,1977,78,38000,Andorra,AND
+Andorra,1978,78.1,37400,Andorra,AND
+Andorra,1979,78.2,36300,Andorra,AND
+Andorra,1980,78.3,35800,Andorra,AND
+Andorra,1981,78.4,34400,Andorra,AND
+Andorra,1982,78.5,33400,Andorra,AND
+Andorra,1983,78.5,32600,Andorra,AND
+Andorra,1984,78.6,31700,Andorra,AND
+Andorra,1985,78.7,31100,Andorra,AND
+Andorra,1986,78.8,30800,Andorra,AND
+Andorra,1987,78.8,31200,Andorra,AND
+Andorra,1988,78.9,31500,Andorra,AND
+Andorra,1989,79,31800,Andorra,AND
+Andorra,1990,79,31800,Andorra,AND
+Andorra,1991,79.1,31300,Andorra,AND
+Andorra,1992,79.2,30400,Andorra,AND
+Andorra,1993,79.3,29100,Andorra,AND
+Andorra,1994,79.5,29000,Andorra,AND
+Andorra,1995,79.8,29200,Andorra,AND
+Andorra,1996,80,30400,Andorra,AND
+Andorra,1997,80.2,33200,Andorra,AND
+Andorra,1998,80.4,34500,Andorra,AND
+Andorra,1999,80.6,35700,Andorra,AND
+Andorra,2000,80.8,35400,Andorra,AND
+Andorra,2001,80.9,35500,Andorra,AND
+Andorra,2002,81.1,35600,Andorra,AND
+Andorra,2003,81.2,38600,Andorra,AND
+Andorra,2004,81.3,40600,Andorra,AND
+Andorra,2005,81.4,44500,Andorra,AND
+Andorra,2006,81.5,47800,Andorra,AND
+Andorra,2007,81.7,48600,Andorra,AND
+Andorra,2008,81.8,46300,Andorra,AND
+Andorra,2009,81.8,46700,Andorra,AND
+Andorra,2010,81.8,43600,Andorra,AND
+Andorra,2011,81.9,46900,Andorra,AND
+Andorra,2012,81.9,46900,Andorra,AND
+Andorra,2013,82,48900,Andorra,AND
+Andorra,2014,82,50200,Andorra,AND
+Andorra,2015,82,52100,Andorra,AND
+Andorra,2016,82.1,53900,Andorra,AND
+Andorra,2017,82.1,55600,Andorra,AND
+Andorra,2018,82.1,57600,Andorra,AND
+Andorra,2019,82.2,59600,Andorra,AND
+Andorra,2020,NA,61600,Andorra,AND
+Andorra,2021,NA,63700,Andorra,AND
+Armenia,1949,47.9,3700,Armenia,ARM
+Armenia,1950,48.2,4080,Armenia,ARM
+Armenia,1951,49,4100,Armenia,ARM
+Armenia,1952,50,4360,Armenia,ARM
+Armenia,1953,51.1,4550,Armenia,ARM
+Armenia,1954,52.1,4770,Armenia,ARM
+Armenia,1955,53.3,5170,Armenia,ARM
+Armenia,1956,54.5,5660,Armenia,ARM
+Armenia,1957,55.7,5770,Armenia,ARM
+Armenia,1958,56.5,6190,Armenia,ARM
+Armenia,1959,58,6110,Armenia,ARM
+Armenia,1960,59.2,6670,Armenia,ARM
+Armenia,1961,60.4,6870,Armenia,ARM
+Armenia,1962,61.4,6870,Armenia,ARM
+Armenia,1963,62,6550,Armenia,ARM
+Armenia,1964,62.9,7210,Armenia,ARM
+Armenia,1965,63.6,7440,Armenia,ARM
+Armenia,1966,64.2,7620,Armenia,ARM
+Armenia,1967,64.7,7770,Armenia,ARM
+Armenia,1968,65.1,8040,Armenia,ARM
+Armenia,1969,65.3,7960,Armenia,ARM
+Armenia,1970,65.9,8370,Armenia,ARM
+Armenia,1971,66.4,8380,Armenia,ARM
+Armenia,1972,66.8,8210,Armenia,ARM
+Armenia,1973,67.2,8670,Armenia,ARM
+Armenia,1974,67.9,8400,Armenia,ARM
+Armenia,1975,68.2,8140,Armenia,ARM
+Armenia,1976,69,7880,Armenia,ARM
+Armenia,1977,69.5,7630,Armenia,ARM
+Armenia,1978,69.7,7370,Armenia,ARM
+Armenia,1979,70.2,7130,Armenia,ARM
+Armenia,1980,70.2,6880,Armenia,ARM
+Armenia,1981,70.5,6880,Armenia,ARM
+Armenia,1982,70.8,6860,Armenia,ARM
+Armenia,1983,70.8,6700,Armenia,ARM
+Armenia,1984,71.1,6710,Armenia,ARM
+Armenia,1985,71.3,6690,Armenia,ARM
+Armenia,1986,71.7,6420,Armenia,ARM
+Armenia,1987,71.8,5850,Armenia,ARM
+Armenia,1988,55.3,5360,Armenia,ARM
+Armenia,1989,71,5850,Armenia,ARM
+Armenia,1990,70.6,5180,Armenia,ARM
+Armenia,1991,70.3,4620,Armenia,ARM
+Armenia,1992,69.4,2740,Armenia,ARM
+Armenia,1993,69,2550,Armenia,ARM
+Armenia,1994,69.5,2760,Armenia,ARM
+Armenia,1995,70.1,3010,Armenia,ARM
+Armenia,1996,70.4,3230,Armenia,ARM
+Armenia,1997,71.1,3380,Armenia,ARM
+Armenia,1998,71.6,3650,Armenia,ARM
+Armenia,1999,71.9,3800,Armenia,ARM
+Armenia,2000,72.4,4050,Armenia,ARM
+Armenia,2001,72.5,4460,Armenia,ARM
+Armenia,2002,72.7,5080,Armenia,ARM
+Armenia,2003,72.8,5820,Armenia,ARM
+Armenia,2004,73,6470,Armenia,ARM
+Armenia,2005,73,7420,Armenia,ARM
+Armenia,2006,73.1,8460,Armenia,ARM
+Armenia,2007,73.5,9710,Armenia,ARM
+Armenia,2008,73.5,10500,Armenia,ARM
+Armenia,2009,73.6,9050,Armenia,ARM
+Armenia,2010,73.9,9290,Armenia,ARM
+Armenia,2011,74.2,9730,Armenia,ARM
+Armenia,2012,74.6,10400,Armenia,ARM
+Armenia,2013,75.1,10700,Armenia,ARM
+Armenia,2014,75.2,11000,Armenia,ARM
+Armenia,2015,75.1,11300,Armenia,ARM
+Armenia,2016,75.3,11300,Armenia,ARM
+Armenia,2017,75.5,12100,Armenia,ARM
+Armenia,2018,75.6,12700,Armenia,ARM
+Armenia,2019,75.7,13700,Armenia,ARM
+Armenia,2020,74,12600,Armenia,ARM
+Armenia,2021,76,12700,Armenia,ARM
+Austria,1949,63.4,6040,Austria,AUT
+Austria,1950,64.8,6790,Austria,AUT
+Austria,1951,65.5,7260,Austria,AUT
+Austria,1952,66.7,7270,Austria,AUT
+Austria,1953,67.2,7580,Austria,AUT
+Austria,1954,67.3,8350,Austria,AUT
+Austria,1955,67.7,9260,Austria,AUT
+Austria,1956,67.8,9900,Austria,AUT
+Austria,1957,67.8,10500,Austria,AUT
+Austria,1958,68.4,10800,Austria,AUT
+Austria,1959,68.5,11100,Austria,AUT
+Austria,1960,69,12000,Austria,AUT
+Austria,1961,69.6,12600,Austria,AUT
+Austria,1962,69.7,12900,Austria,AUT
+Austria,1963,69.8,13500,Austria,AUT
+Austria,1964,70,14300,Austria,AUT
+Austria,1965,70.1,14700,Austria,AUT
+Austria,1966,70.2,15500,Austria,AUT
+Austria,1967,70.2,16000,Austria,AUT
+Austria,1968,70.3,16700,Austria,AUT
+Austria,1969,70.2,17800,Austria,AUT
+Austria,1970,70.2,19100,Austria,AUT
+Austria,1971,70.4,20200,Austria,AUT
+Austria,1972,70.7,21400,Austria,AUT
+Austria,1973,71.1,22500,Austria,AUT
+Austria,1974,71.2,23500,Austria,AUT
+Austria,1975,71.4,23600,Austria,AUT
+Austria,1976,71.8,24900,Austria,AUT
+Austria,1977,72.2,26200,Austria,AUT
+Austria,1978,72.4,26300,Austria,AUT
+Austria,1979,72.6,28000,Austria,AUT
+Austria,1980,72.8,28800,Austria,AUT
+Austria,1981,73.1,28900,Austria,AUT
+Austria,1982,73.3,29600,Austria,AUT
+Austria,1983,73.5,30700,Austria,AUT
+Austria,1984,73.9,31000,Austria,AUT
+Austria,1985,74.3,31800,Austria,AUT
+Austria,1986,74.7,32700.000000000004,Austria,AUT
+Austria,1987,75.1,33400,Austria,AUT
+Austria,1988,75.5,34600,Austria,AUT
+Austria,1989,75.7,36200,Austria,AUT
+Austria,1990,76,37600,Austria,AUT
+Austria,1991,76.1,38500,Austria,AUT
+Austria,1992,76.3,38800,Austria,AUT
+Austria,1993,76.5,38700,Austria,AUT
+Austria,1994,76.7,39500,Austria,AUT
+Austria,1995,77,40500,Austria,AUT
+Austria,1996,77.3,41400,Austria,AUT
+Austria,1997,77.7,42200,Austria,AUT
+Austria,1998,77.9,43700,Austria,AUT
+Austria,1999,78.2,45100,Austria,AUT
+Austria,2000,78.5,46600,Austria,AUT
+Austria,2001,78.9,47000,Austria,AUT
+Austria,2002,79,47500,Austria,AUT
+Austria,2003,79.1,47700,Austria,AUT
+Austria,2004,79.5,48700,Austria,AUT
+Austria,2005,79.8,49500,Austria,AUT
+Austria,2006,80.1,50900,Austria,AUT
+Austria,2007,80.3,52700,Austria,AUT
+Austria,2008,80.5,53300,Austria,AUT
+Austria,2009,80.5,51100,Austria,AUT
+Austria,2010,80.8,51900,Austria,AUT
+Austria,2011,81,53300,Austria,AUT
+Austria,2012,81.2,53400,Austria,AUT
+Austria,2013,81.3,53100,Austria,AUT
+Austria,2014,81.5,53000,Austria,AUT
+Austria,2015,81.6,53000,Austria,AUT
+Austria,2016,81.8,53400,Austria,AUT
+Austria,2017,82,54300,Austria,AUT
+Austria,2018,82.1,55500,Austria,AUT
+Austria,2019,82.2,56000,Austria,AUT
+Austria,2020,81.5,52100,Austria,AUT
+Austria,2021,82.4,53600,Austria,AUT
+Azerbaijan,1949,36.5,3720,Azerbaijan,AZE
+Azerbaijan,1950,37.8,4020,Azerbaijan,AZE
+Azerbaijan,1951,38.4,3960,Azerbaijan,AZE
+Azerbaijan,1952,39.4,4140,Azerbaijan,AZE
+Azerbaijan,1953,40.3,4240,Azerbaijan,AZE
+Azerbaijan,1954,41.1,4370,Azerbaijan,AZE
+Azerbaijan,1955,42.2,4650,Azerbaijan,AZE
+Azerbaijan,1956,43.5,5000,Azerbaijan,AZE
+Azerbaijan,1957,44.5,5010,Azerbaijan,AZE
+Azerbaijan,1958,45.3,5280,Azerbaijan,AZE
+Azerbaijan,1959,46.9,5120,Azerbaijan,AZE
+Azerbaijan,1960,48.6,5500,Azerbaijan,AZE
+Azerbaijan,1961,50.2,5680,Azerbaijan,AZE
+Azerbaijan,1962,51.7,5700,Azerbaijan,AZE
+Azerbaijan,1963,53.1,5460,Azerbaijan,AZE
+Azerbaijan,1964,54.4,6050,Azerbaijan,AZE
+Azerbaijan,1965,55.6,6280,Azerbaijan,AZE
+Azerbaijan,1966,56.6,6470,Azerbaijan,AZE
+Azerbaijan,1967,57.5,6640,Azerbaijan,AZE
+Azerbaijan,1968,58.2,6920,Azerbaijan,AZE
+Azerbaijan,1969,58.4,6910,Azerbaijan,AZE
+Azerbaijan,1970,59.9,7330,Azerbaijan,AZE
+Azerbaijan,1971,61,7410,Azerbaijan,AZE
+Azerbaijan,1972,61.9,7330,Azerbaijan,AZE
+Azerbaijan,1973,62.8,7820,Azerbaijan,AZE
+Azerbaijan,1974,63.7,7810,Azerbaijan,AZE
+Azerbaijan,1975,64.3,7800,Azerbaijan,AZE
+Azerbaijan,1976,65.2,7790,Azerbaijan,AZE
+Azerbaijan,1977,65.3,7790,Azerbaijan,AZE
+Azerbaijan,1978,64.8,7780,Azerbaijan,AZE
+Azerbaijan,1979,65.6,7770,Azerbaijan,AZE
+Azerbaijan,1980,66.2,7760,Azerbaijan,AZE
+Azerbaijan,1981,66.3,8090,Azerbaijan,AZE
+Azerbaijan,1982,66.6,8430,Azerbaijan,AZE
+Azerbaijan,1983,66.8,8590,Azerbaijan,AZE
+Azerbaijan,1984,66.8,8940,Azerbaijan,AZE
+Azerbaijan,1985,66.9,9120,Azerbaijan,AZE
+Azerbaijan,1986,66.9,9210,Azerbaijan,AZE
+Azerbaijan,1987,66.8,9530,Azerbaijan,AZE
+Azerbaijan,1988,66.8,9850,Azerbaijan,AZE
+Azerbaijan,1989,67,8860,Azerbaijan,AZE
+Azerbaijan,1990,66.9,7760,Azerbaijan,AZE
+Azerbaijan,1991,66.3,7590,Azerbaijan,AZE
+Azerbaijan,1992,64.5,5780,Azerbaijan,AZE
+Azerbaijan,1993,64.3,4380,Azerbaijan,AZE
+Azerbaijan,1994,63.8,3470,Azerbaijan,AZE
+Azerbaijan,1995,64.7,3030,Azerbaijan,AZE
+Azerbaijan,1996,65.3,3030,Azerbaijan,AZE
+Azerbaijan,1997,65.7,3180,Azerbaijan,AZE
+Azerbaijan,1998,66,3460,Azerbaijan,AZE
+Azerbaijan,1999,66.2,3690,Azerbaijan,AZE
+Azerbaijan,2000,66.5,4060,Azerbaijan,AZE
+Azerbaijan,2001,67.1,4430,Azerbaijan,AZE
+Azerbaijan,2002,67.2,4810,Azerbaijan,AZE
+Azerbaijan,2003,67.1,5270,Azerbaijan,AZE
+Azerbaijan,2004,67.2,5700,Azerbaijan,AZE
+Azerbaijan,2005,67.3,7220,Azerbaijan,AZE
+Azerbaijan,2006,67.7,9610,Azerbaijan,AZE
+Azerbaijan,2007,68.2,11900,Azerbaijan,AZE
+Azerbaijan,2008,68.5,12900,Azerbaijan,AZE
+Azerbaijan,2009,68.8,13800,Azerbaijan,AZE
+Azerbaijan,2010,69,14300,Azerbaijan,AZE
+Azerbaijan,2011,69.2,13900,Azerbaijan,AZE
+Azerbaijan,2012,69.5,14000,Azerbaijan,AZE
+Azerbaijan,2013,69.7,14700,Azerbaijan,AZE
+Azerbaijan,2014,69.9,14900,Azerbaijan,AZE
+Azerbaijan,2015,70.2,14900,Azerbaijan,AZE
+Azerbaijan,2016,70.3,14200,Azerbaijan,AZE
+Azerbaijan,2017,70.4,14100,Azerbaijan,AZE
+Azerbaijan,2018,70.8,14200,Azerbaijan,AZE
+Azerbaijan,2019,71,14400,Azerbaijan,AZE
+Azerbaijan,2020,70.4,13600,Azerbaijan,AZE
+Azerbaijan,2021,71.2,13800,Azerbaijan,AZE
+Belgium,1949,65.7,9520,Belgium,BEL
+Belgium,1950,66.6,10000,Belgium,BEL
+Belgium,1951,67.1,10500,Belgium,BEL
+Belgium,1952,68,10400,Belgium,BEL
+Belgium,1953,68.5,10700,Belgium,BEL
+Belgium,1954,68.7,11100,Belgium,BEL
+Belgium,1955,68.8,11500,Belgium,BEL
+Belgium,1956,69,11800,Belgium,BEL
+Belgium,1957,69.5,11900,Belgium,BEL
+Belgium,1958,70,11800,Belgium,BEL
+Belgium,1959,70.2,12100,Belgium,BEL
+Belgium,1960,70.1,12700,Belgium,BEL
+Belgium,1961,70.4,13400,Belgium,BEL
+Belgium,1962,70.4,14000,Belgium,BEL
+Belgium,1963,70.4,14600,Belgium,BEL
+Belgium,1964,70.7,15600,Belgium,BEL
+Belgium,1965,70.8,16000,Belgium,BEL
+Belgium,1966,70.8,16500,Belgium,BEL
+Belgium,1967,70.8,17100,Belgium,BEL
+Belgium,1968,70.8,17900,Belgium,BEL
+Belgium,1969,70.9,19100,Belgium,BEL
+Belgium,1970,71.1,20300,Belgium,BEL
+Belgium,1971,71.3,21100,Belgium,BEL
+Belgium,1972,71.5,22200,Belgium,BEL
+Belgium,1973,71.8,23600,Belgium,BEL
+Belgium,1974,72,24600,Belgium,BEL
+Belgium,1975,72.2,24300,Belgium,BEL
+Belgium,1976,72.4,25700,Belgium,BEL
+Belgium,1977,72.8,26000,Belgium,BEL
+Belgium,1978,72.9,26800,Belgium,BEL
+Belgium,1979,73.2,27500,Belgium,BEL
+Belgium,1980,73.3,28800,Belgium,BEL
+Belgium,1981,73.6,28600,Belgium,BEL
+Belgium,1982,73.8,29100,Belgium,BEL
+Belgium,1983,74,29200,Belgium,BEL
+Belgium,1984,74.3,30000,Belgium,BEL
+Belgium,1985,74.6,30400,Belgium,BEL
+Belgium,1986,74.9,31000,Belgium,BEL
+Belgium,1987,75.3,31800,Belgium,BEL
+Belgium,1988,75.7,33400,Belgium,BEL
+Belgium,1989,75.9,34500,Belgium,BEL
+Belgium,1990,76.2,35600,Belgium,BEL
+Belgium,1991,76.4,36100,Belgium,BEL
+Belgium,1992,76.5,36500,Belgium,BEL
+Belgium,1993,76.6,36000,Belgium,BEL
+Belgium,1994,76.8,37100,Belgium,BEL
+Belgium,1995,77,37900,Belgium,BEL
+Belgium,1996,77.3,38300,Belgium,BEL
+Belgium,1997,77.5,39700,Belgium,BEL
+Belgium,1998,77.7,40400,Belgium,BEL
+Belgium,1999,77.8,41700,Belgium,BEL
+Belgium,2000,78,43200,Belgium,BEL
+Belgium,2001,78.3,43500,Belgium,BEL
+Belgium,2002,78.5,44000,Belgium,BEL
+Belgium,2003,78.7,44300,Belgium,BEL
+Belgium,2004,79.1,45700,Belgium,BEL
+Belgium,2005,79.3,46500,Belgium,BEL
+Belgium,2006,79.6,47400,Belgium,BEL
+Belgium,2007,79.8,48700,Belgium,BEL
+Belgium,2008,79.9,48600,Belgium,BEL
+Belgium,2009,80,47200,Belgium,BEL
+Belgium,2010,80.2,48100,Belgium,BEL
+Belgium,2011,80.4,48300,Belgium,BEL
+Belgium,2012,80.5,48400,Belgium,BEL
+Belgium,2013,80.7,48400,Belgium,BEL
+Belgium,2014,81,48900,Belgium,BEL
+Belgium,2015,81.1,49600,Belgium,BEL
+Belgium,2016,81.3,50000,Belgium,BEL
+Belgium,2017,81.4,50600,Belgium,BEL
+Belgium,2018,81.4,51300,Belgium,BEL
+Belgium,2019,81.4,51900,Belgium,BEL
+Belgium,2020,80.2,48300,Belgium,BEL
+Belgium,2021,81.7,50100,Belgium,BEL
+Bulgaria,1949,57.6,2760,Bulgaria,BGR
+Bulgaria,1950,61,3030,Bulgaria,BGR
+Bulgaria,1951,60.2,3650,Bulgaria,BGR
+Bulgaria,1952,60.1,3470,Bulgaria,BGR
+Bulgaria,1953,64,3820,Bulgaria,BGR
+Bulgaria,1954,64.6,3710,Bulgaria,BGR
+Bulgaria,1955,64.9,3940,Bulgaria,BGR
+Bulgaria,1956,65.7,3900,Bulgaria,BGR
+Bulgaria,1957,66.8,4270,Bulgaria,BGR
+Bulgaria,1958,68.7,4600,Bulgaria,BGR
+Bulgaria,1959,67.2,4920,Bulgaria,BGR
+Bulgaria,1960,69.4,5340,Bulgaria,BGR
+Bulgaria,1961,70.3,5670,Bulgaria,BGR
+Bulgaria,1962,70,6110,Bulgaria,BGR
+Bulgaria,1963,70.5,6380,Bulgaria,BGR
+Bulgaria,1964,71.3,6870,Bulgaria,BGR
+Bulgaria,1965,71.5,7270,Bulgaria,BGR
+Bulgaria,1966,71.4,7840,Bulgaria,BGR
+Bulgaria,1967,70.9,8250,Bulgaria,BGR
+Bulgaria,1968,71.4,8390,Bulgaria,BGR
+Bulgaria,1969,70.7,8780,Bulgaria,BGR
+Bulgaria,1970,71.5,9280,Bulgaria,BGR
+Bulgaria,1971,71,9580,Bulgaria,BGR
+Bulgaria,1972,71.1,10000,Bulgaria,BGR
+Bulgaria,1973,71.5,10400,Bulgaria,BGR
+Bulgaria,1974,71.3,10800,Bulgaria,BGR
+Bulgaria,1975,71.3,11700,Bulgaria,BGR
+Bulgaria,1976,71.4,12000,Bulgaria,BGR
+Bulgaria,1977,71,11900,Bulgaria,BGR
+Bulgaria,1978,71.2,12200,Bulgaria,BGR
+Bulgaria,1979,71.1,12800,Bulgaria,BGR
+Bulgaria,1980,71.2,12400,Bulgaria,BGR
+Bulgaria,1981,71.3,12800,Bulgaria,BGR
+Bulgaria,1982,71,13200,Bulgaria,BGR
+Bulgaria,1983,70.9,13000,Bulgaria,BGR
+Bulgaria,1984,70.5,13500,Bulgaria,BGR
+Bulgaria,1985,70.4,13100,Bulgaria,BGR
+Bulgaria,1986,70.4,13500,Bulgaria,BGR
+Bulgaria,1987,70.3,13600,Bulgaria,BGR
+Bulgaria,1988,70.1,13600,Bulgaria,BGR
+Bulgaria,1989,70.1,13400,Bulgaria,BGR
+Bulgaria,1990,70.1,12100,Bulgaria,BGR
+Bulgaria,1991,70.1,11200,Bulgaria,BGR
+Bulgaria,1992,69.8,10500,Bulgaria,BGR
+Bulgaria,1993,69.7,10400,Bulgaria,BGR
+Bulgaria,1994,69.3,10600,Bulgaria,BGR
+Bulgaria,1995,69.4,11000,Bulgaria,BGR
+Bulgaria,1996,69.3,11600,Bulgaria,BGR
+Bulgaria,1997,68.9,10000,Bulgaria,BGR
+Bulgaria,1998,69.4,10500,Bulgaria,BGR
+Bulgaria,1999,70,9720,Bulgaria,BGR
+Bulgaria,2000,70.2,10200,Bulgaria,BGR
+Bulgaria,2001,70.4,10800,Bulgaria,BGR
+Bulgaria,2002,70.7,11700,Bulgaria,BGR
+Bulgaria,2003,70.9,12400,Bulgaria,BGR
+Bulgaria,2004,71,13300,Bulgaria,BGR
+Bulgaria,2005,71.1,14400,Bulgaria,BGR
+Bulgaria,2006,71.2,15500,Bulgaria,BGR
+Bulgaria,2007,71.5,16600,Bulgaria,BGR
+Bulgaria,2008,71.9,17800,Bulgaria,BGR
+Bulgaria,2009,72.1,17300,Bulgaria,BGR
+Bulgaria,2010,72.3,17500,Bulgaria,BGR
+Bulgaria,2011,72.7,18000,Bulgaria,BGR
+Bulgaria,2012,73,18200,Bulgaria,BGR
+Bulgaria,2013,73.3,18400,Bulgaria,BGR
+Bulgaria,2014,73,18800,Bulgaria,BGR
+Bulgaria,2015,73.2,19700,Bulgaria,BGR
+Bulgaria,2016,73.3,20600,Bulgaria,BGR
+Bulgaria,2017,73.3,21500,Bulgaria,BGR
+Bulgaria,2018,73.3,22300,Bulgaria,BGR
+Bulgaria,2019,73.3,23300,Bulgaria,BGR
+Bulgaria,2020,71.8,22500,Bulgaria,BGR
+Bulgaria,2021,73.6,23600,Bulgaria,BGR
+Bosnia and Herzegovina,1949,50.4,2490,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1950,51.1,2310,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1951,49.2,2380,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1952,53.7,2180,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1953,53.6,2160,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1954,56.6,2120,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1955,55.5,2610,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1956,57.1,2220,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1957,57.5,2550,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1958,61.2,2630,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1959,60.7,3070,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1960,61.3,3300,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1961,63,3360,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1962,62.2,3300,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1963,63.5,3650,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1964,63.4,3990,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1965,64.2,4030,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1966,65.8,4230,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1967,65.3,4060,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1968,65.5,4120,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1969,65,4340,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1970,65.9,4380,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1971,66.6,4540,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1972,66.7,4620,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1973,67.6,4660,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1974,68.1,4860,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1975,68.3,4880,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1976,68.9,4790,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1977,69.2,5030,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1978,69.2,5200,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1979,69.5,5420,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1980,69.7,5470,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1981,69.9,5480,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1982,70,5400,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1983,69.6,5220,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1984,70.2,5130,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1985,71.4,5020,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1986,71.9,5020,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1987,72,4750,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1988,72.2,4470,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1989,72.3,4360,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1990,73.2,3710,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1991,72.5,3130,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1992,68.1,2260,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1993,69,1610,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1994,70.7,1660,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1995,66.2,2060,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1996,73.5,3960,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1997,73.9,5360,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1998,74.9,6200,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,1999,75.4,6780,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2000,75.5,7140,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2001,75.3,7440,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2002,75.1,7830,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2003,75.3,8140,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2004,75.5,8630,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2005,75.3,9380,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2006,75.6,9890,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2007,75.3,10500,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2008,75.9,11100,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2009,76.1,10800,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2010,76.3,11000,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2011,76.4,11200,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2012,76.7,11300,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2013,76.6,11800,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2014,76.7,12100,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2015,76.5,12700,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2016,76.7,13200,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2017,76.8,13800,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2018,76.9,14400,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2019,77,14900,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2020,75.4,14200,Bosnia and Herzegovina,BIH
+Bosnia and Herzegovina,2021,77.3,14800,Bosnia and Herzegovina,BIH
+Belarus,1949,66.1,3160,Belarus,BLR
+Belarus,1950,68.2,3460,Belarus,BLR
+Belarus,1951,68.3,3450,Belarus,BLR
+Belarus,1952,68.5,3650,Belarus,BLR
+Belarus,1953,68.8,3780,Belarus,BLR
+Belarus,1954,69.1,3940,Belarus,BLR
+Belarus,1955,69.3,4240,Belarus,BLR
+Belarus,1956,69.7,4610,Belarus,BLR
+Belarus,1957,70,4670,Belarus,BLR
+Belarus,1958,70.1,4980,Belarus,BLR
+Belarus,1959,69.7,4880,Belarus,BLR
+Belarus,1960,71,5300,Belarus,BLR
+Belarus,1961,71.5,5490,Belarus,BLR
+Belarus,1962,71.2,5530,Belarus,BLR
+Belarus,1963,71.8,5300,Belarus,BLR
+Belarus,1964,72.8,5920,Belarus,BLR
+Belarus,1965,72.6,6200,Belarus,BLR
+Belarus,1966,72.8,6450,Belarus,BLR
+Belarus,1967,72.6,6680,Belarus,BLR
+Belarus,1968,72.7,7020,Belarus,BLR
+Belarus,1969,72.5,7070,Belarus,BLR
+Belarus,1970,72.1,7550,Belarus,BLR
+Belarus,1971,72.4,7690,Belarus,BLR
+Belarus,1972,72.2,7670,Belarus,BLR
+Belarus,1973,72.3,8240,Belarus,BLR
+Belarus,1974,72.5,8290,Belarus,BLR
+Belarus,1975,71.9,8330,Belarus,BLR
+Belarus,1976,71.7,8380,Belarus,BLR
+Belarus,1977,71.6,8420,Belarus,BLR
+Belarus,1978,71.5,8460,Belarus,BLR
+Belarus,1979,71.2,8500,Belarus,BLR
+Belarus,1980,71,8540,Belarus,BLR
+Belarus,1981,71.3,8740,Belarus,BLR
+Belarus,1982,71.4,8950,Belarus,BLR
+Belarus,1983,71.2,9210,Belarus,BLR
+Belarus,1984,70.5,9320,Belarus,BLR
+Belarus,1985,71.1,9220,Belarus,BLR
+Belarus,1986,72.3,9270,Belarus,BLR
+Belarus,1987,72.2,9190,Belarus,BLR
+Belarus,1988,72.2,8970,Belarus,BLR
+Belarus,1989,71.6,9370,Belarus,BLR
+Belarus,1990,71.3,8900,Belarus,BLR
+Belarus,1991,70.8,8780,Belarus,BLR
+Belarus,1992,70.3,7920,Belarus,BLR
+Belarus,1993,69.3,7310,Belarus,BLR
+Belarus,1994,69.1,6460,Belarus,BLR
+Belarus,1995,68.7,5810,Belarus,BLR
+Belarus,1996,68.9,5990,Belarus,BLR
+Belarus,1997,68.7,6700,Belarus,BLR
+Belarus,1998,68.4,7300,Belarus,BLR
+Belarus,1999,68.2,7580,Belarus,BLR
+Belarus,2000,69,8050,Belarus,BLR
+Belarus,2001,68.6,8480,Belarus,BLR
+Belarus,2002,68,8960,Belarus,BLR
+Belarus,2003,68.6,9660,Belarus,BLR
+Belarus,2004,69,10800,Belarus,BLR
+Belarus,2005,68.8,11900,Belarus,BLR
+Belarus,2006,69.5,13200,Belarus,BLR
+Belarus,2007,70.4,14400,Belarus,BLR
+Belarus,2008,70.5,15900,Belarus,BLR
+Belarus,2009,70.6,16000,Belarus,BLR
+Belarus,2010,70.6,17300,Belarus,BLR
+Belarus,2011,70.5,18300,Belarus,BLR
+Belarus,2012,72.3,18600,Belarus,BLR
+Belarus,2013,72.8,18800,Belarus,BLR
+Belarus,2014,73.1,19100,Belarus,BLR
+Belarus,2015,73.7,18300,Belarus,BLR
+Belarus,2016,73.8,17800,Belarus,BLR
+Belarus,2017,73.8,18300,Belarus,BLR
+Belarus,2018,74,18900,Belarus,BLR
+Belarus,2019,74,19100,Belarus,BLR
+Belarus,2020,73.5,19100,Belarus,BLR
+Belarus,2021,74.3,19100,Belarus,BLR
+Switzerland,1949,68,23400,Switzerland,CHE
+Switzerland,1950,69,24900,Switzerland,CHE
+Switzerland,1951,69,26600,Switzerland,CHE
+Switzerland,1952,69.6,26500,Switzerland,CHE
+Switzerland,1953,69.8,27100,Switzerland,CHE
+Switzerland,1954,70.1,28300,Switzerland,CHE
+Switzerland,1955,70.3,29900,Switzerland,CHE
+Switzerland,1956,70.5,31500,Switzerland,CHE
+Switzerland,1957,70.8,32200.000000000004,Switzerland,CHE
+Switzerland,1958,71.4,31100,Switzerland,CHE
+Switzerland,1959,71.6,32700.000000000004,Switzerland,CHE
+Switzerland,1960,71.8,34300,Switzerland,CHE
+Switzerland,1961,71.9,35900,Switzerland,CHE
+Switzerland,1962,71.7,36500,Switzerland,CHE
+Switzerland,1963,71.8,37400,Switzerland,CHE
+Switzerland,1964,72.3,38600,Switzerland,CHE
+Switzerland,1965,72.5,39300,Switzerland,CHE
+Switzerland,1966,72.7,39800,Switzerland,CHE
+Switzerland,1967,72.9,40500,Switzerland,CHE
+Switzerland,1968,73,41300,Switzerland,CHE
+Switzerland,1969,73.1,43000,Switzerland,CHE
+Switzerland,1970,73.3,45200,Switzerland,CHE
+Switzerland,1971,73.6,46500,Switzerland,CHE
+Switzerland,1972,74,47500,Switzerland,CHE
+Switzerland,1973,74.3,48400,Switzerland,CHE
+Switzerland,1974,74.7,48800,Switzerland,CHE
+Switzerland,1975,75,45000,Switzerland,CHE
+Switzerland,1976,75.3,44200,Switzerland,CHE
+Switzerland,1977,75.5,45300,Switzerland,CHE
+Switzerland,1978,75.7,45500,Switzerland,CHE
+Switzerland,1979,75.9,46600,Switzerland,CHE
+Switzerland,1980,76,48600,Switzerland,CHE
+Switzerland,1981,76.2,49100,Switzerland,CHE
+Switzerland,1982,76.4,48100,Switzerland,CHE
+Switzerland,1983,76.6,48000,Switzerland,CHE
+Switzerland,1984,77,49000,Switzerland,CHE
+Switzerland,1985,77.2,50300,Switzerland,CHE
+Switzerland,1986,77.4,50800,Switzerland,CHE
+Switzerland,1987,77.7,51200,Switzerland,CHE
+Switzerland,1988,77.8,52400,Switzerland,CHE
+Switzerland,1989,77.9,54100,Switzerland,CHE
+Switzerland,1990,77.9,55400,Switzerland,CHE
+Switzerland,1991,78.1,54200,Switzerland,CHE
+Switzerland,1992,78.4,53600,Switzerland,CHE
+Switzerland,1993,78.7,53100,Switzerland,CHE
+Switzerland,1994,79,53300,Switzerland,CHE
+Switzerland,1995,78.9,53200,Switzerland,CHE
+Switzerland,1996,79.3,53300,Switzerland,CHE
+Switzerland,1997,79.6,54400,Switzerland,CHE
+Switzerland,1998,79.9,55800,Switzerland,CHE
+Switzerland,1999,80.1,56500,Switzerland,CHE
+Switzerland,2000,80.3,58400,Switzerland,CHE
+Switzerland,2001,80.6,58800,Switzerland,CHE
+Switzerland,2002,80.9,58400,Switzerland,CHE
+Switzerland,2003,81.1,58000,Switzerland,CHE
+Switzerland,2004,81.4,59200,Switzerland,CHE
+Switzerland,2005,81.7,60700,Switzerland,CHE
+Switzerland,2006,81.9,62700,Switzerland,CHE
+Switzerland,2007,82.2,64700,Switzerland,CHE
+Switzerland,2008,82.4,65300,Switzerland,CHE
+Switzerland,2009,82.5,63000,Switzerland,CHE
+Switzerland,2010,82.8,64300,Switzerland,CHE
+Switzerland,2011,83,64599.99999999999,Switzerland,CHE
+Switzerland,2012,83.1,64599.99999999999,Switzerland,CHE
+Switzerland,2013,83.3,65000,Switzerland,CHE
+Switzerland,2014,83.5,65800,Switzerland,CHE
+Switzerland,2015,83.6,65900,Switzerland,CHE
+Switzerland,2016,83.8,66300,Switzerland,CHE
+Switzerland,2017,83.9,66900,Switzerland,CHE
+Switzerland,2018,83.9,68200,Switzerland,CHE
+Switzerland,2019,84,68400,Switzerland,CHE
+Switzerland,2020,83.2,65900,Switzerland,CHE
+Switzerland,2021,84.3,67400,Switzerland,CHE
+Cyprus,1949,60.6,3320,Cyprus,CYP
+Cyprus,1950,62.2,3320,Cyprus,CYP
+Cyprus,1951,62.5,3200,Cyprus,CYP
+Cyprus,1952,62.7,3470,Cyprus,CYP
+Cyprus,1953,62.8,3770,Cyprus,CYP
+Cyprus,1954,63.3,3780,Cyprus,CYP
+Cyprus,1955,63.1,3870,Cyprus,CYP
+Cyprus,1956,63.4,4240,Cyprus,CYP
+Cyprus,1957,63.7,4430,Cyprus,CYP
+Cyprus,1958,64,4210,Cyprus,CYP
+Cyprus,1959,64.3,4390,Cyprus,CYP
+Cyprus,1960,65,4020,Cyprus,CYP
+Cyprus,1961,65.3,4480,Cyprus,CYP
+Cyprus,1962,65.6,4980,Cyprus,CYP
+Cyprus,1963,65.9,5290,Cyprus,CYP
+Cyprus,1964,66.2,4820,Cyprus,CYP
+Cyprus,1965,66.5,5930,Cyprus,CYP
+Cyprus,1966,66.9,6320,Cyprus,CYP
+Cyprus,1967,67.3,7220,Cyprus,CYP
+Cyprus,1968,67.6,7580,Cyprus,CYP
+Cyprus,1969,67.9,8320,Cyprus,CYP
+Cyprus,1970,67.6,8610,Cyprus,CYP
+Cyprus,1971,67.6,9760,Cyprus,CYP
+Cyprus,1972,67.9,10400,Cyprus,CYP
+Cyprus,1973,68.2,10700,Cyprus,CYP
+Cyprus,1974,49,8900,Cyprus,CYP
+Cyprus,1975,68.5,7650,Cyprus,CYP
+Cyprus,1976,69.3,9310,Cyprus,CYP
+Cyprus,1977,70.4,10900,Cyprus,CYP
+Cyprus,1978,71,11800,Cyprus,CYP
+Cyprus,1979,71.4,13000,Cyprus,CYP
+Cyprus,1980,71.3,13800,Cyprus,CYP
+Cyprus,1981,71.6,14200,Cyprus,CYP
+Cyprus,1982,71.7,15100,Cyprus,CYP
+Cyprus,1983,72,15900,Cyprus,CYP
+Cyprus,1984,72.8,17300,Cyprus,CYP
+Cyprus,1985,73.3,18100,Cyprus,CYP
+Cyprus,1986,73.9,18900,Cyprus,CYP
+Cyprus,1987,74.1,20100,Cyprus,CYP
+Cyprus,1988,74.5,21800,Cyprus,CYP
+Cyprus,1989,74.8,23600,Cyprus,CYP
+Cyprus,1990,75.1,25200,Cyprus,CYP
+Cyprus,1991,75,24700,Cyprus,CYP
+Cyprus,1992,75.1,26300,Cyprus,CYP
+Cyprus,1993,75.2,25900,Cyprus,CYP
+Cyprus,1994,75.4,26900,Cyprus,CYP
+Cyprus,1995,75.5,28600,Cyprus,CYP
+Cyprus,1996,75.8,28500,Cyprus,CYP
+Cyprus,1997,75.9,28800,Cyprus,CYP
+Cyprus,1998,76,30200,Cyprus,CYP
+Cyprus,1999,76.3,31400,Cyprus,CYP
+Cyprus,2000,76.7,32900,Cyprus,CYP
+Cyprus,2001,77.1,33800,Cyprus,CYP
+Cyprus,2002,77.3,34700,Cyprus,CYP
+Cyprus,2003,77.7,35200,Cyprus,CYP
+Cyprus,2004,77.9,36400,Cyprus,CYP
+Cyprus,2005,77.9,37700,Cyprus,CYP
+Cyprus,2006,78.2,38800,Cyprus,CYP
+Cyprus,2007,78.3,39900,Cyprus,CYP
+Cyprus,2008,78.8,40300,Cyprus,CYP
+Cyprus,2009,79.1,38500,Cyprus,CYP
+Cyprus,2010,79.5,38200,Cyprus,CYP
+Cyprus,2011,79.8,37400,Cyprus,CYP
+Cyprus,2012,80.1,35600,Cyprus,CYP
+Cyprus,2013,80.3,33300,Cyprus,CYP
+Cyprus,2014,80.4,33100,Cyprus,CYP
+Cyprus,2015,80.5,34400,Cyprus,CYP
+Cyprus,2016,80.7,36500,Cyprus,CYP
+Cyprus,2017,80.8,37800,Cyprus,CYP
+Cyprus,2018,80.8,38800,Cyprus,CYP
+Cyprus,2019,80.8,39500,Cyprus,CYP
+Cyprus,2020,80.8,37100,Cyprus,CYP
+Cyprus,2021,81.1,37800,Cyprus,CYP
+Czech Republic,1949,63.8,7300,Czech Republic,CZE
+Czech Republic,1950,64.3,7710,Czech Republic,CZE
+Czech Republic,1951,65.2,7630,Czech Republic,CZE
+Czech Republic,1952,66.7,7650,Czech Republic,CZE
+Czech Republic,1953,67.5,7410,Czech Republic,CZE
+Czech Republic,1954,68.2,7500,Czech Republic,CZE
+Czech Republic,1955,68.9,7920,Czech Republic,CZE
+Czech Republic,1956,69.3,8150,Czech Republic,CZE
+Czech Republic,1957,69.2,8410,Czech Republic,CZE
+Czech Republic,1958,69.9,8820,Czech Republic,CZE
+Czech Republic,1959,70,8970,Czech Republic,CZE
+Czech Republic,1960,70.4,9410,Czech Republic,CZE
+Czech Republic,1961,70.7,9690,Czech Republic,CZE
+Czech Republic,1962,70.2,9750,Czech Republic,CZE
+Czech Republic,1963,70.5,9480,Czech Republic,CZE
+Czech Republic,1964,70.6,9830,Czech Republic,CZE
+Czech Republic,1965,70.3,10100,Czech Republic,CZE
+Czech Republic,1966,70.5,10400,Czech Republic,CZE
+Czech Republic,1967,70.4,10800,Czech Republic,CZE
+Czech Republic,1968,70,11200,Czech Republic,CZE
+Czech Republic,1969,69.6,11400,Czech Republic,CZE
+Czech Republic,1970,69.7,11600,Czech Republic,CZE
+Czech Republic,1971,70,12300,Czech Republic,CZE
+Czech Republic,1972,70.4,13100,Czech Republic,CZE
+Czech Republic,1973,70.3,13800,Czech Republic,CZE
+Czech Republic,1974,70.3,14500,Czech Republic,CZE
+Czech Republic,1975,70.7,15400,Czech Republic,CZE
+Czech Republic,1976,70.8,16100.000000000002,Czech Republic,CZE
+Czech Republic,1977,70.8,16800,Czech Republic,CZE
+Czech Republic,1978,70.8,17600,Czech Republic,CZE
+Czech Republic,1979,70.8,18000,Czech Republic,CZE
+Czech Republic,1980,70.5,18500,Czech Republic,CZE
+Czech Republic,1981,70.8,18600,Czech Republic,CZE
+Czech Republic,1982,71,18500,Czech Republic,CZE
+Czech Republic,1983,70.8,19000,Czech Republic,CZE
+Czech Republic,1984,71,19700,Czech Republic,CZE
+Czech Republic,1985,71.3,20300,Czech Republic,CZE
+Czech Republic,1986,71.3,21100,Czech Republic,CZE
+Czech Republic,1987,71.7,21900,Czech Republic,CZE
+Czech Republic,1988,71.9,22500,Czech Republic,CZE
+Czech Republic,1989,71.9,23200,Czech Republic,CZE
+Czech Republic,1990,71.6,23700,Czech Republic,CZE
+Czech Republic,1991,72.1,21000,Czech Republic,CZE
+Czech Republic,1992,72.4,20800,Czech Republic,CZE
+Czech Republic,1993,73,20800,Czech Republic,CZE
+Czech Republic,1994,73.2,21400,Czech Republic,CZE
+Czech Republic,1995,73.4,22800,Czech Republic,CZE
+Czech Republic,1996,74,23800,Czech Republic,CZE
+Czech Republic,1997,74.1,23700,Czech Republic,CZE
+Czech Republic,1998,74.7,23700,Czech Republic,CZE
+Czech Republic,1999,75,24000,Czech Republic,CZE
+Czech Republic,2000,75.2,25100,Czech Republic,CZE
+Czech Republic,2001,75.5,25900,Czech Republic,CZE
+Czech Republic,2002,75.7,26400,Czech Republic,CZE
+Czech Republic,2003,75.6,27300,Czech Republic,CZE
+Czech Republic,2004,76.1,28600,Czech Republic,CZE
+Czech Republic,2005,76.4,30500,Czech Republic,CZE
+Czech Republic,2006,77,32500,Czech Republic,CZE
+Czech Republic,2007,77.2,34100,Czech Republic,CZE
+Czech Republic,2008,77.3,34700,Czech Republic,CZE
+Czech Republic,2009,77.6,32900,Czech Republic,CZE
+Czech Republic,2010,77.8,33600,Czech Republic,CZE
+Czech Republic,2011,78,34100,Czech Republic,CZE
+Czech Republic,2012,78.3,33800,Czech Republic,CZE
+Czech Republic,2013,78.5,33800,Czech Republic,CZE
+Czech Republic,2014,79,34500,Czech Republic,CZE
+Czech Republic,2015,79,36300,Czech Republic,CZE
+Czech Republic,2016,79.2,37100,Czech Republic,CZE
+Czech Republic,2017,79.3,38900,Czech Republic,CZE
+Czech Republic,2018,79.3,40100,Czech Republic,CZE
+Czech Republic,2019,79.5,40800,Czech Republic,CZE
+Czech Republic,2020,78.5,38400,Czech Republic,CZE
+Czech Republic,2021,79.7,39900,Czech Republic,CZE
+Germany,1949,64.9,6020,Germany,DEU
+Germany,1950,66.5,7120,Germany,DEU
+Germany,1951,66.9,7710,Germany,DEU
+Germany,1952,67.3,8350,Germany,DEU
+Germany,1953,67.7,8990,Germany,DEU
+Germany,1954,68.1,9620,Germany,DEU
+Germany,1955,68.5,10600,Germany,DEU
+Germany,1956,68.9,11300,Germany,DEU
+Germany,1957,68.9,11900,Germany,DEU
+Germany,1958,69.3,12400,Germany,DEU
+Germany,1959,69.3,13200,Germany,DEU
+Germany,1960,69.4,14100,Germany,DEU
+Germany,1961,69.8,14700,Germany,DEU
+Germany,1962,70,15300,Germany,DEU
+Germany,1963,70.2,15800,Germany,DEU
+Germany,1964,70.5,16700,Germany,DEU
+Germany,1965,70.7,17600,Germany,DEU
+Germany,1966,70.8,18100,Germany,DEU
+Germany,1967,70.8,18300,Germany,DEU
+Germany,1968,70.5,19300,Germany,DEU
+Germany,1969,70.4,20600,Germany,DEU
+Germany,1970,70.6,21600,Germany,DEU
+Germany,1971,70.8,22200,Germany,DEU
+Germany,1972,71,23200,Germany,DEU
+Germany,1973,71.3,24400,Germany,DEU
+Germany,1974,71.6,24800,Germany,DEU
+Germany,1975,71.7,24900,Germany,DEU
+Germany,1976,72.1,26500,Germany,DEU
+Germany,1977,72.5,27500,Germany,DEU
+Germany,1978,72.7,28500,Germany,DEU
+Germany,1979,73,29900,Germany,DEU
+Germany,1980,73.3,30300,Germany,DEU
+Germany,1981,73.5,30600,Germany,DEU
+Germany,1982,73.8,30600,Germany,DEU
+Germany,1983,74.1,31500,Germany,DEU
+Germany,1984,74.6,32700.000000000004,Germany,DEU
+Germany,1985,74.8,33700,Germany,DEU
+Germany,1986,75.1,34700,Germany,DEU
+Germany,1987,75.3,35500,Germany,DEU
+Germany,1988,75.5,36800,Germany,DEU
+Germany,1989,75.7,38000,Germany,DEU
+Germany,1990,75.7,36800,Germany,DEU
+Germany,1991,75.8,38400,Germany,DEU
+Germany,1992,76.2,38800,Germany,DEU
+Germany,1993,76.3,38200,Germany,DEU
+Germany,1994,76.6,38900,Germany,DEU
+Germany,1995,76.9,39400,Germany,DEU
+Germany,1996,77.1,39600,Germany,DEU
+Germany,1997,77.5,40300,Germany,DEU
+Germany,1998,77.8,41100,Germany,DEU
+Germany,1999,78.1,41800,Germany,DEU
+Germany,2000,78.4,43000,Germany,DEU
+Germany,2001,78.7,43700,Germany,DEU
+Germany,2002,78.8,43500,Germany,DEU
+Germany,2003,78.9,43200,Germany,DEU
+Germany,2004,79.3,43700,Germany,DEU
+Germany,2005,79.6,44000,Germany,DEU
+Germany,2006,79.9,45800,Germany,DEU
+Germany,2007,80,47200,Germany,DEU
+Germany,2008,80.2,47700,Germany,DEU
+Germany,2009,80.3,45100,Germany,DEU
+Germany,2010,80.5,47100,Germany,DEU
+Germany,2011,80.7,49800,Germany,DEU
+Germany,2012,80.8,50000,Germany,DEU
+Germany,2013,80.8,50000,Germany,DEU
+Germany,2014,81,50900,Germany,DEU
+Germany,2015,80.9,51200,Germany,DEU
+Germany,2016,81,52000,Germany,DEU
+Germany,2017,81.1,53100,Germany,DEU
+Germany,2018,81.2,53600,Germany,DEU
+Germany,2019,81.2,53800,Germany,DEU
+Germany,2020,81,51100,Germany,DEU
+Germany,2021,81.5,52900,Germany,DEU
+Denmark,1949,70.5,11900,Denmark,DNK
+Denmark,1950,70.7,12700,Denmark,DNK
+Denmark,1951,71,12700,Denmark,DNK
+Denmark,1952,71.1,12800,Denmark,DNK
+Denmark,1953,71.4,13400,Denmark,DNK
+Denmark,1954,71.7,13500,Denmark,DNK
+Denmark,1955,72.1,13600,Denmark,DNK
+Denmark,1956,72.2,13600,Denmark,DNK
+Denmark,1957,72.2,14600,Denmark,DNK
+Denmark,1958,72.4,14800,Denmark,DNK
+Denmark,1959,72.5,15800,Denmark,DNK
+Denmark,1960,72.5,16200,Denmark,DNK
+Denmark,1961,72.6,17200,Denmark,DNK
+Denmark,1962,72.6,18100,Denmark,DNK
+Denmark,1963,72.6,18100,Denmark,DNK
+Denmark,1964,72.7,19800,Denmark,DNK
+Denmark,1965,72.7,20600,Denmark,DNK
+Denmark,1966,72.8,21100,Denmark,DNK
+Denmark,1967,73.1,21700,Denmark,DNK
+Denmark,1968,73.3,22600,Denmark,DNK
+Denmark,1969,73.5,24100,Denmark,DNK
+Denmark,1970,73.6,24500,Denmark,DNK
+Denmark,1971,73.6,25100,Denmark,DNK
+Denmark,1972,73.7,26400,Denmark,DNK
+Denmark,1973,73.9,27300,Denmark,DNK
+Denmark,1974,74.1,27100,Denmark,DNK
+Denmark,1975,74.2,26900,Denmark,DNK
+Denmark,1976,74.2,28700,Denmark,DNK
+Denmark,1977,74.7,29300,Denmark,DNK
+Denmark,1978,74.7,29700,Denmark,DNK
+Denmark,1979,74.5,30900,Denmark,DNK
+Denmark,1980,74.4,30800,Denmark,DNK
+Denmark,1981,74.5,30700,Denmark,DNK
+Denmark,1982,74.7,31800,Denmark,DNK
+Denmark,1983,74.7,32800,Denmark,DNK
+Denmark,1984,74.8,34400,Denmark,DNK
+Denmark,1985,74.8,36100,Denmark,DNK
+Denmark,1986,74.9,37500,Denmark,DNK
+Denmark,1987,75,37700,Denmark,DNK
+Denmark,1988,75.1,38300,Denmark,DNK
+Denmark,1989,75.1,38600,Denmark,DNK
+Denmark,1990,75.2,39200,Denmark,DNK
+Denmark,1991,75.4,39600,Denmark,DNK
+Denmark,1992,75.5,40200,Denmark,DNK
+Denmark,1993,75.5,40100,Denmark,DNK
+Denmark,1994,75.5,42100,Denmark,DNK
+Denmark,1995,75.6,43200,Denmark,DNK
+Denmark,1996,75.9,44200,Denmark,DNK
+Denmark,1997,76.3,45400,Denmark,DNK
+Denmark,1998,76.7,46200,Denmark,DNK
+Denmark,1999,76.7,47500,Denmark,DNK
+Denmark,2000,77.2,49100,Denmark,DNK
+Denmark,2001,77.3,49300,Denmark,DNK
+Denmark,2002,77.4,49400,Denmark,DNK
+Denmark,2003,77.7,49400,Denmark,DNK
+Denmark,2004,78,50600,Denmark,DNK
+Denmark,2005,78.3,51600,Denmark,DNK
+Denmark,2006,78.5,53500,Denmark,DNK
+Denmark,2007,78.7,53700,Denmark,DNK
+Denmark,2008,79,53200,Denmark,DNK
+Denmark,2009,79.2,50300,Denmark,DNK
+Denmark,2010,79.5,51000,Denmark,DNK
+Denmark,2011,79.9,51500,Denmark,DNK
+Denmark,2012,80.3,51400,Denmark,DNK
+Denmark,2013,80.5,51600,Denmark,DNK
+Denmark,2014,80.8,52200,Denmark,DNK
+Denmark,2015,81,53100,Denmark,DNK
+Denmark,2016,81,54400,Denmark,DNK
+Denmark,2017,81.1,55500,Denmark,DNK
+Denmark,2018,81.1,56500,Denmark,DNK
+Denmark,2019,81.1,57800,Denmark,DNK
+Denmark,2020,81.2,55800,Denmark,DNK
+Denmark,2021,81.4,57100,Denmark,DNK
+Spain,1949,61,3950,Spain,ESP
+Spain,1950,61.8,3980,Spain,ESP
+Spain,1951,62.2,4360,Spain,ESP
+Spain,1952,64.5,4720,Spain,ESP
+Spain,1953,65.7,4680,Spain,ESP
+Spain,1954,66.7,4980,Spain,ESP
+Spain,1955,66.7,5110,Spain,ESP
+Spain,1956,66.9,5490,Spain,ESP
+Spain,1957,67,5640,Spain,ESP
+Spain,1958,68.5,5950,Spain,ESP
+Spain,1959,68.8,5850,Spain,ESP
+Spain,1960,69.5,5790,Spain,ESP
+Spain,1961,69.7,6480,Spain,ESP
+Spain,1962,69.8,7110,Spain,ESP
+Spain,1963,70,7830,Spain,ESP
+Spain,1964,70.5,8250,Spain,ESP
+Spain,1965,70.9,8890,Spain,ESP
+Spain,1966,71.2,9520,Spain,ESP
+Spain,1967,71.4,10000,Spain,ESP
+Spain,1968,71.6,10600,Spain,ESP
+Spain,1969,71.5,11500,Spain,ESP
+Spain,1970,72,11900,Spain,ESP
+Spain,1971,72.1,12400,Spain,ESP
+Spain,1972,72.8,13700,Spain,ESP
+Spain,1973,72.9,14800,Spain,ESP
+Spain,1974,73.3,15900,Spain,ESP
+Spain,1975,73.6,16300,Spain,ESP
+Spain,1976,74,17000,Spain,ESP
+Spain,1977,74.3,17500,Spain,ESP
+Spain,1978,74.6,18000,Spain,ESP
+Spain,1979,75,18200,Spain,ESP
+Spain,1980,75.5,18800,Spain,ESP
+Spain,1981,75.8,18800,Spain,ESP
+Spain,1982,76.2,19100,Spain,ESP
+Spain,1983,76.2,19500,Spain,ESP
+Spain,1984,76.4,19800,Spain,ESP
+Spain,1985,76.5,20400,Spain,ESP
+Spain,1986,76.6,21300,Spain,ESP
+Spain,1987,76.8,22900,Spain,ESP
+Spain,1988,76.9,24500,Spain,ESP
+Spain,1989,76.9,26200,Spain,ESP
+Spain,1990,77,27600,Spain,ESP
+Spain,1991,77.1,28300,Spain,ESP
+Spain,1992,77.5,28400,Spain,ESP
+Spain,1993,77.7,27900,Spain,ESP
+Spain,1994,78,28500,Spain,ESP
+Spain,1995,78.1,29100,Spain,ESP
+Spain,1996,78.3,29800,Spain,ESP
+Spain,1997,78.8,30800,Spain,ESP
+Spain,1998,79,32000,Spain,ESP
+Spain,1999,79.1,33300,Spain,ESP
+Spain,2000,79.5,34900,Spain,ESP
+Spain,2001,79.8,36000,Spain,ESP
+Spain,2002,79.9,36500,Spain,ESP
+Spain,2003,80,36900,Spain,ESP
+Spain,2004,80.3,37400,Spain,ESP
+Spain,2005,80.6,38100,Spain,ESP
+Spain,2006,81,39000,Spain,ESP
+Spain,2007,81.2,39600,Spain,ESP
+Spain,2008,81.4,39400,Spain,ESP
+Spain,2009,81.8,37500,Spain,ESP
+Spain,2010,82.1,37400,Spain,ESP
+Spain,2011,82.3,37000,Spain,ESP
+Spain,2012,82.4,35900,Spain,ESP
+Spain,2013,82.7,35500,Spain,ESP
+Spain,2014,82.8,36100,Spain,ESP
+Spain,2015,82.8,37500,Spain,ESP
+Spain,2016,83,38600,Spain,ESP
+Spain,2017,83,39700,Spain,ESP
+Spain,2018,83.1,40400,Spain,ESP
+Spain,2019,83.1,41000,Spain,ESP
+Spain,2020,81.5,36500,Spain,ESP
+Spain,2021,83.3,38800,Spain,ESP
+Estonia,1949,65.4,5130,Estonia,EST
+Estonia,1950,66.7,5540,Estonia,EST
+Estonia,1951,66.9,5460,Estonia,EST
+Estonia,1952,67.1,5700,Estonia,EST
+Estonia,1953,67.3,5830,Estonia,EST
+Estonia,1954,67.5,5990,Estonia,EST
+Estonia,1955,67.7,6370,Estonia,EST
+Estonia,1956,67.9,6840,Estonia,EST
+Estonia,1957,68.1,6830,Estonia,EST
+Estonia,1958,68.3,7200,Estonia,EST
+Estonia,1959,68.5,6970,Estonia,EST
+Estonia,1960,69.4,7470,Estonia,EST
+Estonia,1961,69.6,7780,Estonia,EST
+Estonia,1962,69.8,7880,Estonia,EST
+Estonia,1963,70,7600,Estonia,EST
+Estonia,1964,70.6,8480,Estonia,EST
+Estonia,1965,70.8,8870,Estonia,EST
+Estonia,1966,70.7,9220,Estonia,EST
+Estonia,1967,70.9,9540,Estonia,EST
+Estonia,1968,70.6,10000,Estonia,EST
+Estonia,1969,70.3,10100,Estonia,EST
+Estonia,1970,70.5,10800,Estonia,EST
+Estonia,1971,70.6,11000,Estonia,EST
+Estonia,1972,70.3,10900,Estonia,EST
+Estonia,1973,70.7,11800,Estonia,EST
+Estonia,1974,70.8,12000,Estonia,EST
+Estonia,1975,70.2,12200,Estonia,EST
+Estonia,1976,69.9,12400,Estonia,EST
+Estonia,1977,69.9,12600,Estonia,EST
+Estonia,1978,69.7,12800,Estonia,EST
+Estonia,1979,69.4,13100,Estonia,EST
+Estonia,1980,69.7,13300,Estonia,EST
+Estonia,1981,69.4,13700,Estonia,EST
+Estonia,1982,69.9,14200,Estonia,EST
+Estonia,1983,69.8,14700,Estonia,EST
+Estonia,1984,69.6,15200,Estonia,EST
+Estonia,1985,69.8,15400,Estonia,EST
+Estonia,1986,71,15900,Estonia,EST
+Estonia,1987,71.1,16100.000000000002,Estonia,EST
+Estonia,1988,71,17000,Estonia,EST
+Estonia,1989,70.5,18200,Estonia,EST
+Estonia,1990,70,16800,Estonia,EST
+Estonia,1991,69.5,15100,Estonia,EST
+Estonia,1992,69.5,13000,Estonia,EST
+Estonia,1993,68.3,11900,Estonia,EST
+Estonia,1994,66.8,12000,Estonia,EST
+Estonia,1995,68,12800,Estonia,EST
+Estonia,1996,70,13600,Estonia,EST
+Estonia,1997,70.3,15600,Estonia,EST
+Estonia,1998,69.9,16400,Estonia,EST
+Estonia,1999,70.7,16300,Estonia,EST
+Estonia,2000,71,17800,Estonia,EST
+Estonia,2001,70.8,19000,Estonia,EST
+Estonia,2002,71.4,20400,Estonia,EST
+Estonia,2003,72.1,22100,Estonia,EST
+Estonia,2004,72.5,23800,Estonia,EST
+Estonia,2005,73,26200,Estonia,EST
+Estonia,2006,73.3,28900,Estonia,EST
+Estonia,2007,73.3,31200,Estonia,EST
+Estonia,2008,74.4,29700,Estonia,EST
+Estonia,2009,75.2,25500,Estonia,EST
+Estonia,2010,76.3,26200,Estonia,EST
+Estonia,2011,76.3,28200,Estonia,EST
+Estonia,2012,76.5,29200,Estonia,EST
+Estonia,2013,77.2,29700,Estonia,EST
+Estonia,2014,77.3,30700,Estonia,EST
+Estonia,2015,77.8,31200,Estonia,EST
+Estonia,2016,77.7,32200.000000000004,Estonia,EST
+Estonia,2017,77.8,34000,Estonia,EST
+Estonia,2018,77.9,35300,Estonia,EST
+Estonia,2019,78,37000,Estonia,EST
+Estonia,2020,77.7,35800,Estonia,EST
+Estonia,2021,78.3,37000,Estonia,EST
+Finland,1949,62.1,7600,Finland,FIN
+Finland,1950,64.5,7800,Finland,FIN
+Finland,1951,65.8,8380,Finland,FIN
+Finland,1952,66.7,8570,Finland,FIN
+Finland,1953,66.9,8530,Finland,FIN
+Finland,1954,67.6,9170,Finland,FIN
+Finland,1955,67.7,9530,Finland,FIN
+Finland,1956,68.1,9710,Finland,FIN
+Finland,1957,67.9,10100,Finland,FIN
+Finland,1958,68.7,10000,Finland,FIN
+Finland,1959,69,10500,Finland,FIN
+Finland,1960,69.2,11400,Finland,FIN
+Finland,1961,69.2,12200,Finland,FIN
+Finland,1962,69.2,12600,Finland,FIN
+Finland,1963,69.4,12900,Finland,FIN
+Finland,1964,69.5,13500,Finland,FIN
+Finland,1965,69.6,14200,Finland,FIN
+Finland,1966,69.9,14500,Finland,FIN
+Finland,1967,70,14800,Finland,FIN
+Finland,1968,70.1,15100,Finland,FIN
+Finland,1969,70.1,16600,Finland,FIN
+Finland,1970,70.7,17900,Finland,FIN
+Finland,1971,70.9,18300,Finland,FIN
+Finland,1972,71.3,19700,Finland,FIN
+Finland,1973,71.7,20900,Finland,FIN
+Finland,1974,71.7,21500,Finland,FIN
+Finland,1975,72.2,21700,Finland,FIN
+Finland,1976,72.4,21600,Finland,FIN
+Finland,1977,72.8,21600,Finland,FIN
+Finland,1978,73.3,22000,Finland,FIN
+Finland,1979,73.6,23600,Finland,FIN
+Finland,1980,74,24800,Finland,FIN
+Finland,1981,74.3,25200,Finland,FIN
+Finland,1982,74.7,25900,Finland,FIN
+Finland,1983,74.8,26500,Finland,FIN
+Finland,1984,75,27200,Finland,FIN
+Finland,1985,74.9,28100,Finland,FIN
+Finland,1986,75,28700,Finland,FIN
+Finland,1987,75.1,29900,Finland,FIN
+Finland,1988,75.1,31300,Finland,FIN
+Finland,1989,75.3,33100,Finland,FIN
+Finland,1990,75.4,33000,Finland,FIN
+Finland,1991,75.7,30900,Finland,FIN
+Finland,1992,76,29700,Finland,FIN
+Finland,1993,76.3,29300,Finland,FIN
+Finland,1994,76.8,30400,Finland,FIN
+Finland,1995,76.9,31500,Finland,FIN
+Finland,1996,77.2,32600,Finland,FIN
+Finland,1997,77.3,34500,Finland,FIN
+Finland,1998,77.6,36300,Finland,FIN
+Finland,1999,77.8,37800,Finland,FIN
+Finland,2000,78,39900,Finland,FIN
+Finland,2001,78.4,40900,Finland,FIN
+Finland,2002,78.6,41500,Finland,FIN
+Finland,2003,78.8,42200,Finland,FIN
+Finland,2004,79,43800,Finland,FIN
+Finland,2005,79.3,44800,Finland,FIN
+Finland,2006,79.6,46500,Finland,FIN
+Finland,2007,79.7,48700,Finland,FIN
+Finland,2008,80,48900,Finland,FIN
+Finland,2009,80.2,44700,Finland,FIN
+Finland,2010,80.4,45900,Finland,FIN
+Finland,2011,80.7,46900,Finland,FIN
+Finland,2012,80.9,46000,Finland,FIN
+Finland,2013,81.2,45400,Finland,FIN
+Finland,2014,81.4,45000,Finland,FIN
+Finland,2015,81.7,45100,Finland,FIN
+Finland,2016,81.8,46200,Finland,FIN
+Finland,2017,81.8,47600,Finland,FIN
+Finland,2018,81.8,48300,Finland,FIN
+Finland,2019,81.9,48800,Finland,FIN
+Finland,2020,82,47300,Finland,FIN
+Finland,2021,82.2,48400,Finland,FIN
+France,1949,65.6,9070,France,FRA
+France,1950,67.1,9510,France,FRA
+France,1951,66.7,10000,France,FRA
+France,1952,68.1,10200,France,FRA
+France,1953,68.5,10400,France,FRA
+France,1954,69,10800,France,FRA
+France,1955,69.3,11400,France,FRA
+France,1956,69.5,11800,France,FRA
+France,1957,69.9,12400,France,FRA
+France,1958,70.8,12600,France,FRA
+France,1959,71,12800,France,FRA
+France,1960,71.2,13600,France,FRA
+France,1961,71.3,14200,France,FRA
+France,1962,71.2,14800,France,FRA
+France,1963,71.2,15400,France,FRA
+France,1964,71.7,16300,France,FRA
+France,1965,71.8,16900,France,FRA
+France,1966,72,17700,France,FRA
+France,1967,72.1,18400,France,FRA
+France,1968,72.1,19100,France,FRA
+France,1969,72.1,20200,France,FRA
+France,1970,72.6,21200,France,FRA
+France,1971,72.7,22100,France,FRA
+France,1972,72.9,22900,France,FRA
+France,1973,73.2,24000,France,FRA
+France,1974,73.4,24600,France,FRA
+France,1975,73.3,24300,France,FRA
+France,1976,73.6,25300,France,FRA
+France,1977,74,26200,France,FRA
+France,1978,74.3,26800,France,FRA
+France,1979,74.5,27600,France,FRA
+France,1980,74.7,27900,France,FRA
+France,1981,74.9,28100,France,FRA
+France,1982,75.1,28700,France,FRA
+France,1983,75.3,28900,France,FRA
+France,1984,75.6,29200,France,FRA
+France,1985,75.8,29600,France,FRA
+France,1986,76,30200,France,FRA
+France,1987,76.5,30800,France,FRA
+France,1988,76.8,32100,France,FRA
+France,1989,77,33100,France,FRA
+France,1990,77.2,33800,France,FRA
+France,1991,77.4,34000,France,FRA
+France,1992,77.6,34400,France,FRA
+France,1993,77.8,34000,France,FRA
+France,1994,78,34700,France,FRA
+France,1995,78.2,35300,France,FRA
+France,1996,78.4,35700,France,FRA
+France,1997,78.7,36400,France,FRA
+France,1998,78.8,37500,France,FRA
+France,1999,78.9,38600,France,FRA
+France,2000,79.2,39900,France,FRA
+France,2001,79.3,40400,France,FRA
+France,2002,79.5,40500,France,FRA
+France,2003,79.7,40600,France,FRA
+France,2004,80.3,41400,France,FRA
+France,2005,80.6,41800,France,FRA
+France,2006,80.8,42500,France,FRA
+France,2007,81.1,43300,France,FRA
+France,2008,81.2,43100,France,FRA
+France,2009,81.4,41700,France,FRA
+France,2010,81.6,42300,France,FRA
+France,2011,81.8,43000,France,FRA
+France,2012,82,42900,France,FRA
+France,2013,82.3,43000,France,FRA
+France,2014,82.6,43200,France,FRA
+France,2015,82.5,43500,France,FRA
+France,2016,82.8,43800,France,FRA
+France,2017,82.9,44800,France,FRA
+France,2018,82.9,45500,France,FRA
+France,2019,82.9,46100,France,FRA
+France,2020,82.2,42200,France,FRA
+France,2021,83.1,44600,France,FRA
+United Kingdom,1949,68.4,12800,United Kingdom,GBR
+United Kingdom,1950,68.9,12700,United Kingdom,GBR
+United Kingdom,1951,68.8,13100,United Kingdom,GBR
+United Kingdom,1952,69.5,13000,United Kingdom,GBR
+United Kingdom,1953,70,13500,United Kingdom,GBR
+United Kingdom,1954,70.3,14000,United Kingdom,GBR
+United Kingdom,1955,70.5,14400,United Kingdom,GBR
+United Kingdom,1956,70.6,14500,United Kingdom,GBR
+United Kingdom,1957,70.8,14700,United Kingdom,GBR
+United Kingdom,1958,71,14600,United Kingdom,GBR
+United Kingdom,1959,71.1,15100,United Kingdom,GBR
+United Kingdom,1960,71.2,15800,United Kingdom,GBR
+United Kingdom,1961,71.1,16200,United Kingdom,GBR
+United Kingdom,1962,71,16300,United Kingdom,GBR
+United Kingdom,1963,71.1,16800,United Kingdom,GBR
+United Kingdom,1964,71.5,17600,United Kingdom,GBR
+United Kingdom,1965,71.7,17900,United Kingdom,GBR
+United Kingdom,1966,71.7,18200,United Kingdom,GBR
+United Kingdom,1967,72,18500,United Kingdom,GBR
+United Kingdom,1968,71.9,19200,United Kingdom,GBR
+United Kingdom,1969,71.9,19400,United Kingdom,GBR
+United Kingdom,1970,72.1,19900,United Kingdom,GBR
+United Kingdom,1971,72.2,20200,United Kingdom,GBR
+United Kingdom,1972,72.2,20900,United Kingdom,GBR
+United Kingdom,1973,72.3,22200,United Kingdom,GBR
+United Kingdom,1974,72.5,21900,United Kingdom,GBR
+United Kingdom,1975,72.8,21900,United Kingdom,GBR
+United Kingdom,1976,72.9,22400,United Kingdom,GBR
+United Kingdom,1977,73.2,22900,United Kingdom,GBR
+United Kingdom,1978,73.3,23800,United Kingdom,GBR
+United Kingdom,1979,73.4,24400,United Kingdom,GBR
+United Kingdom,1980,73.8,24000,United Kingdom,GBR
+United Kingdom,1981,74.1,23700,United Kingdom,GBR
+United Kingdom,1982,74.2,24100,United Kingdom,GBR
+United Kingdom,1983,74.5,24900,United Kingdom,GBR
+United Kingdom,1984,74.8,25500,United Kingdom,GBR
+United Kingdom,1985,74.8,26400,United Kingdom,GBR
+United Kingdom,1986,75,27400,United Kingdom,GBR
+United Kingdom,1987,75.3,28700,United Kingdom,GBR
+United Kingdom,1988,75.4,30000,United Kingdom,GBR
+United Kingdom,1989,75.6,30600,United Kingdom,GBR
+United Kingdom,1990,75.8,30700,United Kingdom,GBR
+United Kingdom,1991,76.1,30200,United Kingdom,GBR
+United Kingdom,1992,76.3,30300,United Kingdom,GBR
+United Kingdom,1993,76.4,30900,United Kingdom,GBR
+United Kingdom,1994,76.7,32100,United Kingdom,GBR
+United Kingdom,1995,76.8,32800,United Kingdom,GBR
+United Kingdom,1996,77,33500,United Kingdom,GBR
+United Kingdom,1997,77.3,34700,United Kingdom,GBR
+United Kingdom,1998,77.5,35900,United Kingdom,GBR
+United Kingdom,1999,77.6,37000,United Kingdom,GBR
+United Kingdom,2000,78,38100,United Kingdom,GBR
+United Kingdom,2001,78.3,39100,United Kingdom,GBR
+United Kingdom,2002,78.5,39800,United Kingdom,GBR
+United Kingdom,2003,78.6,41000,United Kingdom,GBR
+United Kingdom,2004,79,41700,United Kingdom,GBR
+United Kingdom,2005,79.3,42700,United Kingdom,GBR
+United Kingdom,2006,79.5,43600,United Kingdom,GBR
+United Kingdom,2007,79.8,44300,United Kingdom,GBR
+United Kingdom,2008,80,43800,United Kingdom,GBR
+United Kingdom,2009,80.3,41700,United Kingdom,GBR
+United Kingdom,2010,80.6,42100,United Kingdom,GBR
+United Kingdom,2011,80.8,42500,United Kingdom,GBR
+United Kingdom,2012,80.9,42800,United Kingdom,GBR
+United Kingdom,2013,81,43400,United Kingdom,GBR
+United Kingdom,2014,81.1,44200,United Kingdom,GBR
+United Kingdom,2015,81,44900,United Kingdom,GBR
+United Kingdom,2016,81.1,45400,United Kingdom,GBR
+United Kingdom,2017,81.2,46000,United Kingdom,GBR
+United Kingdom,2018,81,46300,United Kingdom,GBR
+United Kingdom,2019,81.1,46700,United Kingdom,GBR
+United Kingdom,2020,79.4,41900,United Kingdom,GBR
+United Kingdom,2021,81.3,43900,United Kingdom,GBR
+Georgia,1949,50.2,2820,Georgia,GEO
+Georgia,1950,49.6,3130,Georgia,GEO
+Georgia,1951,50.4,3160,Georgia,GEO
+Georgia,1952,51.4,3390,Georgia,GEO
+Georgia,1953,52.3,3560,Georgia,GEO
+Georgia,1954,53.3,3760,Georgia,GEO
+Georgia,1955,54.3,4100,Georgia,GEO
+Georgia,1956,55.4,4510,Georgia,GEO
+Georgia,1957,56.4,4630,Georgia,GEO
+Georgia,1958,57.3,5000,Georgia,GEO
+Georgia,1959,58.3,4960,Georgia,GEO
+Georgia,1960,59.3,5450,Georgia,GEO
+Georgia,1961,60.1,5700,Georgia,GEO
+Georgia,1962,61,5800,Georgia,GEO
+Georgia,1963,61.6,5620,Georgia,GEO
+Georgia,1964,62.3,6290,Georgia,GEO
+Georgia,1965,63,6600,Georgia,GEO
+Georgia,1966,63.6,7050,Georgia,GEO
+Georgia,1967,64.1,7450,Georgia,GEO
+Georgia,1968,64.6,7740,Georgia,GEO
+Georgia,1969,65,8070,Georgia,GEO
+Georgia,1970,65.4,9000,Georgia,GEO
+Georgia,1971,65.7,9170,Georgia,GEO
+Georgia,1972,65.9,9370,Georgia,GEO
+Georgia,1973,66.2,9920,Georgia,GEO
+Georgia,1974,66.5,10000,Georgia,GEO
+Georgia,1975,66.7,10100,Georgia,GEO
+Georgia,1976,67.1,10200,Georgia,GEO
+Georgia,1977,67.4,10200,Georgia,GEO
+Georgia,1978,67.7,10300,Georgia,GEO
+Georgia,1979,68.1,10400,Georgia,GEO
+Georgia,1980,68.5,10500,Georgia,GEO
+Georgia,1981,68.8,10900,Georgia,GEO
+Georgia,1982,69.1,11400,Georgia,GEO
+Georgia,1983,69.1,11900,Georgia,GEO
+Georgia,1984,69,12700,Georgia,GEO
+Georgia,1985,69.1,13300,Georgia,GEO
+Georgia,1986,69.1,13100,Georgia,GEO
+Georgia,1987,68.9,12900,Georgia,GEO
+Georgia,1988,68.7,13700,Georgia,GEO
+Georgia,1989,68.5,13100,Georgia,GEO
+Georgia,1990,68.5,11100,Georgia,GEO
+Georgia,1991,68.4,8720,Georgia,GEO
+Georgia,1992,67.9,4770,Georgia,GEO
+Georgia,1993,67.8,3350,Georgia,GEO
+Georgia,1994,68.8,3050,Georgia,GEO
+Georgia,1995,70,3240,Georgia,GEO
+Georgia,1996,70.9,3740,Georgia,GEO
+Georgia,1997,70.9,4270,Georgia,GEO
+Georgia,1998,70.6,4510,Georgia,GEO
+Georgia,1999,70.7,4740,Georgia,GEO
+Georgia,2000,70.7,4920,Georgia,GEO
+Georgia,2001,70.8,5240,Georgia,GEO
+Georgia,2002,70.4,5570,Georgia,GEO
+Georgia,2003,70.6,6230,Georgia,GEO
+Georgia,2004,70.7,6630,Georgia,GEO
+Georgia,2005,71,7320,Georgia,GEO
+Georgia,2006,71.5,8050,Georgia,GEO
+Georgia,2007,72,9110,Georgia,GEO
+Georgia,2008,71.5,9360,Georgia,GEO
+Georgia,2009,71.7,9100,Georgia,GEO
+Georgia,2010,71.9,9740,Georgia,GEO
+Georgia,2011,72.2,10500,Georgia,GEO
+Georgia,2012,72.5,11300,Georgia,GEO
+Georgia,2013,72.9,11700,Georgia,GEO
+Georgia,2014,73.2,12300,Georgia,GEO
+Georgia,2015,73.3,12600,Georgia,GEO
+Georgia,2016,73.1,13000,Georgia,GEO
+Georgia,2017,73.2,13600,Georgia,GEO
+Georgia,2018,73.3,14300,Georgia,GEO
+Georgia,2019,73.4,15000,Georgia,GEO
+Georgia,2020,72.6,14200,Georgia,GEO
+Georgia,2021,73.7,14600,Georgia,GEO
+Greece,1949,58.3,3430,Greece,GRC
+Greece,1950,69,3510,Greece,GRC
+Greece,1951,69.2,3780,Greece,GRC
+Greece,1952,70.5,3760,Greece,GRC
+Greece,1953,70.5,4230,Greece,GRC
+Greece,1954,71,4320,Greece,GRC
+Greece,1955,71.5,4610,Greece,GRC
+Greece,1956,71.7,4960,Greece,GRC
+Greece,1957,71.4,5240,Greece,GRC
+Greece,1958,72.2,5430,Greece,GRC
+Greece,1959,72.2,5570,Greece,GRC
+Greece,1960,72.4,5770,Greece,GRC
+Greece,1961,72.4,6290,Greece,GRC
+Greece,1962,72.2,6560,Greece,GRC
+Greece,1963,72.4,7280,Greece,GRC
+Greece,1964,72.5,7940,Greece,GRC
+Greece,1965,73,8730,Greece,GRC
+Greece,1966,73.2,9300,Greece,GRC
+Greece,1967,73,9800,Greece,GRC
+Greece,1968,73.2,10500,Greece,GRC
+Greece,1969,73.5,11600,Greece,GRC
+Greece,1970,73.8,12700,Greece,GRC
+Greece,1971,74.1,13700,Greece,GRC
+Greece,1972,74.1,15400,Greece,GRC
+Greece,1973,74.4,16100.000000000002,Greece,GRC
+Greece,1974,74.6,15600,Greece,GRC
+Greece,1975,74.6,16600,Greece,GRC
+Greece,1976,74.7,17500,Greece,GRC
+Greece,1977,74.9,18000,Greece,GRC
+Greece,1978,75.1,19200,Greece,GRC
+Greece,1979,75.2,19800,Greece,GRC
+Greece,1980,75.3,20200,Greece,GRC
+Greece,1981,75.4,20200,Greece,GRC
+Greece,1982,75.6,20300,Greece,GRC
+Greece,1983,75.6,20500,Greece,GRC
+Greece,1984,75.8,21100,Greece,GRC
+Greece,1985,75.9,21900,Greece,GRC
+Greece,1986,76.2,22400,Greece,GRC
+Greece,1987,76.4,22400,Greece,GRC
+Greece,1988,76.8,23600,Greece,GRC
+Greece,1989,77.1,24600,Greece,GRC
+Greece,1990,77.2,24600,Greece,GRC
+Greece,1991,77.3,25000,Greece,GRC
+Greece,1992,77.4,25000,Greece,GRC
+Greece,1993,77.6,24500,Greece,GRC
+Greece,1994,77.7,24800,Greece,GRC
+Greece,1995,77.8,25200,Greece,GRC
+Greece,1996,77.9,25900,Greece,GRC
+Greece,1997,78.1,26900,Greece,GRC
+Greece,1998,78.2,27800,Greece,GRC
+Greece,1999,78.2,28500,Greece,GRC
+Greece,2000,78.4,29500,Greece,GRC
+Greece,2001,78.7,30600,Greece,GRC
+Greece,2002,78.9,31700,Greece,GRC
+Greece,2003,79.1,33400,Greece,GRC
+Greece,2004,79.2,35000,Greece,GRC
+Greece,2005,79.4,35100,Greece,GRC
+Greece,2006,79.7,37000,Greece,GRC
+Greece,2007,79.6,38100,Greece,GRC
+Greece,2008,80,37900,Greece,GRC
+Greece,2009,80.2,36200,Greece,GRC
+Greece,2010,80.4,34100,Greece,GRC
+Greece,2011,80.5,31100,Greece,GRC
+Greece,2012,80.6,29000,Greece,GRC
+Greece,2013,80.9,28200,Greece,GRC
+Greece,2014,81,28600,Greece,GRC
+Greece,2015,80.9,28700,Greece,GRC
+Greece,2016,81,28700,Greece,GRC
+Greece,2017,81.1,29200,Greece,GRC
+Greece,2018,81,29900,Greece,GRC
+Greece,2019,80.9,30500,Greece,GRC
+Greece,2020,80.4,28000,Greece,GRC
+Greece,2021,81.3,29200,Greece,GRC
+Croatia,1949,54.3,3850,Croatia,HRV
+Croatia,1950,55,3500,Croatia,HRV
+Croatia,1951,54.3,3520,Croatia,HRV
+Croatia,1952,57.9,3150,Croatia,HRV
+Croatia,1953,58.2,3400,Croatia,HRV
+Croatia,1954,60.6,3670,Croatia,HRV
+Croatia,1955,60.2,4310,Croatia,HRV
+Croatia,1956,61.4,4100,Croatia,HRV
+Croatia,1957,62,4830,Croatia,HRV
+Croatia,1958,64.6,4930,Croatia,HRV
+Croatia,1959,64.2,5340,Croatia,HRV
+Croatia,1960,64.7,5830,Croatia,HRV
+Croatia,1961,66,6220,Croatia,HRV
+Croatia,1962,65.4,6340,Croatia,HRV
+Croatia,1963,66.6,6970,Croatia,HRV
+Croatia,1964,66.6,7580,Croatia,HRV
+Croatia,1965,67.6,7750,Croatia,HRV
+Croatia,1966,68.8,8340,Croatia,HRV
+Croatia,1967,68.5,8650,Croatia,HRV
+Croatia,1968,68.5,9070,Croatia,HRV
+Croatia,1969,68,9800,Croatia,HRV
+Croatia,1970,68.7,10500,Croatia,HRV
+Croatia,1971,69.2,11400,Croatia,HRV
+Croatia,1972,69.1,11800,Croatia,HRV
+Croatia,1973,70,12300,Croatia,HRV
+Croatia,1974,70.4,13500,Croatia,HRV
+Croatia,1975,70.6,13900,Croatia,HRV
+Croatia,1976,70.8,14600,Croatia,HRV
+Croatia,1977,70.9,15900,Croatia,HRV
+Croatia,1978,70.7,17100,Croatia,HRV
+Croatia,1979,70.7,18200,Croatia,HRV
+Croatia,1980,70.7,18700,Croatia,HRV
+Croatia,1981,70.7,18800,Croatia,HRV
+Croatia,1982,70.6,18900,Croatia,HRV
+Croatia,1983,70.3,18600,Croatia,HRV
+Croatia,1984,70.7,19200,Croatia,HRV
+Croatia,1985,71.3,19300,Croatia,HRV
+Croatia,1986,71.6,19900,Croatia,HRV
+Croatia,1987,71.4,20000,Croatia,HRV
+Croatia,1988,71.8,19900,Croatia,HRV
+Croatia,1989,72.2,19700,Croatia,HRV
+Croatia,1990,72.5,18400,Croatia,HRV
+Croatia,1991,72,14800,Croatia,HRV
+Croatia,1992,72.4,13500,Croatia,HRV
+Croatia,1993,72.7,12700,Croatia,HRV
+Croatia,1994,73.3,13700,Croatia,HRV
+Croatia,1995,73,15100,Croatia,HRV
+Croatia,1996,73.5,16200,Croatia,HRV
+Croatia,1997,73.5,17200,Croatia,HRV
+Croatia,1998,73.8,17700,Croatia,HRV
+Croatia,1999,74.1,17600,Croatia,HRV
+Croatia,2000,74.7,18200,Croatia,HRV
+Croatia,2001,74.9,19500,Croatia,HRV
+Croatia,2002,75,20600,Croatia,HRV
+Croatia,2003,75.1,21800,Croatia,HRV
+Croatia,2004,75.6,22700,Croatia,HRV
+Croatia,2005,75.6,23600,Croatia,HRV
+Croatia,2006,76,24800,Croatia,HRV
+Croatia,2007,75.9,26000,Croatia,HRV
+Croatia,2008,75.9,26500,Croatia,HRV
+Croatia,2009,76.5,24600,Croatia,HRV
+Croatia,2010,76.8,24400,Croatia,HRV
+Croatia,2011,77.1,24400,Croatia,HRV
+Croatia,2012,77.4,23900,Croatia,HRV
+Croatia,2013,77.8,23800,Croatia,HRV
+Croatia,2014,77.9,23900,Croatia,HRV
+Croatia,2015,77.7,24600,Croatia,HRV
+Croatia,2016,78.4,25700,Croatia,HRV
+Croatia,2017,78.5,26900,Croatia,HRV
+Croatia,2018,78.6,27900,Croatia,HRV
+Croatia,2019,78.7,28800,Croatia,HRV
+Croatia,2020,77.9,26400,Croatia,HRV
+Croatia,2021,79,27800,Croatia,HRV
+Hungary,1949,61.1,4320,Hungary,HUN
+Hungary,1950,61.9,4550,Hungary,HUN
+Hungary,1951,62.5,4940,Hungary,HUN
+Hungary,1952,64,5060,Hungary,HUN
+Hungary,1953,64.2,5110,Hungary,HUN
+Hungary,1954,65.5,5230,Hungary,HUN
+Hungary,1955,66.6,5630,Hungary,HUN
+Hungary,1956,65.7,5330,Hungary,HUN
+Hungary,1957,66.3,5810,Hungary,HUN
+Hungary,1958,67.3,6170,Hungary,HUN
+Hungary,1959,67.3,6390,Hungary,HUN
+Hungary,1960,68.1,6690,Hungary,HUN
+Hungary,1961,68.8,7000,Hungary,HUN
+Hungary,1962,68.2,7400,Hungary,HUN
+Hungary,1963,68.9,7920,Hungary,HUN
+Hungary,1964,69.5,8490,Hungary,HUN
+Hungary,1965,69.4,8680,Hungary,HUN
+Hungary,1966,69.9,9300,Hungary,HUN
+Hungary,1967,69.6,9960,Hungary,HUN
+Hungary,1968,69.4,10200,Hungary,HUN
+Hungary,1969,69.3,10600,Hungary,HUN
+Hungary,1970,69.2,10700,Hungary,HUN
+Hungary,1971,69.1,11400,Hungary,HUN
+Hungary,1972,69.7,11700,Hungary,HUN
+Hungary,1973,69.8,12500,Hungary,HUN
+Hungary,1974,69.5,13000,Hungary,HUN
+Hungary,1975,69.4,13400,Hungary,HUN
+Hungary,1976,69.6,13500,Hungary,HUN
+Hungary,1977,69.9,14500,Hungary,HUN
+Hungary,1978,69.5,15000,Hungary,HUN
+Hungary,1979,69.5,15200,Hungary,HUN
+Hungary,1980,69.1,15600,Hungary,HUN
+Hungary,1981,69.1,15900,Hungary,HUN
+Hungary,1982,69.3,16700,Hungary,HUN
+Hungary,1983,68.9,16800,Hungary,HUN
+Hungary,1984,68.9,17500,Hungary,HUN
+Hungary,1985,68.9,17300,Hungary,HUN
+Hungary,1986,69.2,17900,Hungary,HUN
+Hungary,1987,69.6,18400,Hungary,HUN
+Hungary,1988,70,19200,Hungary,HUN
+Hungary,1989,69.4,19100,Hungary,HUN
+Hungary,1990,69.5,18100,Hungary,HUN
+Hungary,1991,69.5,16500,Hungary,HUN
+Hungary,1992,69.1,16000,Hungary,HUN
+Hungary,1993,69.2,15900,Hungary,HUN
+Hungary,1994,69.6,16400,Hungary,HUN
+Hungary,1995,70,16700,Hungary,HUN
+Hungary,1996,70.8,16700,Hungary,HUN
+Hungary,1997,71,17300,Hungary,HUN
+Hungary,1998,71,18000,Hungary,HUN
+Hungary,1999,71.1,18600,Hungary,HUN
+Hungary,2000,71.9,19500,Hungary,HUN
+Hungary,2001,72.5,20300,Hungary,HUN
+Hungary,2002,72.6,21300,Hungary,HUN
+Hungary,2003,72.7,22300,Hungary,HUN
+Hungary,2004,73.1,23400,Hungary,HUN
+Hungary,2005,73.1,24400,Hungary,HUN
+Hungary,2006,73.5,25500,Hungary,HUN
+Hungary,2007,73.6,25600,Hungary,HUN
+Hungary,2008,74.2,25900,Hungary,HUN
+Hungary,2009,74.4,24200,Hungary,HUN
+Hungary,2010,74.8,24500,Hungary,HUN
+Hungary,2011,75.1,25100,Hungary,HUN
+Hungary,2012,75.4,24800,Hungary,HUN
+Hungary,2013,75.9,25400,Hungary,HUN
+Hungary,2014,76,26500,Hungary,HUN
+Hungary,2015,75.9,27600,Hungary,HUN
+Hungary,2016,76.3,28300,Hungary,HUN
+Hungary,2017,76.3,29600,Hungary,HUN
+Hungary,2018,76.3,31200,Hungary,HUN
+Hungary,2019,76.6,32600,Hungary,HUN
+Hungary,2020,75.8,31000,Hungary,HUN
+Hungary,2021,76.9,32400,Hungary,HUN
+Ireland,1949,64.9,6240,Ireland,IRL
+Ireland,1950,66,6330,Ireland,IRL
+Ireland,1951,65.8,6500,Ireland,IRL
+Ireland,1952,67.3,6680,Ireland,IRL
+Ireland,1953,68.1,6870,Ireland,IRL
+Ireland,1954,68.3,6960,Ireland,IRL
+Ireland,1955,68.5,7190,Ireland,IRL
+Ireland,1956,69.1,7150,Ireland,IRL
+Ireland,1957,69.4,7180,Ireland,IRL
+Ireland,1958,69.6,7100,Ireland,IRL
+Ireland,1959,69.8,7400,Ireland,IRL
+Ireland,1960,70.1,7850,Ireland,IRL
+Ireland,1961,70,8330,Ireland,IRL
+Ireland,1962,70.2,8630,Ireland,IRL
+Ireland,1963,70.5,9030,Ireland,IRL
+Ireland,1964,70.6,9410,Ireland,IRL
+Ireland,1965,70.8,9600,Ireland,IRL
+Ireland,1966,70.7,9720,Ireland,IRL
+Ireland,1967,71.1,10300,Ireland,IRL
+Ireland,1968,71.2,11200,Ireland,IRL
+Ireland,1969,71.1,11900,Ireland,IRL
+Ireland,1970,71.2,12200,Ireland,IRL
+Ireland,1971,71.5,12600,Ireland,IRL
+Ireland,1972,71.4,13300,Ireland,IRL
+Ireland,1973,71.4,13800,Ireland,IRL
+Ireland,1974,71.4,14200,Ireland,IRL
+Ireland,1975,71.7,14900,Ireland,IRL
+Ireland,1976,72,15000,Ireland,IRL
+Ireland,1977,72.2,16100.000000000002,Ireland,IRL
+Ireland,1978,72.2,17100,Ireland,IRL
+Ireland,1979,72.4,17500,Ireland,IRL
+Ireland,1980,72.7,18000,Ireland,IRL
+Ireland,1981,73,18400,Ireland,IRL
+Ireland,1982,73.3,18800,Ireland,IRL
+Ireland,1983,73.4,18700,Ireland,IRL
+Ireland,1984,73.7,19500,Ireland,IRL
+Ireland,1985,73.8,20200,Ireland,IRL
+Ireland,1986,73.9,20200,Ireland,IRL
+Ireland,1987,74.3,21300,Ireland,IRL
+Ireland,1988,74.5,22600,Ireland,IRL
+Ireland,1989,74.7,24200,Ireland,IRL
+Ireland,1990,75,26400,Ireland,IRL
+Ireland,1991,75.2,26800,Ireland,IRL
+Ireland,1992,75.4,27500,Ireland,IRL
+Ireland,1993,75.5,28100,Ireland,IRL
+Ireland,1994,75.8,29600,Ireland,IRL
+Ireland,1995,75.7,32299.999999999996,Ireland,IRL
+Ireland,1996,76,34400,Ireland,IRL
+Ireland,1997,76.1,37800,Ireland,IRL
+Ireland,1998,76.3,40700,Ireland,IRL
+Ireland,1999,76.4,44400,Ireland,IRL
+Ireland,2000,76.8,48000,Ireland,IRL
+Ireland,2001,77.3,49700,Ireland,IRL
+Ireland,2002,77.8,51800,Ireland,IRL
+Ireland,2003,78.3,52500,Ireland,IRL
+Ireland,2004,78.7,55000,Ireland,IRL
+Ireland,2005,79.1,56900,Ireland,IRL
+Ireland,2006,79.4,58200,Ireland,IRL
+Ireland,2007,79.7,59500,Ireland,IRL
+Ireland,2008,80,55700,Ireland,IRL
+Ireland,2009,80.2,52300,Ireland,IRL
+Ireland,2010,80.8,53000,Ireland,IRL
+Ireland,2011,80.8,52900,Ireland,IRL
+Ireland,2012,81,52800,Ireland,IRL
+Ireland,2013,81.2,53300,Ireland,IRL
+Ireland,2014,81.5,57400,Ireland,IRL
+Ireland,2015,81.7,71200,Ireland,IRL
+Ireland,2016,81.9,73000,Ireland,IRL
+Ireland,2017,81.9,78100,Ireland,IRL
+Ireland,2018,82,83400,Ireland,IRL
+Ireland,2019,82,86700,Ireland,IRL
+Ireland,2020,81.1,88100,Ireland,IRL
+Ireland,2021,82.3,90900,Ireland,IRL
+Iceland,1949,71.9,10200,Iceland,ISL
+Iceland,1950,71.5,9770,Iceland,ISL
+Iceland,1951,71.8,9290,Iceland,ISL
+Iceland,1952,72,10100,Iceland,ISL
+Iceland,1953,72.2,10200,Iceland,ISL
+Iceland,1954,72.5,10900,Iceland,ISL
+Iceland,1955,72.7,11600,Iceland,ISL
+Iceland,1956,72.8,11900,Iceland,ISL
+Iceland,1957,73,11600,Iceland,ISL
+Iceland,1958,73.1,12200,Iceland,ISL
+Iceland,1959,73.2,12300,Iceland,ISL
+Iceland,1960,73.4,12600,Iceland,ISL
+Iceland,1961,73.4,12400,Iceland,ISL
+Iceland,1962,73.5,13200,Iceland,ISL
+Iceland,1963,73.6,14300,Iceland,ISL
+Iceland,1964,73.7,15500,Iceland,ISL
+Iceland,1965,73.7,16300,Iceland,ISL
+Iceland,1966,73.8,17400,Iceland,ISL
+Iceland,1967,73.8,17000,Iceland,ISL
+Iceland,1968,73.9,15800,Iceland,ISL
+Iceland,1969,74,16100.000000000002,Iceland,ISL
+Iceland,1970,73.9,17200,Iceland,ISL
+Iceland,1971,74.2,19300,Iceland,ISL
+Iceland,1972,74.5,20200,Iceland,ISL
+Iceland,1973,74.8,21300,Iceland,ISL
+Iceland,1974,75.1,22300,Iceland,ISL
+Iceland,1975,75.7,22100,Iceland,ISL
+Iceland,1976,75.9,23300,Iceland,ISL
+Iceland,1977,76.1,25200,Iceland,ISL
+Iceland,1978,76.2,26500,Iceland,ISL
+Iceland,1979,76.3,27500,Iceland,ISL
+Iceland,1980,76.5,28800,Iceland,ISL
+Iceland,1981,76.7,29800,Iceland,ISL
+Iceland,1982,77,30000,Iceland,ISL
+Iceland,1983,77.1,29000,Iceland,ISL
+Iceland,1984,77.3,29900,Iceland,ISL
+Iceland,1985,77.3,30700,Iceland,ISL
+Iceland,1986,77.3,32500,Iceland,ISL
+Iceland,1987,77.7,35000,Iceland,ISL
+Iceland,1988,77.7,34300,Iceland,ISL
+Iceland,1989,77.9,34000,Iceland,ISL
+Iceland,1990,78.1,34200,Iceland,ISL
+Iceland,1991,78.2,33700,Iceland,ISL
+Iceland,1992,78.5,32200.000000000004,Iceland,ISL
+Iceland,1993,78.6,32299.999999999996,Iceland,ISL
+Iceland,1994,78.7,33100,Iceland,ISL
+Iceland,1995,78.4,33000,Iceland,ISL
+Iceland,1996,79,34300,Iceland,ISL
+Iceland,1997,79.2,36000,Iceland,ISL
+Iceland,1998,79.5,38100,Iceland,ISL
+Iceland,1999,79.9,39200,Iceland,ISL
+Iceland,2000,80.3,40600,Iceland,ISL
+Iceland,2001,80.6,41600,Iceland,ISL
+Iceland,2002,80.8,41500,Iceland,ISL
+Iceland,2003,81.2,42200,Iceland,ISL
+Iceland,2004,81.4,45100,Iceland,ISL
+Iceland,2005,81.6,47200,Iceland,ISL
+Iceland,2006,81.7,48600,Iceland,ISL
+Iceland,2007,81.9,51800,Iceland,ISL
+Iceland,2008,82.2,51900,Iceland,ISL
+Iceland,2009,82.4,48200,Iceland,ISL
+Iceland,2010,82.6,46600,Iceland,ISL
+Iceland,2011,82.8,47300,Iceland,ISL
+Iceland,2012,82.9,47700,Iceland,ISL
+Iceland,2013,83.2,49200,Iceland,ISL
+Iceland,2014,83.7,49700,Iceland,ISL
+Iceland,2015,83.7,51500,Iceland,ISL
+Iceland,2016,83.8,54100,Iceland,ISL
+Iceland,2017,83.9,55300,Iceland,ISL
+Iceland,2018,84,55900,Iceland,ISL
+Iceland,2019,84.1,55600,Iceland,ISL
+Iceland,2020,84,50900,Iceland,ISL
+Iceland,2021,84.4,51900,Iceland,ISL
+Italy,1949,64.2,5970,Italy,ITA
+Italy,1950,65.9,6420,Italy,ITA
+Italy,1951,65.7,6850,Italy,ITA
+Italy,1952,66.2,7330,Italy,ITA
+Italy,1953,67.1,7810,Italy,ITA
+Italy,1954,68.1,8160,Italy,ITA
+Italy,1955,68.4,8570,Italy,ITA
+Italy,1956,68.3,8910,Italy,ITA
+Italy,1957,68.4,9380,Italy,ITA
+Italy,1958,69.2,9830,Italy,ITA
+Italy,1959,69.7,10400,Italy,ITA
+Italy,1960,69.9,10800,Italy,ITA
+Italy,1961,70.2,11800,Italy,ITA
+Italy,1962,69.9,12700,Italy,ITA
+Italy,1963,70,13600,Italy,ITA
+Italy,1964,70.7,14100,Italy,ITA
+Italy,1965,70.9,14500,Italy,ITA
+Italy,1966,71.3,15200,Italy,ITA
+Italy,1967,71.3,16300,Italy,ITA
+Italy,1968,71.2,17700,Italy,ITA
+Italy,1969,71.3,18700,Italy,ITA
+Italy,1970,71.8,19200,Italy,ITA
+Italy,1971,72.1,19500,Italy,ITA
+Italy,1972,72.3,20100,Italy,ITA
+Italy,1973,72.4,21400,Italy,ITA
+Italy,1974,72.8,22400,Italy,ITA
+Italy,1975,72.9,21900,Italy,ITA
+Italy,1976,73.1,23400,Italy,ITA
+Italy,1977,73.5,24100,Italy,ITA
+Italy,1978,73.8,25100,Italy,ITA
+Italy,1979,74.1,26700,Italy,ITA
+Italy,1980,74.2,27800,Italy,ITA
+Italy,1981,74.6,28000,Italy,ITA
+Italy,1982,75,28300,Italy,ITA
+Italy,1983,75,28800,Italy,ITA
+Italy,1984,75.5,29700,Italy,ITA
+Italy,1985,75.8,30700,Italy,ITA
+Italy,1986,76.1,31800,Italy,ITA
+Italy,1987,76.5,33000,Italy,ITA
+Italy,1988,76.7,34500,Italy,ITA
+Italy,1989,77,35700,Italy,ITA
+Italy,1990,77.2,36700,Italy,ITA
+Italy,1991,77.3,37200,Italy,ITA
+Italy,1992,77.5,37500,Italy,ITA
+Italy,1993,77.8,37200,Italy,ITA
+Italy,1994,78,38000,Italy,ITA
+Italy,1995,78.2,39100,Italy,ITA
+Italy,1996,78.5,39600,Italy,ITA
+Italy,1997,78.8,40300,Italy,ITA
+Italy,1998,79,41000,Italy,ITA
+Italy,1999,79.3,41600,Italy,ITA
+Italy,2000,79.6,43200,Italy,ITA
+Italy,2001,79.9,44000,Italy,ITA
+Italy,2002,80.2,44100,Italy,ITA
+Italy,2003,80.3,43900,Italy,ITA
+Italy,2004,80.8,44300,Italy,ITA
+Italy,2005,81,44400,Italy,ITA
+Italy,2006,81.3,45100,Italy,ITA
+Italy,2007,81.5,45500,Italy,ITA
+Italy,2008,81.6,44800,Italy,ITA
+Italy,2009,81.8,42200,Italy,ITA
+Italy,2010,82.1,42800,Italy,ITA
+Italy,2011,82.2,43000,Italy,ITA
+Italy,2012,82.4,41600,Italy,ITA
+Italy,2013,82.6,40400,Italy,ITA
+Italy,2014,82.8,40000,Italy,ITA
+Italy,2015,82.7,40400,Italy,ITA
+Italy,2016,83,41000,Italy,ITA
+Italy,2017,83.1,41700,Italy,ITA
+Italy,2018,83.1,42200,Italy,ITA
+Italy,2019,83.1,42400,Italy,ITA
+Italy,2020,81.9,38700,Italy,ITA
+Italy,2021,83.4,40400,Italy,ITA
+Kazakhstan,1949,54.9,6240,Kazakhstan,KAZ
+Kazakhstan,1950,57.4,6760,Kazakhstan,KAZ
+Kazakhstan,1951,57.6,6680,Kazakhstan,KAZ
+Kazakhstan,1952,58,7000,Kazakhstan,KAZ
+Kazakhstan,1953,58.4,7190,Kazakhstan,KAZ
+Kazakhstan,1954,58.9,7420,Kazakhstan,KAZ
+Kazakhstan,1955,59.3,7920,Kazakhstan,KAZ
+Kazakhstan,1956,59.8,8530,Kazakhstan,KAZ
+Kazakhstan,1957,60.2,8560,Kazakhstan,KAZ
+Kazakhstan,1958,60.7,9060,Kazakhstan,KAZ
+Kazakhstan,1959,61,8800,Kazakhstan,KAZ
+Kazakhstan,1960,61.4,9480,Kazakhstan,KAZ
+Kazakhstan,1961,61.8,9840,Kazakhstan,KAZ
+Kazakhstan,1962,62.2,9940,Kazakhstan,KAZ
+Kazakhstan,1963,62.5,9570,Kazakhstan,KAZ
+Kazakhstan,1964,62.9,10600,Kazakhstan,KAZ
+Kazakhstan,1965,63.4,11000,Kazakhstan,KAZ
+Kazakhstan,1966,63.7,11400,Kazakhstan,KAZ
+Kazakhstan,1967,64,11700,Kazakhstan,KAZ
+Kazakhstan,1968,64.4,12200,Kazakhstan,KAZ
+Kazakhstan,1969,64.5,12200,Kazakhstan,KAZ
+Kazakhstan,1970,64.8,13000,Kazakhstan,KAZ
+Kazakhstan,1971,65.1,13100,Kazakhstan,KAZ
+Kazakhstan,1972,65.2,13000,Kazakhstan,KAZ
+Kazakhstan,1973,65.4,13900,Kazakhstan,KAZ
+Kazakhstan,1974,65.5,13800,Kazakhstan,KAZ
+Kazakhstan,1975,65.7,13800,Kazakhstan,KAZ
+Kazakhstan,1976,65.8,13700,Kazakhstan,KAZ
+Kazakhstan,1977,66.1,13700,Kazakhstan,KAZ
+Kazakhstan,1978,65.9,13700,Kazakhstan,KAZ
+Kazakhstan,1979,66.5,13600,Kazakhstan,KAZ
+Kazakhstan,1980,66.9,13600,Kazakhstan,KAZ
+Kazakhstan,1981,67,13200,Kazakhstan,KAZ
+Kazakhstan,1982,67.5,12900,Kazakhstan,KAZ
+Kazakhstan,1983,67.4,13300,Kazakhstan,KAZ
+Kazakhstan,1984,67.3,13100,Kazakhstan,KAZ
+Kazakhstan,1985,67.7,13100,Kazakhstan,KAZ
+Kazakhstan,1986,68.9,13100,Kazakhstan,KAZ
+Kazakhstan,1987,68.8,12900,Kazakhstan,KAZ
+Kazakhstan,1988,68.6,13900,Kazakhstan,KAZ
+Kazakhstan,1989,68.3,13800,Kazakhstan,KAZ
+Kazakhstan,1990,68.1,13500,Kazakhstan,KAZ
+Kazakhstan,1991,67.6,11900,Kazakhstan,KAZ
+Kazakhstan,1992,66.7,11300,Kazakhstan,KAZ
+Kazakhstan,1993,65.7,10300,Kazakhstan,KAZ
+Kazakhstan,1994,64.8,9160,Kazakhstan,KAZ
+Kazakhstan,1995,64,8550,Kazakhstan,KAZ
+Kazakhstan,1996,63.9,8730,Kazakhstan,KAZ
+Kazakhstan,1997,64.1,9020,Kazakhstan,KAZ
+Kazakhstan,1998,64.5,9000,Kazakhstan,KAZ
+Kazakhstan,1999,64.8,9330,Kazakhstan,KAZ
+Kazakhstan,2000,64.7,10300,Kazakhstan,KAZ
+Kazakhstan,2001,64.7,11700,Kazakhstan,KAZ
+Kazakhstan,2002,64.7,12800,Kazakhstan,KAZ
+Kazakhstan,2003,64.6,14000,Kazakhstan,KAZ
+Kazakhstan,2004,64.6,15200,Kazakhstan,KAZ
+Kazakhstan,2005,64.6,16500,Kazakhstan,KAZ
+Kazakhstan,2006,64.8,18100,Kazakhstan,KAZ
+Kazakhstan,2007,65.3,19500,Kazakhstan,KAZ
+Kazakhstan,2008,66.3,19900,Kazakhstan,KAZ
+Kazakhstan,2009,67.3,19600,Kazakhstan,KAZ
+Kazakhstan,2010,67.6,20800,Kazakhstan,KAZ
+Kazakhstan,2011,68.1,22000,Kazakhstan,KAZ
+Kazakhstan,2012,68.6,22700,Kazakhstan,KAZ
+Kazakhstan,2013,69.4,23700,Kazakhstan,KAZ
+Kazakhstan,2014,70.1,24400,Kazakhstan,KAZ
+Kazakhstan,2015,70.6,24300,Kazakhstan,KAZ
+Kazakhstan,2016,71.1,24200,Kazakhstan,KAZ
+Kazakhstan,2017,71.5,24900,Kazakhstan,KAZ
+Kazakhstan,2018,71.7,25500,Kazakhstan,KAZ
+Kazakhstan,2019,71.9,26400,Kazakhstan,KAZ
+Kazakhstan,2020,71.2,25300,Kazakhstan,KAZ
+Kazakhstan,2021,72.3,25800,Kazakhstan,KAZ
+Kyrgyz Republic,1949,47.8,2920,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1950,50,3040,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1951,50.4,3180,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1952,51,3310,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1953,51.7,3460,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1954,52.3,3610,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1955,52.9,3760,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1956,53.6,3920,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1957,54.2,4080,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1958,54.8,4260,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1959,55.3,4430,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1960,55.8,4620,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1961,56.3,4730,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1962,57,4850,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1963,57.4,4960,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1964,57.8,5080,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1965,58.3,5200,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1966,58.7,5320,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1967,59.1,5440,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1968,59.3,5570,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1969,60.1,5690,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1970,60.4,5810,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1971,60.9,5930,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1972,61.4,6060,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1973,61.7,6190,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1974,61.8,6120,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1975,62.2,6060,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1976,62.5,6000,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1977,62.6,5930,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1978,62.9,5870,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1979,63.4,5810,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1980,64.3,5740,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1981,64.8,5640,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1982,65.2,5530,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1983,65.4,5740,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1984,65.3,5650,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1985,66.2,5280,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1986,67.3,5040,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1987,67.4,4840,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1988,67.1,5200,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1989,67,5190,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1990,67.3,5160,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1991,67.2,4670,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1992,67.1,3980,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1993,66.3,3360,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1994,65.5,2690,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1995,65.6,2520,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1996,66.3,2660,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1997,66.8,2880,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1998,67.2,2890,Kyrgyz Republic,KGZ
+Kyrgyz Republic,1999,67.6,2960,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2000,67.2,3080,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2001,67.3,3210,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2002,67.2,3180,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2003,67.1,3370,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2004,67.4,3560,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2005,67.4,3520,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2006,67.2,3590,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2007,67.6,3860,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2008,68.3,4140,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2009,69.3,4210,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2010,69.6,4140,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2011,70.3,4340,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2012,70.7,4260,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2013,71.2,4630,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2014,71.6,4720,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2015,71.9,4810,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2016,72.7,4910,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2017,73,5050,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2018,73.3,5130,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2019,73.4,5250,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2020,72.9,4740,Kyrgyz Republic,KGZ
+Kyrgyz Republic,2021,73.7,4920,Kyrgyz Republic,KGZ
+Lithuania,1949,63.9,6600,Lithuania,LTU
+Lithuania,1950,67.1,7110,Lithuania,LTU
+Lithuania,1951,67.1,6990,Lithuania,LTU
+Lithuania,1952,67.2,7280,Lithuania,LTU
+Lithuania,1953,67.3,7430,Lithuania,LTU
+Lithuania,1954,67.5,7630,Lithuania,LTU
+Lithuania,1955,67.5,8090,Lithuania,LTU
+Lithuania,1956,67.8,8670,Lithuania,LTU
+Lithuania,1957,68,8650,Lithuania,LTU
+Lithuania,1958,68,9090,Lithuania,LTU
+Lithuania,1959,68.4,8790,Lithuania,LTU
+Lithuania,1960,69.9,9410,Lithuania,LTU
+Lithuania,1961,70.6,9760,Lithuania,LTU
+Lithuania,1962,69.9,9850,Lithuania,LTU
+Lithuania,1963,70.7,9480,Lithuania,LTU
+Lithuania,1964,72,10500,Lithuania,LTU
+Lithuania,1965,72,10900,Lithuania,LTU
+Lithuania,1966,71.9,11400,Lithuania,LTU
+Lithuania,1967,72,11700,Lithuania,LTU
+Lithuania,1968,71.7,12300,Lithuania,LTU
+Lithuania,1969,71.5,12400,Lithuania,LTU
+Lithuania,1970,71.3,13200,Lithuania,LTU
+Lithuania,1971,71.9,13400,Lithuania,LTU
+Lithuania,1972,71.5,13400,Lithuania,LTU
+Lithuania,1973,71.6,14400,Lithuania,LTU
+Lithuania,1974,71.3,14500,Lithuania,LTU
+Lithuania,1975,71.1,14700,Lithuania,LTU
+Lithuania,1976,71.1,14800,Lithuania,LTU
+Lithuania,1977,70.8,15000,Lithuania,LTU
+Lithuania,1978,70.7,15200,Lithuania,LTU
+Lithuania,1979,70.7,15300,Lithuania,LTU
+Lithuania,1980,70.6,15500,Lithuania,LTU
+Lithuania,1981,70.7,16100.000000000002,Lithuania,LTU
+Lithuania,1982,70.9,16800,Lithuania,LTU
+Lithuania,1983,71,16900,Lithuania,LTU
+Lithuania,1984,70.5,17100,Lithuania,LTU
+Lithuania,1985,70.9,16500,Lithuania,LTU
+Lithuania,1986,72.4,17000,Lithuania,LTU
+Lithuania,1987,72.2,17300,Lithuania,LTU
+Lithuania,1988,72.2,18600,Lithuania,LTU
+Lithuania,1989,71.6,18500,Lithuania,LTU
+Lithuania,1990,71.4,17400,Lithuania,LTU
+Lithuania,1991,70.5,16500,Lithuania,LTU
+Lithuania,1992,70.4,13000,Lithuania,LTU
+Lithuania,1993,69,11000,Lithuania,LTU
+Lithuania,1994,68.5,10000,Lithuania,LTU
+Lithuania,1995,69,10700,Lithuania,LTU
+Lithuania,1996,70.3,11300,Lithuania,LTU
+Lithuania,1997,71.2,12300,Lithuania,LTU
+Lithuania,1998,71.5,13400,Lithuania,LTU
+Lithuania,1999,71.9,13300,Lithuania,LTU
+Lithuania,2000,72.2,13900,Lithuania,LTU
+Lithuania,2001,71.7,14900,Lithuania,LTU
+Lithuania,2002,72,16100.000000000002,Lithuania,LTU
+Lithuania,2003,72,17900,Lithuania,LTU
+Lithuania,2004,72,19300,Lithuania,LTU
+Lithuania,2005,71.3,21100,Lithuania,LTU
+Lithuania,2006,70.9,23100,Lithuania,LTU
+Lithuania,2007,70.6,25900,Lithuania,LTU
+Lithuania,2008,71.4,26900,Lithuania,LTU
+Lithuania,2009,73,23100,Lithuania,LTU
+Lithuania,2010,73.2,24000,Lithuania,LTU
+Lithuania,2011,73.7,26100,Lithuania,LTU
+Lithuania,2012,74,27400,Lithuania,LTU
+Lithuania,2013,74,28700,Lithuania,LTU
+Lithuania,2014,74.6,30000,Lithuania,LTU
+Lithuania,2015,74.7,30800,Lithuania,LTU
+Lithuania,2016,74.9,32000,Lithuania,LTU
+Lithuania,2017,76,33900,Lithuania,LTU
+Lithuania,2018,76.1,35500,Lithuania,LTU
+Lithuania,2019,76.2,37300,Lithuania,LTU
+Lithuania,2020,74.8,36900,Lithuania,LTU
+Lithuania,2021,76.5,38100,Lithuania,LTU
+Luxembourg,1949,65.9,15000,Luxembourg,LUX
+Luxembourg,1950,66.4,15400,Luxembourg,LUX
+Luxembourg,1951,66.5,14200,Luxembourg,LUX
+Luxembourg,1952,66.6,15100,Luxembourg,LUX
+Luxembourg,1953,66.8,15200,Luxembourg,LUX
+Luxembourg,1954,67.1,15200,Luxembourg,LUX
+Luxembourg,1955,67.5,15900,Luxembourg,LUX
+Luxembourg,1956,67.7,16500,Luxembourg,LUX
+Luxembourg,1957,68.1,17200,Luxembourg,LUX
+Luxembourg,1958,68.5,17400,Luxembourg,LUX
+Luxembourg,1959,68.7,17700,Luxembourg,LUX
+Luxembourg,1960,68.9,18300,Luxembourg,LUX
+Luxembourg,1961,69.1,19200,Luxembourg,LUX
+Luxembourg,1962,69.1,19600,Luxembourg,LUX
+Luxembourg,1963,69.2,20500,Luxembourg,LUX
+Luxembourg,1964,69.4,22200,Luxembourg,LUX
+Luxembourg,1965,69.6,22800,Luxembourg,LUX
+Luxembourg,1966,69.7,23300,Luxembourg,LUX
+Luxembourg,1967,69.8,23700,Luxembourg,LUX
+Luxembourg,1968,70.1,25100,Luxembourg,LUX
+Luxembourg,1969,70.2,27900,Luxembourg,LUX
+Luxembourg,1970,70.2,28700,Luxembourg,LUX
+Luxembourg,1971,70.3,29700,Luxembourg,LUX
+Luxembourg,1972,70.6,31800,Luxembourg,LUX
+Luxembourg,1973,70.8,34600,Luxembourg,LUX
+Luxembourg,1974,71,36200,Luxembourg,LUX
+Luxembourg,1975,71.2,34000,Luxembourg,LUX
+Luxembourg,1976,71.4,35200,Luxembourg,LUX
+Luxembourg,1977,71.8,36200,Luxembourg,LUX
+Luxembourg,1978,72.1,38200,Luxembourg,LUX
+Luxembourg,1979,72.4,39600,Luxembourg,LUX
+Luxembourg,1980,72.6,40300,Luxembourg,LUX
+Luxembourg,1981,72.7,41200,Luxembourg,LUX
+Luxembourg,1982,72.9,41600,Luxembourg,LUX
+Luxembourg,1983,73.2,43400,Luxembourg,LUX
+Luxembourg,1984,73.5,46700,Luxembourg,LUX
+Luxembourg,1985,73.9,48600,Luxembourg,LUX
+Luxembourg,1986,74.2,52800,Luxembourg,LUX
+Luxembourg,1987,74.4,54300,Luxembourg,LUX
+Luxembourg,1988,74.6,60100,Luxembourg,LUX
+Luxembourg,1989,75,66500,Luxembourg,LUX
+Luxembourg,1990,75.3,67900,Luxembourg,LUX
+Luxembourg,1991,75.5,72700,Luxembourg,LUX
+Luxembourg,1992,75.8,73100,Luxembourg,LUX
+Luxembourg,1993,76,75100,Luxembourg,LUX
+Luxembourg,1994,76.3,77000,Luxembourg,LUX
+Luxembourg,1995,76.6,77000,Luxembourg,LUX
+Luxembourg,1996,76.9,77000,Luxembourg,LUX
+Luxembourg,1997,77.2,80400,Luxembourg,LUX
+Luxembourg,1998,77.5,84200,Luxembourg,LUX
+Luxembourg,1999,77.8,90100,Luxembourg,LUX
+Luxembourg,2000,78,96200,Luxembourg,LUX
+Luxembourg,2001,78.4,97500,Luxembourg,LUX
+Luxembourg,2002,78.7,100000,Luxembourg,LUX
+Luxembourg,2003,79,101000,Luxembourg,LUX
+Luxembourg,2004,79.2,103000,Luxembourg,LUX
+Luxembourg,2005,79.5,104000,Luxembourg,LUX
+Luxembourg,2006,79.8,108000,Luxembourg,LUX
+Luxembourg,2007,80.2,115000,Luxembourg,LUX
+Luxembourg,2008,80.6,112000,Luxembourg,LUX
+Luxembourg,2009,80.8,105000,Luxembourg,LUX
+Luxembourg,2010,81,108000,Luxembourg,LUX
+Luxembourg,2011,81.3,108000,Luxembourg,LUX
+Luxembourg,2012,81.5,105000,Luxembourg,LUX
+Luxembourg,2013,81.7,107000,Luxembourg,LUX
+Luxembourg,2014,82,109000,Luxembourg,LUX
+Luxembourg,2015,82.3,111000,Luxembourg,LUX
+Luxembourg,2016,82.7,113000,Luxembourg,LUX
+Luxembourg,2017,82.8,113000,Luxembourg,LUX
+Luxembourg,2018,82.9,114000,Luxembourg,LUX
+Luxembourg,2019,82.9,114000,Luxembourg,LUX
+Luxembourg,2020,82,111000,Luxembourg,LUX
+Luxembourg,2021,83.2,113000,Luxembourg,LUX
+Latvia,1949,62.8,4430,Latvia,LVA
+Latvia,1950,64.7,4860,Latvia,LVA
+Latvia,1951,66.2,4870,Latvia,LVA
+Latvia,1952,67.7,5160,Latvia,LVA
+Latvia,1953,68.9,5370,Latvia,LVA
+Latvia,1954,69.1,5610,Latvia,LVA
+Latvia,1955,69.3,6060,Latvia,LVA
+Latvia,1956,69.5,6610,Latvia,LVA
+Latvia,1957,69.7,6710,Latvia,LVA
+Latvia,1958,69.9,7180,Latvia,LVA
+Latvia,1959,70.1,7070,Latvia,LVA
+Latvia,1960,70.3,7700,Latvia,LVA
+Latvia,1961,70.4,8120,Latvia,LVA
+Latvia,1962,70.2,8330,Latvia,LVA
+Latvia,1963,70.5,8150,Latvia,LVA
+Latvia,1964,71.6,9220,Latvia,LVA
+Latvia,1965,71.4,9770,Latvia,LVA
+Latvia,1966,71.3,10300,Latvia,LVA
+Latvia,1967,71,10700,Latvia,LVA
+Latvia,1968,70.7,11400,Latvia,LVA
+Latvia,1969,70.5,11600,Latvia,LVA
+Latvia,1970,70.5,12600,Latvia,LVA
+Latvia,1971,70.6,12900,Latvia,LVA
+Latvia,1972,70.3,13100,Latvia,LVA
+Latvia,1973,70.2,14200,Latvia,LVA
+Latvia,1974,70.1,14400,Latvia,LVA
+Latvia,1975,69.5,14500,Latvia,LVA
+Latvia,1976,69.5,14700,Latvia,LVA
+Latvia,1977,69.4,14900,Latvia,LVA
+Latvia,1978,69.2,15100,Latvia,LVA
+Latvia,1979,69,15200,Latvia,LVA
+Latvia,1980,69.2,15400,Latvia,LVA
+Latvia,1981,69.2,15700,Latvia,LVA
+Latvia,1982,69.8,15900,Latvia,LVA
+Latvia,1983,69.7,16100.000000000002,Latvia,LVA
+Latvia,1984,69.6,16400,Latvia,LVA
+Latvia,1985,69.9,15900,Latvia,LVA
+Latvia,1986,71.2,16200,Latvia,LVA
+Latvia,1987,71.3,15900,Latvia,LVA
+Latvia,1988,71.1,16500,Latvia,LVA
+Latvia,1989,70.3,17300,Latvia,LVA
+Latvia,1990,69.8,17500,Latvia,LVA
+Latvia,1991,69.4,15200,Latvia,LVA
+Latvia,1992,68.8,10400,Latvia,LVA
+Latvia,1993,66.9,9270,Latvia,LVA
+Latvia,1994,65.7,9550,Latvia,LVA
+Latvia,1995,66.7,9540,Latvia,LVA
+Latvia,1996,69,9890,Latvia,LVA
+Latvia,1997,69.7,10900,Latvia,LVA
+Latvia,1998,69.3,11700,Latvia,LVA
+Latvia,1999,70.1,12100,Latvia,LVA
+Latvia,2000,70.7,12900,Latvia,LVA
+Latvia,2001,70.1,13900,Latvia,LVA
+Latvia,2002,70.5,15100,Latvia,LVA
+Latvia,2003,71,16500,Latvia,LVA
+Latvia,2004,71.3,18100,Latvia,LVA
+Latvia,2005,70.9,20200,Latvia,LVA
+Latvia,2006,70.5,22900,Latvia,LVA
+Latvia,2007,70.9,25400,Latvia,LVA
+Latvia,2008,72.1,24800,Latvia,LVA
+Latvia,2009,72.9,21600,Latvia,LVA
+Latvia,2010,73.3,21100,Latvia,LVA
+Latvia,2011,73.9,22900,Latvia,LVA
+Latvia,2012,74.2,24100,Latvia,LVA
+Latvia,2013,74.2,25000,Latvia,LVA
+Latvia,2014,74.7,25500,Latvia,LVA
+Latvia,2015,75.1,26700,Latvia,LVA
+Latvia,2016,75.7,27600,Latvia,LVA
+Latvia,2017,75.8,28700,Latvia,LVA
+Latvia,2018,75.8,30100,Latvia,LVA
+Latvia,2019,75.9,31000,Latvia,LVA
+Latvia,2020,75.9,30100,Latvia,LVA
+Latvia,2021,76.1,31300,Latvia,LVA
+Monaco,1949,NA,12200,Monaco,MCO
+Monaco,1950,68.2,12400,Monaco,MCO
+Monaco,1951,68.1,13000,Monaco,MCO
+Monaco,1952,68.3,13500,Monaco,MCO
+Monaco,1953,68.7,14100,Monaco,MCO
+Monaco,1954,69,14800,Monaco,MCO
+Monaco,1955,69.3,15400,Monaco,MCO
+Monaco,1956,69.7,16100.000000000002,Monaco,MCO
+Monaco,1957,70,16800,Monaco,MCO
+Monaco,1958,70.4,17600,Monaco,MCO
+Monaco,1959,70.7,18300,Monaco,MCO
+Monaco,1960,70.9,19100,Monaco,MCO
+Monaco,1961,71.1,20000,Monaco,MCO
+Monaco,1962,71.3,20900,Monaco,MCO
+Monaco,1963,71.5,21800,Monaco,MCO
+Monaco,1964,71.8,22800,Monaco,MCO
+Monaco,1965,72.1,23800,Monaco,MCO
+Monaco,1966,72.3,24800,Monaco,MCO
+Monaco,1967,72.6,25900,Monaco,MCO
+Monaco,1968,72.9,27100,Monaco,MCO
+Monaco,1969,73.3,28200,Monaco,MCO
+Monaco,1970,73.6,29500,Monaco,MCO
+Monaco,1971,73.9,30800,Monaco,MCO
+Monaco,1972,74.2,32000,Monaco,MCO
+Monaco,1973,74.5,33800,Monaco,MCO
+Monaco,1974,74.8,35100,Monaco,MCO
+Monaco,1975,75,34600,Monaco,MCO
+Monaco,1976,75.2,35900,Monaco,MCO
+Monaco,1977,75.4,37000,Monaco,MCO
+Monaco,1978,75.6,38400,Monaco,MCO
+Monaco,1979,75.8,39600,Monaco,MCO
+Monaco,1980,76,40100,Monaco,MCO
+Monaco,1981,76.2,40300,Monaco,MCO
+Monaco,1982,76.2,41000,Monaco,MCO
+Monaco,1983,76.4,41300,Monaco,MCO
+Monaco,1984,76.7,41700,Monaco,MCO
+Monaco,1985,77,42200,Monaco,MCO
+Monaco,1986,77.3,43000,Monaco,MCO
+Monaco,1987,77.8,43800,Monaco,MCO
+Monaco,1988,77.8,45600,Monaco,MCO
+Monaco,1989,78,47300,Monaco,MCO
+Monaco,1990,78.1,48300,Monaco,MCO
+Monaco,1991,78.2,48500,Monaco,MCO
+Monaco,1992,78.3,48900,Monaco,MCO
+Monaco,1993,78.4,48100,Monaco,MCO
+Monaco,1994,78.5,49000,Monaco,MCO
+Monaco,1995,78.6,49800,Monaco,MCO
+Monaco,1996,78.6,50100,Monaco,MCO
+Monaco,1997,78.7,51100,Monaco,MCO
+Monaco,1998,78.7,52700,Monaco,MCO
+Monaco,1999,78.8,54300,Monaco,MCO
+Monaco,2000,78.8,56100,Monaco,MCO
+Monaco,2001,78.9,56900,Monaco,MCO
+Monaco,2002,78.9,57100,Monaco,MCO
+Monaco,2003,79,57300,Monaco,MCO
+Monaco,2004,79,58400,Monaco,MCO
+Monaco,2005,79,59000,Monaco,MCO
+Monaco,2006,79,61100,Monaco,MCO
+Monaco,2007,79.1,68100,Monaco,MCO
+Monaco,2008,79.1,66900,Monaco,MCO
+Monaco,2009,79.2,60100,Monaco,MCO
+Monaco,2010,79.2,60500,Monaco,MCO
+Monaco,2011,79.2,64900.00000000001,Monaco,MCO
+Monaco,2012,79.3,64900.00000000001,Monaco,MCO
+Monaco,2013,79.3,64700,Monaco,MCO
+Monaco,2014,79.4,65099.99999999999,Monaco,MCO
+Monaco,2015,79.5,65700,Monaco,MCO
+Monaco,2016,79.7,66600,Monaco,MCO
+Monaco,2017,79.8,67200,Monaco,MCO
+Monaco,2018,79.9,67900,Monaco,MCO
+Monaco,2019,80.1,68600,Monaco,MCO
+Monaco,2020,NA,69300,Monaco,MCO
+Monaco,2021,NA,70000,Monaco,MCO
+Moldova,1949,51.9,3030,Moldova,MDA
+Moldova,1950,53.4,3320,Moldova,MDA
+Moldova,1951,53.8,3310,Moldova,MDA
+Moldova,1952,54.3,3500,Moldova,MDA
+Moldova,1953,54.9,3630,Moldova,MDA
+Moldova,1954,55.4,3780,Moldova,MDA
+Moldova,1955,56,4080,Moldova,MDA
+Moldova,1956,56.6,4430,Moldova,MDA
+Moldova,1957,57.2,4490,Moldova,MDA
+Moldova,1958,57.9,4790,Moldova,MDA
+Moldova,1959,58,4700,Moldova,MDA
+Moldova,1960,58.4,5100,Moldova,MDA
+Moldova,1961,58.8,5380,Moldova,MDA
+Moldova,1962,59.3,5520,Moldova,MDA
+Moldova,1963,59.6,5400,Moldova,MDA
+Moldova,1964,60.1,6130,Moldova,MDA
+Moldova,1965,60.8,6520,Moldova,MDA
+Moldova,1966,61.2,6970,Moldova,MDA
+Moldova,1967,61.7,7430,Moldova,MDA
+Moldova,1968,62.2,8030,Moldova,MDA
+Moldova,1969,62.7,8320,Moldova,MDA
+Moldova,1970,62.9,9150,Moldova,MDA
+Moldova,1971,63,9580,Moldova,MDA
+Moldova,1972,63.3,9830,Moldova,MDA
+Moldova,1973,63.5,10900,Moldova,MDA
+Moldova,1974,63.7,11100,Moldova,MDA
+Moldova,1975,64,11300,Moldova,MDA
+Moldova,1976,64.4,11500,Moldova,MDA
+Moldova,1977,64.8,11800,Moldova,MDA
+Moldova,1978,65.1,12000,Moldova,MDA
+Moldova,1979,65.6,12200,Moldova,MDA
+Moldova,1980,65.8,12500,Moldova,MDA
+Moldova,1981,66.1,13300,Moldova,MDA
+Moldova,1982,66.2,14100,Moldova,MDA
+Moldova,1983,65.3,14700,Moldova,MDA
+Moldova,1984,65.7,15100,Moldova,MDA
+Moldova,1985,66.3,13600,Moldova,MDA
+Moldova,1986,67.9,14600,Moldova,MDA
+Moldova,1987,68.6,14600,Moldova,MDA
+Moldova,1988,68.6,14600,Moldova,MDA
+Moldova,1989,68.6,15500,Moldova,MDA
+Moldova,1990,68.3,15000,Moldova,MDA
+Moldova,1991,67.6,12300,Moldova,MDA
+Moldova,1992,67.8,8630,Moldova,MDA
+Moldova,1993,67.8,8460,Moldova,MDA
+Moldova,1994,66.4,5810,Moldova,MDA
+Moldova,1995,66,5700,Moldova,MDA
+Moldova,1996,66.9,5370,Moldova,MDA
+Moldova,1997,68.1,5480,Moldova,MDA
+Moldova,1998,68.8,5120,Moldova,MDA
+Moldova,1999,68.8,4960,Moldova,MDA
+Moldova,2000,68.9,5070,Moldova,MDA
+Moldova,2001,69.2,5400,Moldova,MDA
+Moldova,2002,69.1,5830,Moldova,MDA
+Moldova,2003,69.1,6230,Moldova,MDA
+Moldova,2004,69.4,6710,Moldova,MDA
+Moldova,2005,68.9,7230,Moldova,MDA
+Moldova,2006,69.4,7600,Moldova,MDA
+Moldova,2007,69.6,7850,Moldova,MDA
+Moldova,2008,69.9,8470,Moldova,MDA
+Moldova,2009,70.1,7980,Moldova,MDA
+Moldova,2010,70,8550,Moldova,MDA
+Moldova,2011,71.7,9050,Moldova,MDA
+Moldova,2012,72,9000,Moldova,MDA
+Moldova,2013,72.7,9820,Moldova,MDA
+Moldova,2014,72.3,10300,Moldova,MDA
+Moldova,2015,72.1,10400,Moldova,MDA
+Moldova,2016,72.6,10900,Moldova,MDA
+Moldova,2017,73.7,11700,Moldova,MDA
+Moldova,2018,74,12400,Moldova,MDA
+Moldova,2019,74.3,13100,Moldova,MDA
+Moldova,2020,73.3,12300,Moldova,MDA
+Moldova,2021,74.6,13100,Moldova,MDA
+North Macedonia,1949,49.5,2930,"Macedonia, FYR",MKD
+North Macedonia,1950,50.2,2690,"Macedonia, FYR",MKD
+North Macedonia,1951,46.2,2740,"Macedonia, FYR",MKD
+North Macedonia,1952,50.7,2470,"Macedonia, FYR",MKD
+North Macedonia,1953,50.4,2580,"Macedonia, FYR",MKD
+North Macedonia,1954,53.2,2630,"Macedonia, FYR",MKD
+North Macedonia,1955,51.7,3180,"Macedonia, FYR",MKD
+North Macedonia,1956,53.6,3220,"Macedonia, FYR",MKD
+North Macedonia,1957,54.1,3520,"Macedonia, FYR",MKD
+North Macedonia,1958,57.8,3800,"Macedonia, FYR",MKD
+North Macedonia,1959,57.1,3890,"Macedonia, FYR",MKD
+North Macedonia,1960,57.5,4120,"Macedonia, FYR",MKD
+North Macedonia,1961,59.3,4190,"Macedonia, FYR",MKD
+North Macedonia,1962,58.6,4240,"Macedonia, FYR",MKD
+North Macedonia,1963,57.4,4940,"Macedonia, FYR",MKD
+North Macedonia,1964,60.5,6340,"Macedonia, FYR",MKD
+North Macedonia,1965,61.8,5750,"Macedonia, FYR",MKD
+North Macedonia,1966,63.9,6210,"Macedonia, FYR",MKD
+North Macedonia,1967,63.7,6430,"Macedonia, FYR",MKD
+North Macedonia,1968,64.3,6590,"Macedonia, FYR",MKD
+North Macedonia,1969,64.2,7220,"Macedonia, FYR",MKD
+North Macedonia,1970,65.3,7730,"Macedonia, FYR",MKD
+North Macedonia,1971,66.3,8160,"Macedonia, FYR",MKD
+North Macedonia,1972,66.8,8470,"Macedonia, FYR",MKD
+North Macedonia,1973,67.8,8900,"Macedonia, FYR",MKD
+North Macedonia,1974,68.5,9320,"Macedonia, FYR",MKD
+North Macedonia,1975,68.7,9660,"Macedonia, FYR",MKD
+North Macedonia,1976,69.3,9990,"Macedonia, FYR",MKD
+North Macedonia,1977,69.6,10500,"Macedonia, FYR",MKD
+North Macedonia,1978,69.7,11300,"Macedonia, FYR",MKD
+North Macedonia,1979,70,12000,"Macedonia, FYR",MKD
+North Macedonia,1980,70.1,12000,"Macedonia, FYR",MKD
+North Macedonia,1981,70.3,12100,"Macedonia, FYR",MKD
+North Macedonia,1982,70.8,12200,"Macedonia, FYR",MKD
+North Macedonia,1983,69.5,11900,"Macedonia, FYR",MKD
+North Macedonia,1984,70.1,12300,"Macedonia, FYR",MKD
+North Macedonia,1985,70.5,12200,"Macedonia, FYR",MKD
+North Macedonia,1986,70.5,13000,"Macedonia, FYR",MKD
+North Macedonia,1987,69.9,12800,"Macedonia, FYR",MKD
+North Macedonia,1988,69.4,12400,"Macedonia, FYR",MKD
+North Macedonia,1989,69.4,12700,"Macedonia, FYR",MKD
+North Macedonia,1990,70.5,11400,"Macedonia, FYR",MKD
+North Macedonia,1991,70.8,10700,"Macedonia, FYR",MKD
+North Macedonia,1992,70.3,10000,"Macedonia, FYR",MKD
+North Macedonia,1993,70.2,9320,"Macedonia, FYR",MKD
+North Macedonia,1994,70.5,9160,"Macedonia, FYR",MKD
+North Macedonia,1995,70.7,9050,"Macedonia, FYR",MKD
+North Macedonia,1996,71,9130,"Macedonia, FYR",MKD
+North Macedonia,1997,71.2,9220,"Macedonia, FYR",MKD
+North Macedonia,1998,71.1,9470,"Macedonia, FYR",MKD
+North Macedonia,1999,71.4,9820,"Macedonia, FYR",MKD
+North Macedonia,2000,71.5,10200,"Macedonia, FYR",MKD
+North Macedonia,2001,71.4,9860,"Macedonia, FYR",MKD
+North Macedonia,2002,71.5,9980,"Macedonia, FYR",MKD
+North Macedonia,2003,71.7,10200,"Macedonia, FYR",MKD
+North Macedonia,2004,72.2,10600,"Macedonia, FYR",MKD
+North Macedonia,2005,72.5,11100,"Macedonia, FYR",MKD
+North Macedonia,2006,72.3,11700,"Macedonia, FYR",MKD
+North Macedonia,2007,72.4,12400,"Macedonia, FYR",MKD
+North Macedonia,2008,72.9,13100,"Macedonia, FYR",MKD
+North Macedonia,2009,73,13000,"Macedonia, FYR",MKD
+North Macedonia,2010,73.4,13500,"Macedonia, FYR",MKD
+North Macedonia,2011,73.7,13800,"Macedonia, FYR",MKD
+North Macedonia,2012,73.7,13700,"Macedonia, FYR",MKD
+North Macedonia,2013,74,14100,"Macedonia, FYR",MKD
+North Macedonia,2014,74,14600,"Macedonia, FYR",MKD
+North Macedonia,2015,74,15100,"Macedonia, FYR",MKD
+North Macedonia,2016,73.8,15500,"Macedonia, FYR",MKD
+North Macedonia,2017,74.1,15700,"Macedonia, FYR",MKD
+North Macedonia,2018,74.3,16100.000000000002,"Macedonia, FYR",MKD
+North Macedonia,2019,74.4,16700,"Macedonia, FYR",MKD
+North Macedonia,2020,72.8,15900,"Macedonia, FYR",MKD
+North Macedonia,2021,74.6,16500,"Macedonia, FYR",MKD
+Montenegro,1949,66.5,2470,Montenegro,MNE
+Montenegro,1950,67.5,2260,Montenegro,MNE
+Montenegro,1951,67.2,2280,Montenegro,MNE
+Montenegro,1952,68.2,2050,Montenegro,MNE
+Montenegro,1953,68.4,1810,Montenegro,MNE
+Montenegro,1954,68.9,1820,Montenegro,MNE
+Montenegro,1955,68.8,2410,Montenegro,MNE
+Montenegro,1956,69.1,2190,Montenegro,MNE
+Montenegro,1957,69.6,2440,Montenegro,MNE
+Montenegro,1958,70.5,2380,Montenegro,MNE
+Montenegro,1959,70.5,2530,Montenegro,MNE
+Montenegro,1960,70.8,2810,Montenegro,MNE
+Montenegro,1961,71.2,3360,Montenegro,MNE
+Montenegro,1962,71.1,3270,Montenegro,MNE
+Montenegro,1963,71.5,3700,Montenegro,MNE
+Montenegro,1964,71.8,4290,Montenegro,MNE
+Montenegro,1965,72.4,4370,Montenegro,MNE
+Montenegro,1966,73.2,4540,Montenegro,MNE
+Montenegro,1967,73.3,4600,Montenegro,MNE
+Montenegro,1968,73.5,4970,Montenegro,MNE
+Montenegro,1969,73.4,5630,Montenegro,MNE
+Montenegro,1970,73.7,6220,Montenegro,MNE
+Montenegro,1971,73.7,6620,Montenegro,MNE
+Montenegro,1972,73.8,7130,Montenegro,MNE
+Montenegro,1973,73.6,7260,Montenegro,MNE
+Montenegro,1974,73.4,7860,Montenegro,MNE
+Montenegro,1975,73.2,8270,Montenegro,MNE
+Montenegro,1976,73.2,8860,Montenegro,MNE
+Montenegro,1977,73.2,10000,Montenegro,MNE
+Montenegro,1978,73.2,10700,Montenegro,MNE
+Montenegro,1979,72.4,10900,Montenegro,MNE
+Montenegro,1980,73.6,13700,Montenegro,MNE
+Montenegro,1981,73.7,13500,Montenegro,MNE
+Montenegro,1982,73.3,14100,Montenegro,MNE
+Montenegro,1983,72.8,14100,Montenegro,MNE
+Montenegro,1984,72.8,14800,Montenegro,MNE
+Montenegro,1985,73,15100,Montenegro,MNE
+Montenegro,1986,73.3,15900,Montenegro,MNE
+Montenegro,1987,73.5,15400,Montenegro,MNE
+Montenegro,1988,73.8,15100,Montenegro,MNE
+Montenegro,1989,74.2,15400,Montenegro,MNE
+Montenegro,1990,74.7,14200,Montenegro,MNE
+Montenegro,1991,75,13400,Montenegro,MNE
+Montenegro,1992,75,10300,Montenegro,MNE
+Montenegro,1993,74.7,6830,Montenegro,MNE
+Montenegro,1994,74.4,7170,Montenegro,MNE
+Montenegro,1995,74.3,8490,Montenegro,MNE
+Montenegro,1996,74.1,11300,Montenegro,MNE
+Montenegro,1997,73.8,12600,Montenegro,MNE
+Montenegro,1998,73.7,13300,Montenegro,MNE
+Montenegro,1999,73.6,12100,Montenegro,MNE
+Montenegro,2000,73.7,12500,Montenegro,MNE
+Montenegro,2001,73.8,12500,Montenegro,MNE
+Montenegro,2002,73.9,12700,Montenegro,MNE
+Montenegro,2003,73.8,13000,Montenegro,MNE
+Montenegro,2004,73.8,13500,Montenegro,MNE
+Montenegro,2005,73.8,14100,Montenegro,MNE
+Montenegro,2006,73.9,15300,Montenegro,MNE
+Montenegro,2007,74.1,16300,Montenegro,MNE
+Montenegro,2008,74.3,17400,Montenegro,MNE
+Montenegro,2009,74.4,16400,Montenegro,MNE
+Montenegro,2010,74.7,16800,Montenegro,MNE
+Montenegro,2011,74.9,17300,Montenegro,MNE
+Montenegro,2012,75.2,16900,Montenegro,MNE
+Montenegro,2013,75.1,17400,Montenegro,MNE
+Montenegro,2014,75.2,17700,Montenegro,MNE
+Montenegro,2015,75.3,18300,Montenegro,MNE
+Montenegro,2016,75.4,18900,Montenegro,MNE
+Montenegro,2017,75.5,19700,Montenegro,MNE
+Montenegro,2018,75.6,20800,Montenegro,MNE
+Montenegro,2019,75.9,21600,Montenegro,MNE
+Montenegro,2020,74.4,18300,Montenegro,MNE
+Montenegro,2021,76.1,19900,Montenegro,MNE
+Netherlands,1949,70.4,10800,Netherlands,NLD
+Netherlands,1950,71.6,11000,Netherlands,NLD
+Netherlands,1951,71.7,11100,Netherlands,NLD
+Netherlands,1952,72.1,11200,Netherlands,NLD
+Netherlands,1953,71.5,12000,Netherlands,NLD
+Netherlands,1954,72.4,12700,Netherlands,NLD
+Netherlands,1955,72.6,13400,Netherlands,NLD
+Netherlands,1956,72.8,13700,Netherlands,NLD
+Netherlands,1957,73.1,14000,Netherlands,NLD
+Netherlands,1958,73.3,13700,Netherlands,NLD
+Netherlands,1959,73.3,14200,Netherlands,NLD
+Netherlands,1960,73.5,15200,Netherlands,NLD
+Netherlands,1961,73.6,15100,Netherlands,NLD
+Netherlands,1962,73.1,16000,Netherlands,NLD
+Netherlands,1963,73.5,16400,Netherlands,NLD
+Netherlands,1964,73.7,17700,Netherlands,NLD
+Netherlands,1965,73.7,18400,Netherlands,NLD
+Netherlands,1966,73.7,18800,Netherlands,NLD
+Netherlands,1967,73.8,19600,Netherlands,NLD
+Netherlands,1968,73.8,20800,Netherlands,NLD
+Netherlands,1969,73.7,22000,Netherlands,NLD
+Netherlands,1970,73.7,23100,Netherlands,NLD
+Netherlands,1971,73.9,23900,Netherlands,NLD
+Netherlands,1972,74,24500,Netherlands,NLD
+Netherlands,1973,74.3,25600,Netherlands,NLD
+Netherlands,1974,74.6,26500,Netherlands,NLD
+Netherlands,1975,74.7,26400,Netherlands,NLD
+Netherlands,1976,74.9,27600,Netherlands,NLD
+Netherlands,1977,75.2,28300,Netherlands,NLD
+Netherlands,1978,75.4,28900,Netherlands,NLD
+Netherlands,1979,75.7,29500,Netherlands,NLD
+Netherlands,1980,75.9,29800,Netherlands,NLD
+Netherlands,1981,76,29500,Netherlands,NLD
+Netherlands,1982,76.2,29200,Netherlands,NLD
+Netherlands,1983,76.3,29700,Netherlands,NLD
+Netherlands,1984,76.4,30700,Netherlands,NLD
+Netherlands,1985,76.5,31700,Netherlands,NLD
+Netherlands,1986,76.6,32500,Netherlands,NLD
+Netherlands,1987,76.8,32900,Netherlands,NLD
+Netherlands,1988,77.1,33700,Netherlands,NLD
+Netherlands,1989,77,35200,Netherlands,NLD
+Netherlands,1990,77.2,36600,Netherlands,NLD
+Netherlands,1991,77.3,37200,Netherlands,NLD
+Netherlands,1992,77.4,37500,Netherlands,NLD
+Netherlands,1993,77.3,37700,Netherlands,NLD
+Netherlands,1994,77.6,38600,Netherlands,NLD
+Netherlands,1995,77.7,39600,Netherlands,NLD
+Netherlands,1996,77.8,40800,Netherlands,NLD
+Netherlands,1997,78,42400,Netherlands,NLD
+Netherlands,1998,78.1,44100,Netherlands,NLD
+Netherlands,1999,78.1,46000,Netherlands,NLD
+Netherlands,2000,78.3,47600,Netherlands,NLD
+Netherlands,2001,78.4,48300,Netherlands,NLD
+Netherlands,2002,78.6,48100,Netherlands,NLD
+Netherlands,2003,78.9,48000,Netherlands,NLD
+Netherlands,2004,79.3,48700,Netherlands,NLD
+Netherlands,2005,79.6,49600,Netherlands,NLD
+Netherlands,2006,80,51300,Netherlands,NLD
+Netherlands,2007,80.3,53100,Netherlands,NLD
+Netherlands,2008,80.5,54000,Netherlands,NLD
+Netherlands,2009,80.8,51800,Netherlands,NLD
+Netherlands,2010,81,52200,Netherlands,NLD
+Netherlands,2011,81.1,52800,Netherlands,NLD
+Netherlands,2012,81.2,52000,Netherlands,NLD
+Netherlands,2013,81.4,51800,Netherlands,NLD
+Netherlands,2014,81.6,52400,Netherlands,NLD
+Netherlands,2015,81.7,53100,Netherlands,NLD
+Netherlands,2016,81.7,54000,Netherlands,NLD
+Netherlands,2017,81.7,55300,Netherlands,NLD
+Netherlands,2018,81.7,56200,Netherlands,NLD
+Netherlands,2019,81.7,56800,Netherlands,NLD
+Netherlands,2020,81,54300,Netherlands,NLD
+Netherlands,2021,82,56000,Netherlands,NLD
+Norway,1949,71.8,9580,Norway,NOR
+Norway,1950,71.9,9960,Norway,NOR
+Norway,1951,72.2,10400,Norway,NOR
+Norway,1952,72.6,10700,Norway,NOR
+Norway,1953,72.9,11000,Norway,NOR
+Norway,1954,73.1,11400,Norway,NOR
+Norway,1955,73.2,11600,Norway,NOR
+Norway,1956,73.3,12100,Norway,NOR
+Norway,1957,73.3,12300,Norway,NOR
+Norway,1958,73.3,12200,Norway,NOR
+Norway,1959,73.4,12600,Norway,NOR
+Norway,1960,73.4,13200,Norway,NOR
+Norway,1961,73.4,14000,Norway,NOR
+Norway,1962,73.3,14400,Norway,NOR
+Norway,1963,73.2,15000,Norway,NOR
+Norway,1964,73.5,15800,Norway,NOR
+Norway,1965,73.6,16600,Norway,NOR
+Norway,1966,73.9,17200,Norway,NOR
+Norway,1967,73.9,18300,Norway,NOR
+Norway,1968,74,18700,Norway,NOR
+Norway,1969,74,19500,Norway,NOR
+Norway,1970,74.3,19900,Norway,NOR
+Norway,1971,74.4,20900,Norway,NOR
+Norway,1972,74.5,22000,Norway,NOR
+Norway,1973,74.7,23000,Norway,NOR
+Norway,1974,75,24000,Norway,NOR
+Norway,1975,75.1,25300,Norway,NOR
+Norway,1976,75.3,26800,Norway,NOR
+Norway,1977,75.6,28100,Norway,NOR
+Norway,1978,75.7,29200,Norway,NOR
+Norway,1979,75.7,30600,Norway,NOR
+Norway,1980,76,32200.000000000004,Norway,NOR
+Norway,1981,76.2,32600,Norway,NOR
+Norway,1982,76.3,32800,Norway,NOR
+Norway,1983,76.4,34100,Norway,NOR
+Norway,1984,76.5,36300,Norway,NOR
+Norway,1985,76.3,38300,Norway,NOR
+Norway,1986,76.4,39800,Norway,NOR
+Norway,1987,76.3,40800,Norway,NOR
+Norway,1988,76.5,40800,Norway,NOR
+Norway,1989,76.7,41300,Norway,NOR
+Norway,1990,76.9,42300,Norway,NOR
+Norway,1991,77.2,43400,Norway,NOR
+Norway,1992,77.3,44700,Norway,NOR
+Norway,1993,77.5,45700,Norway,NOR
+Norway,1994,77.8,47700,Norway,NOR
+Norway,1995,78,49400,Norway,NOR
+Norway,1996,78.3,51600,Norway,NOR
+Norway,1997,78.5,54100,Norway,NOR
+Norway,1998,78.5,55200,Norway,NOR
+Norway,1999,78.7,55900,Norway,NOR
+Norway,2000,78.9,57300,Norway,NOR
+Norway,2001,79.1,58200,Norway,NOR
+Norway,2002,79.3,58700,Norway,NOR
+Norway,2003,79.7,58900,Norway,NOR
+Norway,2004,80.1,60900,Norway,NOR
+Norway,2005,80.4,62100,Norway,NOR
+Norway,2006,80.5,63000,Norway,NOR
+Norway,2007,80.7,64300,Norway,NOR
+Norway,2008,80.9,63800,Norway,NOR
+Norway,2009,81.1,61900,Norway,NOR
+Norway,2010,81.3,61500,Norway,NOR
+Norway,2011,81.3,61400,Norway,NOR
+Norway,2012,81.6,62200,Norway,NOR
+Norway,2013,81.8,62100,Norway,NOR
+Norway,2014,82.2,62600,Norway,NOR
+Norway,2015,82.4,63200,Norway,NOR
+Norway,2016,82.5,63300,Norway,NOR
+Norway,2017,82.8,64300,Norway,NOR
+Norway,2018,82.8,64700,Norway,NOR
+Norway,2019,82.9,65000,Norway,NOR
+Norway,2020,83.2,64099.99999999999,Norway,NOR
+Norway,2021,83.2,66200,Norway,NOR
+Poland,1949,57.9,4180,Poland,POL
+Poland,1950,59,4490,Poland,POL
+Poland,1951,57.9,4600,Poland,POL
+Poland,1952,60.1,4620,Poland,POL
+Poland,1953,62.2,4800,Poland,POL
+Poland,1954,62.7,4980,Poland,POL
+Poland,1955,63.4,5120,Poland,POL
+Poland,1956,64.9,5250,Poland,POL
+Poland,1957,64.2,5430,Poland,POL
+Poland,1958,65.8,5610,Poland,POL
+Poland,1959,65.8,5680,Poland,POL
+Poland,1960,67.9,5900,Poland,POL
+Poland,1961,68.1,6330,Poland,POL
+Poland,1962,67.9,6210,Poland,POL
+Poland,1963,68.6,6560,Poland,POL
+Poland,1964,69.1,6830,Poland,POL
+Poland,1965,69.7,7190,Poland,POL
+Poland,1966,70,7630,Poland,POL
+Poland,1967,69.8,7890,Poland,POL
+Poland,1968,70.3,8360,Poland,POL
+Poland,1969,69.9,8270,Poland,POL
+Poland,1970,70.2,8690,Poland,POL
+Poland,1971,70.1,9300,Poland,POL
+Poland,1972,71,9960,Poland,POL
+Poland,1973,71.1,10700,Poland,POL
+Poland,1974,71.6,11300,Poland,POL
+Poland,1975,71.1,11800,Poland,POL
+Poland,1976,71.1,12000,Poland,POL
+Poland,1977,70.9,12200,Poland,POL
+Poland,1978,70.9,12600,Poland,POL
+Poland,1979,71.1,12300,Poland,POL
+Poland,1980,70.5,12000,Poland,POL
+Poland,1981,71.4,11300,Poland,POL
+Poland,1982,71.5,11200,Poland,POL
+Poland,1983,71.3,11700,Poland,POL
+Poland,1984,71,12100,Poland,POL
+Poland,1985,70.8,12200,Poland,POL
+Poland,1986,71,12600,Poland,POL
+Poland,1987,71.1,12400,Poland,POL
+Poland,1988,71.4,12700,Poland,POL
+Poland,1989,71.2,12500,Poland,POL
+Poland,1990,71.1,11400,Poland,POL
+Poland,1991,70.8,10500,Poland,POL
+Poland,1992,71.2,10700,Poland,POL
+Poland,1993,71.8,11100,Poland,POL
+Poland,1994,71.8,11700,Poland,POL
+Poland,1995,72,12500,Poland,POL
+Poland,1996,72.5,13300,Poland,POL
+Poland,1997,72.7,14100,Poland,POL
+Poland,1998,73.1,14700,Poland,POL
+Poland,1999,73.2,15400,Poland,POL
+Poland,2000,73.9,16300,Poland,POL
+Poland,2001,74.3,16500,Poland,POL
+Poland,2002,74.7,16900,Poland,POL
+Poland,2003,74.9,17500,Poland,POL
+Poland,2004,75,18300,Poland,POL
+Poland,2005,75.2,19000,Poland,POL
+Poland,2006,75.3,20200,Poland,POL
+Poland,2007,75.4,21600,Poland,POL
+Poland,2008,75.6,22500,Poland,POL
+Poland,2009,75.9,23100,Poland,POL
+Poland,2010,76.5,24100,Poland,POL
+Poland,2011,76.8,25200,Poland,POL
+Poland,2012,76.9,25500,Poland,POL
+Poland,2013,77.2,25800,Poland,POL
+Poland,2014,77.6,26700,Poland,POL
+Poland,2015,77.6,27900,Poland,POL
+Poland,2016,77.9,28800,Poland,POL
+Poland,2017,78,30200,Poland,POL
+Poland,2018,78,31800,Poland,POL
+Poland,2019,78.1,33200,Poland,POL
+Poland,2020,76.7,32299.999999999996,Poland,POL
+Poland,2021,78.4,33500,Poland,POL
+Portugal,1949,56.1,3770,Portugal,PRT
+Portugal,1950,59.3,3820,Portugal,PRT
+Portugal,1951,60,3980,Portugal,PRT
+Portugal,1952,60.3,3960,Portugal,PRT
+Portugal,1953,61.4,4210,Portugal,PRT
+Portugal,1954,62.6,4390,Portugal,PRT
+Portugal,1955,61.4,4540,Portugal,PRT
+Portugal,1956,61.7,4700,Portugal,PRT
+Portugal,1957,62.1,4870,Portugal,PRT
+Portugal,1958,63.8,4900,Portugal,PRT
+Portugal,1959,63.6,5120,Portugal,PRT
+Portugal,1960,64.7,5420,Portugal,PRT
+Portugal,1961,63.6,5760,Portugal,PRT
+Portugal,1962,64.5,6180,Portugal,PRT
+Portugal,1963,65.2,6550,Portugal,PRT
+Portugal,1964,65.3,6990,Portugal,PRT
+Portugal,1965,65.9,7550,Portugal,PRT
+Portugal,1966,65.8,7930,Portugal,PRT
+Portugal,1967,66.3,8580,Portugal,PRT
+Portugal,1968,66.7,9390,Portugal,PRT
+Portugal,1969,66.8,9670,Portugal,PRT
+Portugal,1970,67.4,10700,Portugal,PRT
+Portugal,1971,67.7,11500,Portugal,PRT
+Portugal,1972,69.1,12500,Portugal,PRT
+Portugal,1973,69,14000,Portugal,PRT
+Portugal,1974,69.2,14100,Portugal,PRT
+Portugal,1975,69.3,13100,Portugal,PRT
+Portugal,1976,69.8,13800,Portugal,PRT
+Portugal,1977,70.4,14600,Portugal,PRT
+Portugal,1978,71.1,15000,Portugal,PRT
+Portugal,1979,71.6,15900,Portugal,PRT
+Portugal,1980,71.8,16600,Portugal,PRT
+Portugal,1981,72.1,16900,Portugal,PRT
+Portugal,1982,72.6,17300,Portugal,PRT
+Portugal,1983,72.7,17300,Portugal,PRT
+Portugal,1984,73,17100,Portugal,PRT
+Portugal,1985,73.3,17600,Portugal,PRT
+Portugal,1986,73.6,18500,Portugal,PRT
+Portugal,1987,73.9,19700,Portugal,PRT
+Portugal,1988,74.1,21300,Portugal,PRT
+Portugal,1989,74.3,22500,Portugal,PRT
+Portugal,1990,74.3,23600,Portugal,PRT
+Portugal,1991,74.3,24700,Portugal,PRT
+Portugal,1992,74.7,25000,Portugal,PRT
+Portugal,1993,74.9,24500,Portugal,PRT
+Portugal,1994,75.4,24600,Portugal,PRT
+Portugal,1995,75.5,25600,Portugal,PRT
+Portugal,1996,75.6,26400,Portugal,PRT
+Portugal,1997,75.9,27400,Portugal,PRT
+Portugal,1998,76.2,28600,Portugal,PRT
+Portugal,1999,76.4,29600,Portugal,PRT
+Portugal,2000,76.8,30500,Portugal,PRT
+Portugal,2001,77.2,30900,Portugal,PRT
+Portugal,2002,77.5,30900,Portugal,PRT
+Portugal,2003,77.8,30500,Portugal,PRT
+Portugal,2004,78.4,31000,Portugal,PRT
+Portugal,2005,78.8,31200,Portugal,PRT
+Portugal,2006,79.2,31600,Portugal,PRT
+Portugal,2007,79.4,32400,Portugal,PRT
+Portugal,2008,79.7,32400,Portugal,PRT
+Portugal,2009,79.9,31400,Portugal,PRT
+Portugal,2010,80.2,31900,Portugal,PRT
+Portugal,2011,80.5,31400,Portugal,PRT
+Portugal,2012,80.8,30300,Portugal,PRT
+Portugal,2013,81.1,30100,Portugal,PRT
+Portugal,2014,81.3,30500,Portugal,PRT
+Portugal,2015,81.5,31200,Portugal,PRT
+Portugal,2016,81.6,31900,Portugal,PRT
+Portugal,2017,81.6,33100,Portugal,PRT
+Portugal,2018,81.7,34100,Portugal,PRT
+Portugal,2019,81.7,35000,Portugal,PRT
+Portugal,2020,80.9,32299.999999999996,Portugal,PRT
+Portugal,2021,82.1,33600,Portugal,PRT
+Romania,1949,59.5,1220,Romania,ROU
+Romania,1950,60.5,948,Romania,ROU
+Romania,1951,61.3,1200,Romania,ROU
+Romania,1952,61.8,1190,Romania,ROU
+Romania,1953,62.4,1320,Romania,ROU
+Romania,1954,63,1340,Romania,ROU
+Romania,1955,63.5,1630,Romania,ROU
+Romania,1956,63.6,1410,Romania,ROU
+Romania,1957,63.3,1640,Romania,ROU
+Romania,1958,65.9,1520,Romania,ROU
+Romania,1959,64,1700,Romania,ROU
+Romania,1960,65.8,1850,Romania,ROU
+Romania,1961,66.3,2060,Romania,ROU
+Romania,1962,66.7,2190,Romania,ROU
+Romania,1963,68,2450,Romania,ROU
+Romania,1964,68.7,2760,Romania,ROU
+Romania,1965,68.9,3060,Romania,ROU
+Romania,1966,69.6,3490,Romania,ROU
+Romania,1967,68.4,3910,Romania,ROU
+Romania,1968,67.8,4230,Romania,ROU
+Romania,1969,67.6,4550,Romania,ROU
+Romania,1970,68.3,5090,Romania,ROU
+Romania,1971,69,5550,Romania,ROU
+Romania,1972,69.3,6360,Romania,ROU
+Romania,1973,69.3,7280,Romania,ROU
+Romania,1974,69.9,7450,Romania,ROU
+Romania,1975,69.9,7720,Romania,ROU
+Romania,1976,70.3,8700,Romania,ROU
+Romania,1977,69.7,9340,Romania,ROU
+Romania,1978,70,10300,Romania,ROU
+Romania,1979,69.7,10600,Romania,ROU
+Romania,1980,69.6,10800,Romania,ROU
+Romania,1981,69.7,11000,Romania,ROU
+Romania,1982,70,11600,Romania,ROU
+Romania,1983,70.1,12500,Romania,ROU
+Romania,1984,70,13500,Romania,ROU
+Romania,1985,69.7,13600,Romania,ROU
+Romania,1986,69.8,14200,Romania,ROU
+Romania,1987,69.2,14500,Romania,ROU
+Romania,1988,69.6,14600,Romania,ROU
+Romania,1989,69.7,13900,Romania,ROU
+Romania,1990,69.8,13300,Romania,ROU
+Romania,1991,70.3,11700,Romania,ROU
+Romania,1992,69.8,10800,Romania,ROU
+Romania,1993,69.7,11000,Romania,ROU
+Romania,1994,69.5,11400,Romania,ROU
+Romania,1995,69.4,12200,Romania,ROU
+Romania,1996,69,12700,Romania,ROU
+Romania,1997,69.1,12100,Romania,ROU
+Romania,1998,69.8,11900,Romania,ROU
+Romania,1999,70.7,11800,Romania,ROU
+Romania,2000,71.2,12100,Romania,ROU
+Romania,2001,71.2,13000,Romania,ROU
+Romania,2002,71.2,14000,Romania,ROU
+Romania,2003,71.5,14400,Romania,ROU
+Romania,2004,72,16000,Romania,ROU
+Romania,2005,72.4,16800,Romania,ROU
+Romania,2006,72.8,18300,Romania,ROU
+Romania,2007,73.4,19900,Romania,ROU
+Romania,2008,73.4,22100,Romania,ROU
+Romania,2009,73.5,21100,Romania,ROU
+Romania,2010,73.8,20400,Romania,ROU
+Romania,2011,74.6,20900,Romania,ROU
+Romania,2012,74.7,21400,Romania,ROU
+Romania,2013,75.3,22300,Romania,ROU
+Romania,2014,75,23200,Romania,ROU
+Romania,2015,75.3,24000,Romania,ROU
+Romania,2016,75.3,25200,Romania,ROU
+Romania,2017,75.4,27200,Romania,ROU
+Romania,2018,75.5,28600,Romania,ROU
+Romania,2019,75.5,30000,Romania,ROU
+Romania,2020,74.1,28900,Romania,ROU
+Romania,2021,75.8,30700,Romania,ROU
+Russia,1949,55,5450,Russian Federation,RUS
+Russia,1950,57.3,5780,Russian Federation,RUS
+Russia,1951,60,5590,Russian Federation,RUS
+Russia,1952,62.5,5720,Russian Federation,RUS
+Russia,1953,65.1,5750,Russian Federation,RUS
+Russia,1954,67.4,5790,Russian Federation,RUS
+Russia,1955,67.7,6040,Russian Federation,RUS
+Russia,1956,67.9,6360,Russian Federation,RUS
+Russia,1957,68,6230,Russian Federation,RUS
+Russia,1958,68.2,6420,Russian Federation,RUS
+Russia,1959,68.1,6090,Russian Federation,RUS
+Russia,1960,69,6390,Russian Federation,RUS
+Russia,1961,69.3,6870,Russian Federation,RUS
+Russia,1962,69.1,7410,Russian Federation,RUS
+Russia,1963,69.4,7740,Russian Federation,RUS
+Russia,1964,70.2,8300,Russian Federation,RUS
+Russia,1965,70,8820,Russian Federation,RUS
+Russia,1966,69.9,9530,Russian Federation,RUS
+Russia,1967,69.7,10200,Russian Federation,RUS
+Russia,1968,69.5,11000,Russian Federation,RUS
+Russia,1969,69.1,11400,Russian Federation,RUS
+Russia,1970,69.2,12400,Russian Federation,RUS
+Russia,1971,69.3,13100,Russian Federation,RUS
+Russia,1972,69.3,13600,Russian Federation,RUS
+Russia,1973,69.2,14700,Russian Federation,RUS
+Russia,1974,69.2,15400,Russian Federation,RUS
+Russia,1975,68.6,16100.000000000002,Russian Federation,RUS
+Russia,1976,68.3,16700,Russian Federation,RUS
+Russia,1977,68.1,17300,Russian Federation,RUS
+Russia,1978,68.1,17800,Russian Federation,RUS
+Russia,1979,67.8,18100,Russian Federation,RUS
+Russia,1980,67.7,18800,Russian Federation,RUS
+Russia,1981,68,19200,Russian Federation,RUS
+Russia,1982,68.5,19400,Russian Federation,RUS
+Russia,1983,68.3,19900,Russian Federation,RUS
+Russia,1984,67.8,20100,Russian Federation,RUS
+Russia,1985,68.5,20500,Russian Federation,RUS
+Russia,1986,70.2,21100,Russian Federation,RUS
+Russia,1987,70.2,21200,Russian Federation,RUS
+Russia,1988,70.1,21600,Russian Federation,RUS
+Russia,1989,69.8,21900,Russian Federation,RUS
+Russia,1990,69.5,21500,Russian Federation,RUS
+Russia,1991,69.3,20400,Russian Federation,RUS
+Russia,1992,68.1,17400,Russian Federation,RUS
+Russia,1993,65.5,15900,Russian Federation,RUS
+Russia,1994,64.2,13900,Russian Federation,RUS
+Russia,1995,64.8,13300,Russian Federation,RUS
+Russia,1996,66.1,12900,Russian Federation,RUS
+Russia,1997,67.2,13100,Russian Federation,RUS
+Russia,1998,67.5,12400,Russian Federation,RUS
+Russia,1999,66.2,13200,Russian Federation,RUS
+Russia,2000,65.6,14600,Russian Federation,RUS
+Russia,2001,65.5,15400,Russian Federation,RUS
+Russia,2002,65.4,16200,Russian Federation,RUS
+Russia,2003,65.2,17500,Russian Federation,RUS
+Russia,2004,65.5,18800,Russian Federation,RUS
+Russia,2005,65,20100,Russian Federation,RUS
+Russia,2006,66.5,21800,Russian Federation,RUS
+Russia,2007,67.5,23700,Russian Federation,RUS
+Russia,2008,67.7,25000,Russian Federation,RUS
+Russia,2009,68.7,23000,Russian Federation,RUS
+Russia,2010,68.8,24000,Russian Federation,RUS
+Russia,2011,70,25000,Russian Federation,RUS
+Russia,2012,70.5,26000,Russian Federation,RUS
+Russia,2013,70.9,26400,Russian Federation,RUS
+Russia,2014,71,26100,Russian Federation,RUS
+Russia,2015,71.5,25600,Russian Federation,RUS
+Russia,2016,72,25600,Russian Federation,RUS
+Russia,2017,72.9,26000,Russian Federation,RUS
+Russia,2018,73,26700,Russian Federation,RUS
+Russia,2019,73,27000,Russian Federation,RUS
+Russia,2020,71.2,26200,Russian Federation,RUS
+Russia,2021,73.3,27200,Russian Federation,RUS
+San Marino,1949,NA,8730,San Marino,SMR
+San Marino,1950,72,9200,San Marino,SMR
+San Marino,1951,72.1,9680,San Marino,SMR
+San Marino,1952,72.2,10200,San Marino,SMR
+San Marino,1953,72.3,10700,San Marino,SMR
+San Marino,1954,72.4,11300,San Marino,SMR
+San Marino,1955,72.5,11900,San Marino,SMR
+San Marino,1956,72.5,12600,San Marino,SMR
+San Marino,1957,72.6,13200,San Marino,SMR
+San Marino,1958,72.7,13900,San Marino,SMR
+San Marino,1959,72.8,14700,San Marino,SMR
+San Marino,1960,72.9,15400,San Marino,SMR
+San Marino,1961,73,16500,San Marino,SMR
+San Marino,1962,73,17700,San Marino,SMR
+San Marino,1963,73.1,18900,San Marino,SMR
+San Marino,1964,73.2,20200,San Marino,SMR
+San Marino,1965,73.3,21600,San Marino,SMR
+San Marino,1966,73.5,23100,San Marino,SMR
+San Marino,1967,73.7,24700,San Marino,SMR
+San Marino,1968,73.8,26200,San Marino,SMR
+San Marino,1969,74,27900,San Marino,SMR
+San Marino,1970,74.1,29700,San Marino,SMR
+San Marino,1971,74.3,30200,San Marino,SMR
+San Marino,1972,74.5,31500,San Marino,SMR
+San Marino,1973,74.8,34000,San Marino,SMR
+San Marino,1974,75.2,36000,San Marino,SMR
+San Marino,1975,75.4,35300,San Marino,SMR
+San Marino,1976,75.6,37600,San Marino,SMR
+San Marino,1977,75.8,38300,San Marino,SMR
+San Marino,1978,75.9,39200,San Marino,SMR
+San Marino,1979,76.2,41100,San Marino,SMR
+San Marino,1980,76.4,42100,San Marino,SMR
+San Marino,1981,76.8,42200,San Marino,SMR
+San Marino,1982,77.3,42100,San Marino,SMR
+San Marino,1983,77.7,42400,San Marino,SMR
+San Marino,1984,78,43600,San Marino,SMR
+San Marino,1985,78.3,44600,San Marino,SMR
+San Marino,1986,78.6,45700,San Marino,SMR
+San Marino,1987,79,46900,San Marino,SMR
+San Marino,1988,79.2,48700,San Marino,SMR
+San Marino,1989,79.5,50100,San Marino,SMR
+San Marino,1990,79.7,50800,San Marino,SMR
+San Marino,1991,79.9,50700,San Marino,SMR
+San Marino,1992,80.1,50200,San Marino,SMR
+San Marino,1993,80.3,53600,San Marino,SMR
+San Marino,1994,80.4,56400,San Marino,SMR
+San Marino,1995,80.7,60700,San Marino,SMR
+San Marino,1996,80.9,62800,San Marino,SMR
+San Marino,1997,81.1,63600,San Marino,SMR
+San Marino,1998,81.3,67600,San Marino,SMR
+San Marino,1999,81.5,72900,San Marino,SMR
+San Marino,2000,81.5,73700,San Marino,SMR
+San Marino,2001,81.6,76800,San Marino,SMR
+San Marino,2002,81.7,76000,San Marino,SMR
+San Marino,2003,81.7,77900,San Marino,SMR
+San Marino,2004,81.6,80400,San Marino,SMR
+San Marino,2005,81.6,81300,San Marino,SMR
+San Marino,2006,81.6,83300,San Marino,SMR
+San Marino,2007,81.7,88200,San Marino,SMR
+San Marino,2008,81.8,86600,San Marino,SMR
+San Marino,2009,81.8,76700,San Marino,SMR
+San Marino,2010,81.9,71600,San Marino,SMR
+San Marino,2011,81.9,64700,San Marino,SMR
+San Marino,2012,82,59300,San Marino,SMR
+San Marino,2013,82,58100,San Marino,SMR
+San Marino,2014,82,57000,San Marino,SMR
+San Marino,2015,82,57800,San Marino,SMR
+San Marino,2016,82,58800,San Marino,SMR
+San Marino,2017,82,58900,San Marino,SMR
+San Marino,2018,82.1,59400,San Marino,SMR
+San Marino,2019,82.2,60900,San Marino,SMR
+San Marino,2020,NA,54800,San Marino,SMR
+San Marino,2021,NA,56600,San Marino,SMR
+Serbia,1949,53.7,2970,Serbia,SRB
+Serbia,1950,54.4,2660,Serbia,SRB
+Serbia,1951,53.7,2650,Serbia,SRB
+Serbia,1952,57.9,2340,Serbia,SRB
+Serbia,1953,58.3,2700,Serbia,SRB
+Serbia,1954,60.3,2570,Serbia,SRB
+Serbia,1955,59.2,2970,Serbia,SRB
+Serbia,1956,60.6,2810,Serbia,SRB
+Serbia,1957,61,3620,Serbia,SRB
+Serbia,1958,64,3480,Serbia,SRB
+Serbia,1959,63.3,4470,Serbia,SRB
+Serbia,1960,63.5,4540,Serbia,SRB
+Serbia,1961,63.2,4640,Serbia,SRB
+Serbia,1962,63.9,4870,Serbia,SRB
+Serbia,1963,65.2,5420,Serbia,SRB
+Serbia,1964,64.8,5940,Serbia,SRB
+Serbia,1965,65.5,6020,Serbia,SRB
+Serbia,1966,66.5,6560,Serbia,SRB
+Serbia,1967,66,6680,Serbia,SRB
+Serbia,1968,66,6810,Serbia,SRB
+Serbia,1969,65.5,7600,Serbia,SRB
+Serbia,1970,66.2,7830,Serbia,SRB
+Serbia,1971,66.4,8590,Serbia,SRB
+Serbia,1972,67.2,8980,Serbia,SRB
+Serbia,1973,68.3,9510,Serbia,SRB
+Serbia,1974,69,10300,Serbia,SRB
+Serbia,1975,69.2,10700,Serbia,SRB
+Serbia,1976,69.5,11200,Serbia,SRB
+Serbia,1977,69.5,12100,Serbia,SRB
+Serbia,1978,69.1,12800,Serbia,SRB
+Serbia,1979,69.5,13900,Serbia,SRB
+Serbia,1980,69.8,14000,Serbia,SRB
+Serbia,1981,69.8,14300,Serbia,SRB
+Serbia,1982,69.6,14500,Serbia,SRB
+Serbia,1983,69.2,14300,Serbia,SRB
+Serbia,1984,70,14600,Serbia,SRB
+Serbia,1985,70.4,14700,Serbia,SRB
+Serbia,1986,70,15300,Serbia,SRB
+Serbia,1987,69.8,15100,Serbia,SRB
+Serbia,1988,70,15000,Serbia,SRB
+Serbia,1989,70.1,15300,Serbia,SRB
+Serbia,1990,70.8,13700,Serbia,SRB
+Serbia,1991,70.5,12600,Serbia,SRB
+Serbia,1992,71.1,9390,Serbia,SRB
+Serbia,1993,71,6730,Serbia,SRB
+Serbia,1994,70.6,7120,Serbia,SRB
+Serbia,1995,70.6,7780,Serbia,SRB
+Serbia,1996,70.4,8270,Serbia,SRB
+Serbia,1997,70.2,8890,Serbia,SRB
+Serbia,1998,70.7,9230,Serbia,SRB
+Serbia,1999,68.9,8390,Serbia,SRB
+Serbia,2000,71.4,8930,Serbia,SRB
+Serbia,2001,71.9,9560,Serbia,SRB
+Serbia,2002,72.2,10200,Serbia,SRB
+Serbia,2003,72.2,10600,Serbia,SRB
+Serbia,2004,72.3,11600,Serbia,SRB
+Serbia,2005,72.3,12300,Serbia,SRB
+Serbia,2006,72.7,13000,Serbia,SRB
+Serbia,2007,73.2,13900,Serbia,SRB
+Serbia,2008,73.5,14700,Serbia,SRB
+Serbia,2009,73.6,14400,Serbia,SRB
+Serbia,2010,74.1,14600,Serbia,SRB
+Serbia,2011,74.3,15000,Serbia,SRB
+Serbia,2012,74.8,14900,Serbia,SRB
+Serbia,2013,74.9,15400,Serbia,SRB
+Serbia,2014,75,15300,Serbia,SRB
+Serbia,2015,75.1,15600,Serbia,SRB
+Serbia,2016,75.5,16200,Serbia,SRB
+Serbia,2017,75.6,16700,Serbia,SRB
+Serbia,2018,75.6,17500,Serbia,SRB
+Serbia,2019,75.7,18400,Serbia,SRB
+Serbia,2020,75.2,18200,Serbia,SRB
+Serbia,2021,76,19200,Serbia,SRB
+Slovak Republic,1949,60.1,6270,Slovak Republic,SVK
+Slovak Republic,1950,60.7,6740,Slovak Republic,SVK
+Slovak Republic,1951,61.3,6790,Slovak Republic,SVK
+Slovak Republic,1952,64.2,6930,Slovak Republic,SVK
+Slovak Republic,1953,65.6,6830,Slovak Republic,SVK
+Slovak Republic,1954,66.9,7040,Slovak Republic,SVK
+Slovak Republic,1955,67.8,7560,Slovak Republic,SVK
+Slovak Republic,1956,68.3,7860,Slovak Republic,SVK
+Slovak Republic,1957,67.7,8210,Slovak Republic,SVK
+Slovak Republic,1958,69.2,8690,Slovak Republic,SVK
+Slovak Republic,1959,69.3,8950,Slovak Republic,SVK
+Slovak Republic,1960,70.4,9490,Slovak Republic,SVK
+Slovak Republic,1961,70.8,9780,Slovak Republic,SVK
+Slovak Republic,1962,70.6,9860,Slovak Republic,SVK
+Slovak Republic,1963,70.7,9620,Slovak Republic,SVK
+Slovak Republic,1964,71,10000,Slovak Republic,SVK
+Slovak Republic,1965,70.5,10300,Slovak Republic,SVK
+Slovak Republic,1966,70.6,10700,Slovak Republic,SVK
+Slovak Republic,1967,71.1,11100,Slovak Republic,SVK
+Slovak Republic,1968,70.6,11600,Slovak Republic,SVK
+Slovak Republic,1969,70.1,11900,Slovak Republic,SVK
+Slovak Republic,1970,69.9,12100,Slovak Republic,SVK
+Slovak Republic,1971,70.1,12500,Slovak Republic,SVK
+Slovak Republic,1972,70.5,12800,Slovak Republic,SVK
+Slovak Republic,1973,70.2,13200,Slovak Republic,SVK
+Slovak Republic,1974,70.4,13500,Slovak Republic,SVK
+Slovak Republic,1975,70.6,13800,Slovak Republic,SVK
+Slovak Republic,1976,70.7,13800,Slovak Republic,SVK
+Slovak Republic,1977,70.6,14200,Slovak Republic,SVK
+Slovak Republic,1978,70.6,14100,Slovak Republic,SVK
+Slovak Republic,1979,70.9,14000,Slovak Republic,SVK
+Slovak Republic,1980,70.7,14100,Slovak Republic,SVK
+Slovak Republic,1981,70.8,13900,Slovak Republic,SVK
+Slovak Republic,1982,71,13900,Slovak Republic,SVK
+Slovak Republic,1983,70.7,13900,Slovak Republic,SVK
+Slovak Republic,1984,70.9,14100,Slovak Republic,SVK
+Slovak Republic,1985,71,14000,Slovak Republic,SVK
+Slovak Republic,1986,71.2,14500,Slovak Republic,SVK
+Slovak Republic,1987,71.2,14800,Slovak Republic,SVK
+Slovak Republic,1988,71.4,15000,Slovak Republic,SVK
+Slovak Republic,1989,71.3,15100,Slovak Republic,SVK
+Slovak Republic,1990,71.1,14700,Slovak Republic,SVK
+Slovak Republic,1991,71.3,12500,Slovak Republic,SVK
+Slovak Republic,1992,71.7,11700,Slovak Republic,SVK
+Slovak Republic,1993,72.2,11900,Slovak Republic,SVK
+Slovak Republic,1994,72.7,12600,Slovak Republic,SVK
+Slovak Republic,1995,72.7,13300,Slovak Republic,SVK
+Slovak Republic,1996,73.2,14100,Slovak Republic,SVK
+Slovak Republic,1997,73,15000,Slovak Republic,SVK
+Slovak Republic,1998,73,15500,Slovak Republic,SVK
+Slovak Republic,1999,73.3,15500,Slovak Republic,SVK
+Slovak Republic,2000,73.7,15700,Slovak Republic,SVK
+Slovak Republic,2001,73.9,16300,Slovak Republic,SVK
+Slovak Republic,2002,74.1,17000,Slovak Republic,SVK
+Slovak Republic,2003,74.2,17900,Slovak Republic,SVK
+Slovak Republic,2004,74.6,18900,Slovak Republic,SVK
+Slovak Republic,2005,74.5,20100,Slovak Republic,SVK
+Slovak Republic,2006,74.7,21800,Slovak Republic,SVK
+Slovak Republic,2007,74.7,24200,Slovak Republic,SVK
+Slovak Republic,2008,75,25500,Slovak Republic,SVK
+Slovak Republic,2009,75.3,24100,Slovak Republic,SVK
+Slovak Republic,2010,75.8,25500,Slovak Republic,SVK
+Slovak Republic,2011,76,26200,Slovak Republic,SVK
+Slovak Republic,2012,76.3,26600,Slovak Republic,SVK
+Slovak Republic,2013,76.7,26800,Slovak Republic,SVK
+Slovak Republic,2014,76.9,27500,Slovak Republic,SVK
+Slovak Republic,2015,76.8,28800,Slovak Republic,SVK
+Slovak Republic,2016,77.3,29300,Slovak Republic,SVK
+Slovak Republic,2017,77.4,30200,Slovak Republic,SVK
+Slovak Republic,2018,77.5,31300,Slovak Republic,SVK
+Slovak Republic,2019,77.6,32000,Slovak Republic,SVK
+Slovak Republic,2020,76.7,30300,Slovak Republic,SVK
+Slovak Republic,2021,77.8,31600,Slovak Republic,SVK
+Slovenia,1949,58.9,5360,Slovenia,SVN
+Slovenia,1950,58.5,4920,Slovenia,SVN
+Slovenia,1951,58,5010,Slovenia,SVN
+Slovenia,1952,60.2,4530,Slovenia,SVN
+Slovenia,1953,60.6,4720,Slovenia,SVN
+Slovenia,1954,62.2,5320,Slovenia,SVN
+Slovenia,1955,61.9,5750,Slovenia,SVN
+Slovenia,1956,62.4,5620,Slovenia,SVN
+Slovenia,1957,63.2,6250,Slovenia,SVN
+Slovenia,1958,65.1,6910,Slovenia,SVN
+Slovenia,1959,64.9,7250,Slovenia,SVN
+Slovenia,1960,65.3,8240,Slovenia,SVN
+Slovenia,1961,66.3,8940,Slovenia,SVN
+Slovenia,1962,65.9,9270,Slovenia,SVN
+Slovenia,1963,66.9,10300,Slovenia,SVN
+Slovenia,1964,67,11200,Slovenia,SVN
+Slovenia,1965,67.9,11100,Slovenia,SVN
+Slovenia,1966,68.7,11700,Slovenia,SVN
+Slovenia,1967,68.5,12000,Slovenia,SVN
+Slovenia,1968,68.5,12700,Slovenia,SVN
+Slovenia,1969,68.1,13800,Slovenia,SVN
+Slovenia,1970,68.6,15000,Slovenia,SVN
+Slovenia,1971,69,16100.000000000002,Slovenia,SVN
+Slovenia,1972,68.9,16800,Slovenia,SVN
+Slovenia,1973,69.7,17800,Slovenia,SVN
+Slovenia,1974,70.1,19400,Slovenia,SVN
+Slovenia,1975,70.2,20400,Slovenia,SVN
+Slovenia,1976,70.5,20700,Slovenia,SVN
+Slovenia,1977,70.6,22100,Slovenia,SVN
+Slovenia,1978,70.5,23900,Slovenia,SVN
+Slovenia,1979,70.7,25500,Slovenia,SVN
+Slovenia,1980,71.3,25300,Slovenia,SVN
+Slovenia,1981,71.5,25100,Slovenia,SVN
+Slovenia,1982,71.2,24700,Slovenia,SVN
+Slovenia,1983,71.1,24600,Slovenia,SVN
+Slovenia,1984,71.5,24900,Slovenia,SVN
+Slovenia,1985,72.1,25000,Slovenia,SVN
+Slovenia,1986,72.5,25600,Slovenia,SVN
+Slovenia,1987,72.9,25300,Slovenia,SVN
+Slovenia,1988,73.3,24400,Slovenia,SVN
+Slovenia,1989,73.7,24200,Slovenia,SVN
+Slovenia,1990,74,22100,Slovenia,SVN
+Slovenia,1991,74.2,20100,Slovenia,SVN
+Slovenia,1992,74.5,19000,Slovenia,SVN
+Slovenia,1993,74.7,19600,Slovenia,SVN
+Slovenia,1994,74.9,20700,Slovenia,SVN
+Slovenia,1995,75.1,21600,Slovenia,SVN
+Slovenia,1996,75.3,22300,Slovenia,SVN
+Slovenia,1997,75.3,23400,Slovenia,SVN
+Slovenia,1998,75.5,24200,Slovenia,SVN
+Slovenia,1999,75.8,25500,Slovenia,SVN
+Slovenia,2000,76.3,26400,Slovenia,SVN
+Slovenia,2001,76.3,27200,Slovenia,SVN
+Slovenia,2002,76.8,28100,Slovenia,SVN
+Slovenia,2003,77,28900,Slovenia,SVN
+Slovenia,2004,77.4,30100,Slovenia,SVN
+Slovenia,2005,78.1,31200,Slovenia,SVN
+Slovenia,2006,78.3,32900,Slovenia,SVN
+Slovenia,2007,78.6,35000,Slovenia,SVN
+Slovenia,2008,79.1,36200,Slovenia,SVN
+Slovenia,2009,79.4,33200,Slovenia,SVN
+Slovenia,2010,79.7,33500,Slovenia,SVN
+Slovenia,2011,80,33700,Slovenia,SVN
+Slovenia,2012,80.2,32700.000000000004,Slovenia,SVN
+Slovenia,2013,80.5,32299.999999999996,Slovenia,SVN
+Slovenia,2014,81.3,33200,Slovenia,SVN
+Slovenia,2015,81,33900,Slovenia,SVN
+Slovenia,2016,81.3,35000,Slovenia,SVN
+Slovenia,2017,81.3,36600,Slovenia,SVN
+Slovenia,2018,81.4,38100,Slovenia,SVN
+Slovenia,2019,81.4,39000,Slovenia,SVN
+Slovenia,2020,80.4,36600,Slovenia,SVN
+Slovenia,2021,81.7,37800,Slovenia,SVN
+Sweden,1949,71,11600,Sweden,SWE
+Sweden,1950,71.4,12400,Sweden,SWE
+Sweden,1951,71.6,12700,Sweden,SWE
+Sweden,1952,72,12800,Sweden,SWE
+Sweden,1953,72.2,13100,Sweden,SWE
+Sweden,1954,72.5,13600,Sweden,SWE
+Sweden,1955,72.8,13900,Sweden,SWE
+Sweden,1956,72.9,14300,Sweden,SWE
+Sweden,1957,72.9,14800,Sweden,SWE
+Sweden,1958,73.3,14800,Sweden,SWE
+Sweden,1959,73.5,15200,Sweden,SWE
+Sweden,1960,73.4,15900,Sweden,SWE
+Sweden,1961,73.6,16800,Sweden,SWE
+Sweden,1962,73.7,17400,Sweden,SWE
+Sweden,1963,73.9,18300,Sweden,SWE
+Sweden,1964,74,19400,Sweden,SWE
+Sweden,1965,74.2,20000,Sweden,SWE
+Sweden,1966,74.3,20300,Sweden,SWE
+Sweden,1967,74.4,20900,Sweden,SWE
+Sweden,1968,74.4,21500,Sweden,SWE
+Sweden,1969,74.5,22500,Sweden,SWE
+Sweden,1970,74.8,23800,Sweden,SWE
+Sweden,1971,74.9,23900,Sweden,SWE
+Sweden,1972,75,24400,Sweden,SWE
+Sweden,1973,75.1,25400,Sweden,SWE
+Sweden,1974,75.2,26200,Sweden,SWE
+Sweden,1975,75.3,26800,Sweden,SWE
+Sweden,1976,75.4,27000,Sweden,SWE
+Sweden,1977,75.6,26600,Sweden,SWE
+Sweden,1978,75.8,27000,Sweden,SWE
+Sweden,1979,75.8,28000,Sweden,SWE
+Sweden,1980,76.1,28500,Sweden,SWE
+Sweden,1981,76.4,28500,Sweden,SWE
+Sweden,1982,76.6,28900,Sweden,SWE
+Sweden,1983,76.9,29400,Sweden,SWE
+Sweden,1984,77.1,30600,Sweden,SWE
+Sweden,1985,77.1,31200,Sweden,SWE
+Sweden,1986,77.3,31900,Sweden,SWE
+Sweden,1987,77.3,32800,Sweden,SWE
+Sweden,1988,77.4,33400,Sweden,SWE
+Sweden,1989,77.8,34000,Sweden,SWE
+Sweden,1990,78,34300,Sweden,SWE
+Sweden,1991,78.1,33600,Sweden,SWE
+Sweden,1992,78.3,33100,Sweden,SWE
+Sweden,1993,78.5,32200.000000000004,Sweden,SWE
+Sweden,1994,78.8,33200,Sweden,SWE
+Sweden,1995,79.1,34300,Sweden,SWE
+Sweden,1996,79.3,34800,Sweden,SWE
+Sweden,1997,79.5,35900,Sweden,SWE
+Sweden,1998,79.6,37400,Sweden,SWE
+Sweden,1999,79.8,39000,Sweden,SWE
+Sweden,2000,80,40800,Sweden,SWE
+Sweden,2001,80.2,41200,Sweden,SWE
+Sweden,2002,80.3,42000,Sweden,SWE
+Sweden,2003,80.5,42800,Sweden,SWE
+Sweden,2004,80.7,44500,Sweden,SWE
+Sweden,2005,81,45600,Sweden,SWE
+Sweden,2006,81.1,47400,Sweden,SWE
+Sweden,2007,81.3,48700,Sweden,SWE
+Sweden,2008,81.5,48100,Sweden,SWE
+Sweden,2009,81.7,45600,Sweden,SWE
+Sweden,2010,81.9,47900,Sweden,SWE
+Sweden,2011,82,49100,Sweden,SWE
+Sweden,2012,82.1,48500,Sweden,SWE
+Sweden,2013,82.3,48600,Sweden,SWE
+Sweden,2014,82.5,49400,Sweden,SWE
+Sweden,2015,82.5,51100,Sweden,SWE
+Sweden,2016,82.6,51500,Sweden,SWE
+Sweden,2017,82.7,52100,Sweden,SWE
+Sweden,2018,82.7,52500,Sweden,SWE
+Sweden,2019,82.8,52600,Sweden,SWE
+Sweden,2020,82,50900,Sweden,SWE
+Sweden,2021,83.1,51300,Sweden,SWE
+Tajikistan,1949,45.4,2760,Tajikistan,TJK
+Tajikistan,1950,46.2,3020,Tajikistan,TJK
+Tajikistan,1951,46.5,3010,Tajikistan,TJK
+Tajikistan,1952,47,3190,Tajikistan,TJK
+Tajikistan,1953,47.5,3300,Tajikistan,TJK
+Tajikistan,1954,48.1,3440,Tajikistan,TJK
+Tajikistan,1955,48.8,3710,Tajikistan,TJK
+Tajikistan,1956,49.5,4030,Tajikistan,TJK
+Tajikistan,1957,50.2,4080,Tajikistan,TJK
+Tajikistan,1958,50.9,4360,Tajikistan,TJK
+Tajikistan,1959,51.7,4280,Tajikistan,TJK
+Tajikistan,1960,52.5,4640,Tajikistan,TJK
+Tajikistan,1961,53.4,4800,Tajikistan,TJK
+Tajikistan,1962,54.3,4820,Tajikistan,TJK
+Tajikistan,1963,55,4610,Tajikistan,TJK
+Tajikistan,1964,55.9,5110,Tajikistan,TJK
+Tajikistan,1965,56.8,5300,Tajikistan,TJK
+Tajikistan,1966,57.6,5460,Tajikistan,TJK
+Tajikistan,1967,58.4,5600,Tajikistan,TJK
+Tajikistan,1968,59.2,5830,Tajikistan,TJK
+Tajikistan,1969,60.1,5810,Tajikistan,TJK
+Tajikistan,1970,60.4,6160,Tajikistan,TJK
+Tajikistan,1971,61.1,6210,Tajikistan,TJK
+Tajikistan,1972,61.2,6130,Tajikistan,TJK
+Tajikistan,1973,61.6,6530,Tajikistan,TJK
+Tajikistan,1974,62.1,6340,Tajikistan,TJK
+Tajikistan,1975,62.6,6150,Tajikistan,TJK
+Tajikistan,1976,63.2,5970,Tajikistan,TJK
+Tajikistan,1977,63.9,5800,Tajikistan,TJK
+Tajikistan,1978,64.5,5620,Tajikistan,TJK
+Tajikistan,1979,64.9,5450,Tajikistan,TJK
+Tajikistan,1980,65.3,5290,Tajikistan,TJK
+Tajikistan,1981,65.6,5110,Tajikistan,TJK
+Tajikistan,1982,65.9,4930,Tajikistan,TJK
+Tajikistan,1983,65.9,4910,Tajikistan,TJK
+Tajikistan,1984,66.1,4780,Tajikistan,TJK
+Tajikistan,1985,66.7,4630,Tajikistan,TJK
+Tajikistan,1986,67.2,4530,Tajikistan,TJK
+Tajikistan,1987,67,4230,Tajikistan,TJK
+Tajikistan,1988,66.9,4570,Tajikistan,TJK
+Tajikistan,1989,66.9,4050,Tajikistan,TJK
+Tajikistan,1990,66.9,3870,Tajikistan,TJK
+Tajikistan,1991,66.7,3520,Tajikistan,TJK
+Tajikistan,1992,63.4,2450,Tajikistan,TJK
+Tajikistan,1993,58.8,2020,Tajikistan,TJK
+Tajikistan,1994,64.2,1560,Tajikistan,TJK
+Tajikistan,1995,64.6,1350,Tajikistan,TJK
+Tajikistan,1996,64.1,1110,Tajikistan,TJK
+Tajikistan,1997,65.6,1110,Tajikistan,TJK
+Tajikistan,1998,65.7,1150,Tajikistan,TJK
+Tajikistan,1999,66.3,1170,Tajikistan,TJK
+Tajikistan,2000,66.6,1250,Tajikistan,TJK
+Tajikistan,2001,66.8,1350,Tajikistan,TJK
+Tajikistan,2002,67,1470,Tajikistan,TJK
+Tajikistan,2003,67.3,1600,Tajikistan,TJK
+Tajikistan,2004,67.5,1740,Tajikistan,TJK
+Tajikistan,2005,67.5,1820,Tajikistan,TJK
+Tajikistan,2006,67.6,1910,Tajikistan,TJK
+Tajikistan,2007,67.7,2020,Tajikistan,TJK
+Tajikistan,2008,67.9,2130,Tajikistan,TJK
+Tajikistan,2009,68,2170,Tajikistan,TJK
+Tajikistan,2010,68,2260,Tajikistan,TJK
+Tajikistan,2011,68.1,2370,Tajikistan,TJK
+Tajikistan,2012,68.3,2490,Tajikistan,TJK
+Tajikistan,2013,68.6,2620,Tajikistan,TJK
+Tajikistan,2014,68.6,2730,Tajikistan,TJK
+Tajikistan,2015,68.6,2820,Tajikistan,TJK
+Tajikistan,2016,68.6,2940,Tajikistan,TJK
+Tajikistan,2017,68.8,3090,Tajikistan,TJK
+Tajikistan,2018,69.2,3240,Tajikistan,TJK
+Tajikistan,2019,69.6,3380,Tajikistan,TJK
+Tajikistan,2020,69.6,3460,Tajikistan,TJK
+Tajikistan,2021,70,3570,Tajikistan,TJK
+Turkmenistan,1949,46.2,4820,Turkmenistan,TKM
+Turkmenistan,1950,48.4,5170,Turkmenistan,TKM
+Turkmenistan,1951,48.8,5050,Turkmenistan,TKM
+Turkmenistan,1952,49.4,5230,Turkmenistan,TKM
+Turkmenistan,1953,50,5300,Turkmenistan,TKM
+Turkmenistan,1954,50.7,5410,Turkmenistan,TKM
+Turkmenistan,1955,51.5,5700,Turkmenistan,TKM
+Turkmenistan,1956,52.3,6070,Turkmenistan,TKM
+Turkmenistan,1957,53.1,6020,Turkmenistan,TKM
+Turkmenistan,1958,53.9,6280,Turkmenistan,TKM
+Turkmenistan,1959,54.4,6030,Turkmenistan,TKM
+Turkmenistan,1960,55.1,6410,Turkmenistan,TKM
+Turkmenistan,1961,55.9,6630,Turkmenistan,TKM
+Turkmenistan,1962,56.5,6660,Turkmenistan,TKM
+Turkmenistan,1963,57,6380,Turkmenistan,TKM
+Turkmenistan,1964,57.6,7070,Turkmenistan,TKM
+Turkmenistan,1965,58.1,7340,Turkmenistan,TKM
+Turkmenistan,1966,58.7,7570,Turkmenistan,TKM
+Turkmenistan,1967,59.1,7780,Turkmenistan,TKM
+Turkmenistan,1968,59.6,8110,Turkmenistan,TKM
+Turkmenistan,1969,60.2,8100,Turkmenistan,TKM
+Turkmenistan,1970,60.4,8590,Turkmenistan,TKM
+Turkmenistan,1971,60.8,8680,Turkmenistan,TKM
+Turkmenistan,1972,61,8590,Turkmenistan,TKM
+Turkmenistan,1973,61.2,9160,Turkmenistan,TKM
+Turkmenistan,1974,61.5,9020,Turkmenistan,TKM
+Turkmenistan,1975,61.6,8880,Turkmenistan,TKM
+Turkmenistan,1976,61.9,8740,Turkmenistan,TKM
+Turkmenistan,1977,62.2,8600,Turkmenistan,TKM
+Turkmenistan,1978,62.4,8460,Turkmenistan,TKM
+Turkmenistan,1979,62.9,8330,Turkmenistan,TKM
+Turkmenistan,1980,63.6,8200,Turkmenistan,TKM
+Turkmenistan,1981,63.9,8100,Turkmenistan,TKM
+Turkmenistan,1982,64.4,8010,Turkmenistan,TKM
+Turkmenistan,1983,64.5,7980,Turkmenistan,TKM
+Turkmenistan,1984,64.7,7730,Turkmenistan,TKM
+Turkmenistan,1985,65,7600,Turkmenistan,TKM
+Turkmenistan,1986,65.4,7640,Turkmenistan,TKM
+Turkmenistan,1987,65.6,7650,Turkmenistan,TKM
+Turkmenistan,1988,65.6,8170,Turkmenistan,TKM
+Turkmenistan,1989,65.6,7340,Turkmenistan,TKM
+Turkmenistan,1990,66,7210,Turkmenistan,TKM
+Turkmenistan,1991,65.5,6690,Turkmenistan,TKM
+Turkmenistan,1992,65.6,5520,Turkmenistan,TKM
+Turkmenistan,1993,64.4,5450,Turkmenistan,TKM
+Turkmenistan,1994,64.3,4390,Turkmenistan,TKM
+Turkmenistan,1995,64.6,3990,Turkmenistan,TKM
+Turkmenistan,1996,64.2,4180,Turkmenistan,TKM
+Turkmenistan,1997,64.3,3640,Turkmenistan,TKM
+Turkmenistan,1998,64.7,3850,Turkmenistan,TKM
+Turkmenistan,1999,65.5,4430,Turkmenistan,TKM
+Turkmenistan,2000,66.3,4620,Turkmenistan,TKM
+Turkmenistan,2001,66.7,4770,Turkmenistan,TKM
+Turkmenistan,2002,66.6,4740,Turkmenistan,TKM
+Turkmenistan,2003,66.5,4840,Turkmenistan,TKM
+Turkmenistan,2004,66.2,5030,Turkmenistan,TKM
+Turkmenistan,2005,65.8,5630,Turkmenistan,TKM
+Turkmenistan,2006,66.2,6180,Turkmenistan,TKM
+Turkmenistan,2007,66.6,6770,Turkmenistan,TKM
+Turkmenistan,2008,67.3,7670,Turkmenistan,TKM
+Turkmenistan,2009,68.8,8020,Turkmenistan,TKM
+Turkmenistan,2010,69.5,8620,Turkmenistan,TKM
+Turkmenistan,2011,69.6,9720,Turkmenistan,TKM
+Turkmenistan,2012,69.8,10600,Turkmenistan,TKM
+Turkmenistan,2013,69.8,11500,Turkmenistan,TKM
+Turkmenistan,2014,69.9,12400,Turkmenistan,TKM
+Turkmenistan,2015,70,13000,Turkmenistan,TKM
+Turkmenistan,2016,70.3,13600,Turkmenistan,TKM
+Turkmenistan,2017,70.5,14200,Turkmenistan,TKM
+Turkmenistan,2018,70.6,14800,Turkmenistan,TKM
+Turkmenistan,2019,70.8,15600,Turkmenistan,TKM
+Turkmenistan,2020,70.9,15400,Turkmenistan,TKM
+Turkmenistan,2021,71.1,16000,Turkmenistan,TKM
+Turkey,1949,44.1,2240,Turkey,TUR
+Turkey,1950,45,2390,Turkey,TUR
+Turkey,1951,45.6,2640,Turkey,TUR
+Turkey,1952,46.2,2900,Turkey,TUR
+Turkey,1953,47.3,3160,Turkey,TUR
+Turkey,1954,47,3000,Turkey,TUR
+Turkey,1955,47.3,3170,Turkey,TUR
+Turkey,1956,47.7,3190,Turkey,TUR
+Turkey,1957,47.9,3360,Turkey,TUR
+Turkey,1958,48.4,3420,Turkey,TUR
+Turkey,1959,48.9,3490,Turkey,TUR
+Turkey,1960,49.5,3500,Turkey,TUR
+Turkey,1961,50.3,3510,Turkey,TUR
+Turkey,1962,51,3680,Turkey,TUR
+Turkey,1963,51.9,3990,Turkey,TUR
+Turkey,1964,52.6,4120,Turkey,TUR
+Turkey,1965,53.4,4190,Turkey,TUR
+Turkey,1966,54.1,4650,Turkey,TUR
+Turkey,1967,55,4810,Turkey,TUR
+Turkey,1968,55.7,5100,Turkey,TUR
+Turkey,1969,56.4,5320,Turkey,TUR
+Turkey,1970,57.1,5530,Turkey,TUR
+Turkey,1971,57.9,5980,Turkey,TUR
+Turkey,1972,58.7,6300,Turkey,TUR
+Turkey,1973,59.4,6510,Turkey,TUR
+Turkey,1974,60.1,6960,Turkey,TUR
+Turkey,1975,60.7,7500,Turkey,TUR
+Turkey,1976,61.4,8080,Turkey,TUR
+Turkey,1977,62.3,8360,Turkey,TUR
+Turkey,1978,63,8530,Turkey,TUR
+Turkey,1979,63.4,8400,Turkey,TUR
+Turkey,1980,64.1,8290,Turkey,TUR
+Turkey,1981,64.6,8530,Turkey,TUR
+Turkey,1982,65.2,8850,Turkey,TUR
+Turkey,1983,65.7,9070,Turkey,TUR
+Turkey,1984,66.1,9480,Turkey,TUR
+Turkey,1985,66.7,9870,Turkey,TUR
+Turkey,1986,67.2,10500,Turkey,TUR
+Turkey,1987,67.6,11300,Turkey,TUR
+Turkey,1988,68,11600,Turkey,TUR
+Turkey,1989,68.3,11700,Turkey,TUR
+Turkey,1990,68.8,12700,Turkey,TUR
+Turkey,1991,69.3,12500,Turkey,TUR
+Turkey,1992,69.6,13000,Turkey,TUR
+Turkey,1993,70.1,13700,Turkey,TUR
+Turkey,1994,70.4,12900,Turkey,TUR
+Turkey,1995,70.8,13700,Turkey,TUR
+Turkey,1996,71.5,14500,Turkey,TUR
+Turkey,1997,72,15300,Turkey,TUR
+Turkey,1998,72.7,15400,Turkey,TUR
+Turkey,1999,72.8,14700,Turkey,TUR
+Turkey,2000,74.7,15500,Turkey,TUR
+Turkey,2001,75,14400,Turkey,TUR
+Turkey,2002,75.2,15100,Turkey,TUR
+Turkey,2003,75.7,15700,Turkey,TUR
+Turkey,2004,76.3,17000,Turkey,TUR
+Turkey,2005,76.8,18300,Turkey,TUR
+Turkey,2006,77,19300,Turkey,TUR
+Turkey,2007,77.1,20100,Turkey,TUR
+Turkey,2008,77,20000,Turkey,TUR
+Turkey,2009,76.8,18800,Turkey,TUR
+Turkey,2010,76.7,20100,Turkey,TUR
+Turkey,2011,76.8,22000,Turkey,TUR
+Turkey,2012,77,22700,Turkey,TUR
+Turkey,2013,77,24200,Turkey,TUR
+Turkey,2014,77.1,25000,Turkey,TUR
+Turkey,2015,77.4,26000,Turkey,TUR
+Turkey,2016,77.5,26500,Turkey,TUR
+Turkey,2017,77.8,28000,Turkey,TUR
+Turkey,2018,78.1,28400,Turkey,TUR
+Turkey,2019,78.4,28300,Turkey,TUR
+Turkey,2020,77.8,28400,Turkey,TUR
+Turkey,2021,78.9,29800,Turkey,TUR
+Ukraine,1949,66,4180,Ukraine,UKR
+Ukraine,1950,68.2,4540,Ukraine,UKR
+Ukraine,1951,68.3,4500,Ukraine,UKR
+Ukraine,1952,68.5,4720,Ukraine,UKR
+Ukraine,1953,68.7,4860,Ukraine,UKR
+Ukraine,1954,68.9,5020,Ukraine,UKR
+Ukraine,1955,69.2,5370,Ukraine,UKR
+Ukraine,1956,69.3,5790,Ukraine,UKR
+Ukraine,1957,69.5,5820,Ukraine,UKR
+Ukraine,1958,69.7,6160,Ukraine,UKR
+Ukraine,1959,69.9,6000,Ukraine,UKR
+Ukraine,1960,71.1,6460,Ukraine,UKR
+Ukraine,1961,71.1,6760,Ukraine,UKR
+Ukraine,1962,71,6890,Ukraine,UKR
+Ukraine,1963,71.5,6680,Ukraine,UKR
+Ukraine,1964,72.1,7490,Ukraine,UKR
+Ukraine,1965,71.7,7870,Ukraine,UKR
+Ukraine,1966,71.8,8200,Ukraine,UKR
+Ukraine,1967,71.5,8530,Ukraine,UKR
+Ukraine,1968,71.5,8980,Ukraine,UKR
+Ukraine,1969,71.2,9070,Ukraine,UKR
+Ukraine,1970,70.9,9720,Ukraine,UKR
+Ukraine,1971,71,9930,Ukraine,UKR
+Ukraine,1972,71,9920,Ukraine,UKR
+Ukraine,1973,71.1,10700,Ukraine,UKR
+Ukraine,1974,71,10900,Ukraine,UKR
+Ukraine,1975,70.6,11200,Ukraine,UKR
+Ukraine,1976,70.6,11400,Ukraine,UKR
+Ukraine,1977,70.3,11700,Ukraine,UKR
+Ukraine,1978,70,12000,Ukraine,UKR
+Ukraine,1979,69.8,12200,Ukraine,UKR
+Ukraine,1980,69.8,12500,Ukraine,UKR
+Ukraine,1981,69.8,13000,Ukraine,UKR
+Ukraine,1982,70,13500,Ukraine,UKR
+Ukraine,1983,70.1,14200,Ukraine,UKR
+Ukraine,1984,69.8,14600,Ukraine,UKR
+Ukraine,1985,70.3,14600,Ukraine,UKR
+Ukraine,1986,71.7,14800,Ukraine,UKR
+Ukraine,1987,71.4,15300,Ukraine,UKR
+Ukraine,1988,71.3,15600,Ukraine,UKR
+Ukraine,1989,71,16400,Ukraine,UKR
+Ukraine,1990,70.6,15800,Ukraine,UKR
+Ukraine,1991,69.9,14400,Ukraine,UKR
+Ukraine,1992,69.2,13000,Ukraine,UKR
+Ukraine,1993,68.6,11100,Ukraine,UKR
+Ukraine,1994,67.9,8610,Ukraine,UKR
+Ukraine,1995,67,7620,Ukraine,UKR
+Ukraine,1996,67.3,6920,Ukraine,UKR
+Ukraine,1997,67.9,6770,Ukraine,UKR
+Ukraine,1998,68.7,6700,Ukraine,UKR
+Ukraine,1999,68.3,6750,Ukraine,UKR
+Ukraine,2000,68,7220,Ukraine,UKR
+Ukraine,2001,68.2,7970,Ukraine,UKR
+Ukraine,2002,68.1,8470,Ukraine,UKR
+Ukraine,2003,68.3,9350,Ukraine,UKR
+Ukraine,2004,68,10600,Ukraine,UKR
+Ukraine,2005,67.8,11000,Ukraine,UKR
+Ukraine,2006,68.4,11900,Ukraine,UKR
+Ukraine,2007,68.1,12800,Ukraine,UKR
+Ukraine,2008,68.3,13200,Ukraine,UKR
+Ukraine,2009,70,11300,Ukraine,UKR
+Ukraine,2010,70.8,11800,Ukraine,UKR
+Ukraine,2011,71.5,12500,Ukraine,UKR
+Ukraine,2012,71.6,12500,Ukraine,UKR
+Ukraine,2013,71.8,12600,Ukraine,UKR
+Ukraine,2014,71.7,12400,Ukraine,UKR
+Ukraine,2015,72.5,11200,Ukraine,UKR
+Ukraine,2016,72.9,11500,Ukraine,UKR
+Ukraine,2017,73.8,11900,Ukraine,UKR
+Ukraine,2018,73.9,12300,Ukraine,UKR
+Ukraine,2019,73.8,12800,Ukraine,UKR
+Ukraine,2020,73.2,12300,Ukraine,UKR
+Ukraine,2021,74.1,12900,Ukraine,UKR
+Uzbekistan,1949,53.9,2010,Uzbekistan,UZB
+Uzbekistan,1950,56.3,2210,Uzbekistan,UZB
+Uzbekistan,1951,56.6,2210,Uzbekistan,UZB
+Uzbekistan,1952,57.1,2350,Uzbekistan,UZB
+Uzbekistan,1953,57.6,2450,Uzbekistan,UZB
+Uzbekistan,1954,58.1,2560,Uzbekistan,UZB
+Uzbekistan,1955,58.6,2770,Uzbekistan,UZB
+Uzbekistan,1956,59.2,3030,Uzbekistan,UZB
+Uzbekistan,1957,59.8,3080,Uzbekistan,UZB
+Uzbekistan,1958,60.6,3290,Uzbekistan,UZB
+Uzbekistan,1959,60.7,3240,Uzbekistan,UZB
+Uzbekistan,1960,61.1,3530,Uzbekistan,UZB
+Uzbekistan,1961,61.5,3680,Uzbekistan,UZB
+Uzbekistan,1962,61.9,3730,Uzbekistan,UZB
+Uzbekistan,1963,62.2,3600,Uzbekistan,UZB
+Uzbekistan,1964,62.6,4020,Uzbekistan,UZB
+Uzbekistan,1965,63,4200,Uzbekistan,UZB
+Uzbekistan,1966,63.4,4360,Uzbekistan,UZB
+Uzbekistan,1967,63.8,4510,Uzbekistan,UZB
+Uzbekistan,1968,64.2,4730,Uzbekistan,UZB
+Uzbekistan,1969,64.6,4750,Uzbekistan,UZB
+Uzbekistan,1970,64.8,5070,Uzbekistan,UZB
+Uzbekistan,1971,65.1,5150,Uzbekistan,UZB
+Uzbekistan,1972,65.3,5120,Uzbekistan,UZB
+Uzbekistan,1973,65.7,5490,Uzbekistan,UZB
+Uzbekistan,1974,65.9,5310,Uzbekistan,UZB
+Uzbekistan,1975,65.9,5110,Uzbekistan,UZB
+Uzbekistan,1976,66.2,5120,Uzbekistan,UZB
+Uzbekistan,1977,66.5,5030,Uzbekistan,UZB
+Uzbekistan,1978,66.6,4940,Uzbekistan,UZB
+Uzbekistan,1979,66.9,4720,Uzbekistan,UZB
+Uzbekistan,1980,67.5,4530,Uzbekistan,UZB
+Uzbekistan,1981,67.6,4570,Uzbekistan,UZB
+Uzbekistan,1982,67.7,4600,Uzbekistan,UZB
+Uzbekistan,1983,67.8,4610,Uzbekistan,UZB
+Uzbekistan,1984,68,4270,Uzbekistan,UZB
+Uzbekistan,1985,68.4,4200,Uzbekistan,UZB
+Uzbekistan,1986,69.1,3960,Uzbekistan,UZB
+Uzbekistan,1987,69.4,3730,Uzbekistan,UZB
+Uzbekistan,1988,69.3,3850,Uzbekistan,UZB
+Uzbekistan,1989,69.3,3720,Uzbekistan,UZB
+Uzbekistan,1990,69.3,3420,Uzbekistan,UZB
+Uzbekistan,1991,68.9,3330,Uzbekistan,UZB
+Uzbekistan,1992,68.2,2890,Uzbekistan,UZB
+Uzbekistan,1993,67.1,2760,Uzbekistan,UZB
+Uzbekistan,1994,66.2,2560,Uzbekistan,UZB
+Uzbekistan,1995,65.7,2490,Uzbekistan,UZB
+Uzbekistan,1996,65.2,2490,Uzbekistan,UZB
+Uzbekistan,1997,65.4,2570,Uzbekistan,UZB
+Uzbekistan,1998,65.4,2640,Uzbekistan,UZB
+Uzbekistan,1999,65.5,2720,Uzbekistan,UZB
+Uzbekistan,2000,65.1,2790,Uzbekistan,UZB
+Uzbekistan,2001,65.1,2870,Uzbekistan,UZB
+Uzbekistan,2002,65,2940,Uzbekistan,UZB
+Uzbekistan,2003,64.9,3030,Uzbekistan,UZB
+Uzbekistan,2004,64.8,3220,Uzbekistan,UZB
+Uzbekistan,2005,64.5,3410,Uzbekistan,UZB
+Uzbekistan,2006,65,3620,Uzbekistan,UZB
+Uzbekistan,2007,65.3,3900,Uzbekistan,UZB
+Uzbekistan,2008,65.7,4190,Uzbekistan,UZB
+Uzbekistan,2009,66.2,4450,Uzbekistan,UZB
+Uzbekistan,2010,66.5,4650,Uzbekistan,UZB
+Uzbekistan,2011,66.6,4880,Uzbekistan,UZB
+Uzbekistan,2012,66.7,5160,Uzbekistan,UZB
+Uzbekistan,2013,67,5470,Uzbekistan,UZB
+Uzbekistan,2014,67.2,5760,Uzbekistan,UZB
+Uzbekistan,2015,67.3,6090,Uzbekistan,UZB
+Uzbekistan,2016,67.6,6350,Uzbekistan,UZB
+Uzbekistan,2017,67.8,6520,Uzbekistan,UZB
+Uzbekistan,2018,68.1,6760,Uzbekistan,UZB
+Uzbekistan,2019,68.4,7000,Uzbekistan,UZB
+Uzbekistan,2020,68.4,6980,Uzbekistan,UZB
+Uzbekistan,2021,68.7,7200,Uzbekistan,UZB

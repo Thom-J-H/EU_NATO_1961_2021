@@ -1,0 +1,33 @@
+country,joined_NATO,NATO,iso_a3,brk_a3
+Albania,2009,1,ALB,ALB
+Belgium,1949,1,BEL,BEL
+Bulgaria,2004,1,BGR,BGR
+Canada,1949,1,CAN,CAN
+Croatia,2009,1,HRV,HRV
+Czech Republic,1999,1,CZE,CZE
+Denmark,1949,1,DNK,DNK
+Estonia,2004,1,EST,EST
+France,1949,1,FRA,FRA
+Germany,1955,1,DEU,DEU
+Greece,1952,1,GRC,GRC
+Hungary,1999,1,HUN,HUN
+Iceland,1949,1,ISL,ISL
+Italy,1949,1,ITA,ITA
+Latvia,2004,1,LVA,LVA
+Lithuania,2004,1,LTU,LTU
+Luxembourg,1949,1,LUX,LUX
+Montenegro,2017,1,MNE,MNE
+Netherlands,1949,1,NLD,NLD
+North Macedonia,2020,1,MKD,MKD
+Norway,1949,1,NOR,NOR
+Poland,1999,1,POL,POL
+Portugal,1949,1,PRT,PRT
+Romania,2004,1,ROU,ROU
+Slovakia,2004,1,SVK,SVK
+Slovenia,2004,1,SVN,SVN
+Spain,1982,1,ESP,ESP
+Turkey,1952,1,TUR,TUR
+United Kingdom,1949,1,GBR,GBR
+United States,1949,1,USA,USA
+Russia,NA,0,RUS,RUS
+Ukraine,NA,0,UKR,UKR
