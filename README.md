@@ -4,4 +4,6 @@ The data dashboard [EU Nato Theatre: 1961-2021](https://rpubs.com/Thom_JH/EU_NAT
 
 This repository contains the data and base scripts used to construct that dashboard. It does not contain all the files, but would allow one if interested to fully reproduce my results. The plot below is static; the dashboard version, dynamic.
 
+<hr />
+
 ![newplot](https://user-images.githubusercontent.com/12042357/157183192-b1b11bf5-8b11-4616-b40b-c32711b00887.png)
